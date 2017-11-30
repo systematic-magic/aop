@@ -2,7 +2,7 @@
 Sections
 --------
 
-Section titles should comply to below mentioned requiremtns in respect of order, letter case, color and spelling. Also, no variations (except for alternatives explicitrly mentioned in these Standards) are allowed. For example, Standards have "Author contributions" section with no alternatives specified, which means that all other variations (like "Authors' contributions, Author contribution, Contribution of author, etc") are not allowed.
+Section titles should comply to below mentioned requirements in respect of order, letter case, color and spelling. Also, no variations (except for alternatives explicitly mentioned in these Standards) are allowed. For example, Standards have "Author contributions" section with no alternatives specified, which means that all other variations (like "Authors' contributions, Author contribution, Contribution of author, etc") are not allowed.
 
 
 1. Research papers (as well as Special Section Research papers)
@@ -20,19 +20,19 @@ Section titles should comply to below mentioned requiremtns in respect of order,
 
 	CONCLUSIONS - optional - [all caps, in red]
 
-	Abbreviations - optional - [sentance case, in red]
+	Abbreviations - optional - [sentence case, in red]
 
-	Author contributions - optional - [sentance case, in red]
+	Author contributions - optional - [sentence case, in red]
 
 	ACKNOWLEDGMENTS - optional (alternatively can be ACKNOWLEDGMENTS AND FUNDING - in this case there should be no FUNDING section) - [all caps, in red]
 
-	ETHICS STATEMENT - optional - [all caps, in red]
+	Ethics statement - optional - [sentence case, in red]
 
 	CONFLICTS OF INTEREST - mandatory - [all caps, in red]
 
 	FUNDING - optional (alternatively FUNDING SUPPORT, GRANT SUPPORT - if article contains ACKNOWLEDGMENTS AND FUNDING section, then FUNDING section should be removed) - [all caps, in red]
 
-	Editoral note - optional - [sentance case, in red]
+	Editorial note - optional - [sentence case, in red]
 
 	REFERENCES - mandatory - [all caps, in red]
 
@@ -52,38 +52,44 @@ Section titles should comply to below mentioned requiremtns in respect of order,
 
 	CONCLUSIONS - optional - [all caps, in red]
 
-	Abbreviations - optional - [sentance case, in red]
+	Abbreviations - optional - [sentence case, in red]
 
-	Author contributions - optional - [sentance case, in red]
+	Author contributions - optional - [sentence case, in red]
 
 	ACKNOWLEDGMENTS - optional (alternatively can be ACKNOWLEDGMENTS AND FUNDING - in this case there should be no FUNDING section) - [all caps, in red]
 
-	ETHICS STATEMENT - optional - [all caps, in red]
+	Ethics statement - optional - [sentence case, in red]
 
 	CONFLICTS OF INTEREST - mandatory - [all caps, in red]
 
 	FUNDING - optional (alternatively FUNDING SUPPORT, GRANT SUPPORT - if article contains ACKNOWLEDGMENTS AND FUNDING section, then FUNDING section should be removed) - [all caps, in red]
 
-	Editoral note - optional - [sentance case, in red]
+	Editorial note - optional - [sentence case, in red]
 
 	REFERENCES - mandatory - [all caps, in red]
 
 3. Reviews
 	ABSTRACT - mandatory - [all caps, in red]
 
+	INTRODUCTION - mandatory - [all caps, in red]
+
 
 	Reviews usually have free-style (research related) section headers.
 
 
+	Abbreviations - optional - [sentence case, in red]
+
+	Author contributions - optional - [sentence case, in red]
+
 	ACKNOWLEDGMENTS - optional (alternatively can be ACKNOWLEDGMENTS AND FUNDING - in this case there should be no FUNDING section) - [all caps, in red]
 
-	ETHICS STATEMENT - optional - [all caps, in red]
+	Ethics statement - optional - [sentence case, in red]
 
 	CONFLICTS OF INTEREST - mandatory - [all caps, in red]
 
 	FUNDING - optional (alternatively FUNDING SUPPORT, GRANT SUPPORT - if article contains ACKNOWLEDGMENTS AND FUNDING section, then FUNDING section should be removed) - [all caps, in red]
 
-	Editoral note - optional - [sentance case, in red]
+	Editorial note - optional - [sentence case, in red]
 
 	REFERENCES - mandatory - [all caps, in red]
 
@@ -92,10 +98,51 @@ Section titles should comply to below mentioned requiremtns in respect of order,
 
 	REFERENCES - mandatory - [all caps, in red]
 
+
 5. Case reports
+	ABSTRACT - mandatory - [all caps, in red
+	
+	NTRODUCTION - mandatory - [all caps, in red]
+
+	
+	Case reports usually have free-style (research related) section headers. Occasionally case reports can be formatted as regular research papers.
 
 
-6. Meeting reports
+	CASE REPORT - optional - (alternatively CASE PRESENTATION) - [all caps, in red]
+
+	DISCUSSION - optional - [all caps, in red]
+
+	Abbreviations - optional - [sentence case, in red]
+
+	Author contributions - optional - [sentence case, in red]
+
+	CONFLICTS OF INTEREST - mandatory - [all caps, in red]
+
+	FUNDING - optional (alternatively FUNDING SUPPORT, GRANT SUPPORT - if article contains ACKNOWLEDGMENTS AND FUNDING section, then FUNDING section should be removed) - [all caps, in red]
+
+	Editorial note - optional - [sentence case, in red]
+ 
+ 	REFERENCES - mandatory - [all caps, in red]
 
 
-7. Research perspectives
+
+6. Research perspectives and Meeting reports
+	ABSTRACT - mandatory - [all caps, in red]
+	
+
+	Research perspectives and Meeting reports usually have free-style (research related) section headers.
+	
+
+	Abbreviations - optional - [sentence case, in red]
+
+	Author contributions - optional - [sentence case, in red]
+
+	ACKNOWLEDGMENTS - optional (alternatively can be ACKNOWLEDGMENTS AND FUNDING - in this case there should be no FUNDING section) - [all caps, in red]
+
+	CONFLICTS OF INTEREST - mandatory - [all caps, in red]
+
+	FUNDING - optional (alternatively FUNDING SUPPORT, GRANT SUPPORT - if article contains ACKNOWLEDGMENTS AND FUNDING section, then FUNDING section should be removed) - [all caps, in red]
+
+	Editorial note - optional - [sentence case, in red]
+ 	
+ 	REFERENCES - mandatory - [all caps, in red]
