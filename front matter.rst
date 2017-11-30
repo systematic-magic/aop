@@ -107,6 +107,21 @@ If there are several author notes, then each note should have **different** symb
 
 5.2. Check the format of correspondence line. There can be one of few correspondence lines this section.
 
-	- Check that name of author in corresspondence line(s) fully matches name in author list (it should be exact match, i.e. middle initials should also match, if present).
+	- Check that name of author in corresspondence line(s) fully matches name in author list (it should be exact match, i.e. middle name initials should also match, if present).
 
-	- 
+	- Check that author name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
+
+	- Check that correspondence line consists of the following elements in the following order:
+
+		AuthorName, email: email@address.com
+
+	- Check that there are no comma (,) or "or" or other separators between several corresondence lines:
+
+		AuthorNameOne, email: emailone@address.com
+		AuthorNameTwo, email: emailtwo@address.com
+
+	- Check that email addresses are separated by comma, if one author has few email addresses:
+
+		AuthorName, email: emailone@address.com, emailtwo@address.com
+
+	- Check that email address is hyperlinked.
