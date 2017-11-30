@@ -24,10 +24,10 @@ For other Latin terms and gene names either italics or plain text is acceptable.
 Allowed formats:
 
 	- FirstName LastName
-	- FirstName MN. LastName (where MN. are initials of middle names; initials can be up to 4 letters)
-	- FirstName M.N. LastName (where M.N. are initlas of middle names; initials can be up to 4 letters)
-	- F. MiddleName LastName (where F. is an initial of first name)
-	- F. MiddleName MiddleName LastName (where F. is an initial of first name and there can be up to 4 middle names)
+	- FirstName MN. LastName (MN. are initials of middle names; initials can be up to 4 letters)
+	- FirstName M.N. LastName (M.N. are initlas of middle names; initials can be up to 4 letters)
+	- F. MiddleName LastName (F. is an initial of first name)
+	- F. MiddleName MiddleName LastName (F. is an initial of first name and there can be up to 4 middle names)
 
 Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
 
@@ -89,7 +89,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 Author notes are optional. Article can have several or none author notes.
 
-4.1. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: *, †, +, #, $.
+4.1. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: `*, †, +, #, $`.
 If there are several author notes, then each note should have **different** symbol.
 
 4.2. Check that author notes are formatted in supprscript and colored in red.
@@ -100,5 +100,13 @@ If there are several author notes, then each note should have **different** symb
    :alt: Affiliation Numbers
 
 
+5. Correspondence
+-----------------
 
+5.1. Check that correspondence section has a title “Correspondence to:”. It should start with capital letter and be followed by colon (:).
 
+5.2. Check the format of correspondence line. There can be one of few correspondence lines this section.
+
+	- Check that name of author in corresspondence line(s) fully matches name in author list (it should be exact match, i.e. middle initials should also match, if present).
+
+	- 
