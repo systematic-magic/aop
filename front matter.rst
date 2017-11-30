@@ -25,7 +25,7 @@ Allowed formats:
 
 	- FirstName LastName
 	- FirstName MN. LastName (MN. are initials of middle names; initials can be up to 4 letters)
-	- FirstName M.N. LastName (M.N. are initlas of middle names; initials can be up to 4 letters)
+	- FirstName M.N. LastName (M.N. are initials of middle names; initials can be up to 4 letters)
 	- F. MiddleName LastName (F. is an initial of first name) 
 	- F. MiddleName MiddleName LastName (F. is an initial of first name and there can be up to 4 middle names)
 
@@ -117,8 +117,8 @@ If there are several author notes, then each note should have **different** symb
 
 	- Check that there are no comma (,) or "or" or other separators between several corresondence lines:
 
-		AuthorNameOne, email: emailone@address.com
-		AuthorNameTwo, email: emailtwo@address.com
+	|	AuthorNameOne, email: emailone@address.com
+	|	AuthorNameTwo, email: emailtwo@address.com
 
 	- Check that email addresses are separated by comma, if one author has few email addresses:
 
