@@ -5,4 +5,5 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   Section <sections>
+   Sections <sections>
+   Front Matter <front matter>

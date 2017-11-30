@@ -1,5 +1,5 @@
-Title
------
+1. Title
+---------
 
 1.1. Check that title is in sentence case.
 
@@ -8,11 +8,97 @@ Title
 1.3. Check that capitalisation of scientific terms is correct.
 We suggest the you use the following procedure, if in you are in doubt regarding this or that term.
 
-1.2. Check that following Latin terms are written in italics: in vivo, in vitro, in utero, in situ. 
+1.4. Check that following Latin terms are written in italics: in vivo, in vitro, in utero, in situ. 
 For other Latin terms and gene names either italics or plain text is acceptable.
 
 
-Author List
------------
+2. Author List
+--------------
 
-1.1.
+2.1. Check that all author names in Author List are separated by commas (,). No other separators allowed.
+
+2.2. Check that there is no period (or any other punctuation mark) after the last author name.
+
+2.3. Check the format of the author name. 
+
+Allowed formats:
+
+	- FirstName LastName
+	- FirstName MN. LastName (where MN. are initials of middle names; initials can be up to 4 letters)
+	- FirstName M.N. LastName (where M.N. are initlas of middle names; initials can be up to 4 letters)
+	- F. MiddleName LastName (where F. is an initial of first name)
+	- F. MiddleName MiddleName LastName (where F. is an initial of first name and there can be up to 4 middle names)
+
+Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
+
+	- Compound names: Garcia-Closas, Gomez Jimenez
+	- Name related prepositions: Van den Brandt, van der Ent
+	- Suffixes: Williams 3rd, Rowland Jr
+	- Prefixes: McCann, O'Kelly
+	- Mononym: Govindjee
+
+If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
+
+2.4. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers. If there is only one affiliation text for all authors, then each author name should have "1" next to it. 
+
+2.5. Check that all affiliation numbers of the author are separated by commas (,). No other separator is allowed.
+
+2.6. Check that all affiliation numbers of the author are formatted in supprscript and colored in red. See below.
+
+.. image:: /_static/html_affiliation_numbers.png
+   :alt: Affiliation Numbers
+
+
+3. Affiliation text
+-------------------
+
+3.1. Check that each affiliation text contains separate text number (as a rule of thumb, if you see several country names in one affiliation text, then you have several affiliation texts glued together - this should be corrected). One text - one number.
+
+In case you find several affiliation texts for one text number, please contact corresponding author and ask to provide correct affiliation texts and author affiliation numbers.
+
+3.2. Check that affiliation text number is formatted in supprscript and colored in red.
+
+3.3. Check that there are no separators between affiliation text number and affiliation text itself (space is allowed). 
+
+.. image:: /_static/html_affiliation_text_numbers.png
+   :alt: Affiliation Numbers
+
+3.8. Check the format of the affiliation text. Authors are free to have any elements (e.g. e University, School, Department, Lab, Hospital, etc) in any sequence they like. Hoever certain rules apply to affiliation texts:
+
+	- Check that affiliation text contains at least department/division/lab/school and institution.
+
+	- Check that NO street addresses and house numbers are included in affiliation texts.
+
+	- Check that both country and city names are present in affiliation textas.
+
+	- Check that country and city names are NOT written in all CAPS (capital letters).
+
+	- Check USA states. Both full names and abbriviations are allowed. However, they should be used consistently: either all affiliation texts have all states abbreviated or all written in full form. 
+
+	- Check Zip codes. Zip codes are optional element of affiliation texts. However, they should be used consistently: either all affiliation texts have zip codes or none.
+
+	If one or more affiliation texts does not have zip code, then remove zip code from all texts. 
+
+	- Check that only commas are used to separate parts of affiliation text. No other sepator is allowed. Comma after zip code is optional (however it should be used consistently: either all affiliation texts have comma after zip code or none.)
+
+3.9 Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
+
+
+4. Author Notes
+---------------
+
+Author notes are optional. Article can have several or none author notes.
+
+4.1. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: *, †, +, #, $.
+If there are several author notes, then each note should have **different** symbol.
+
+4.2. Check that author notes are formatted in supprscript and colored in red.
+
+4.3. Check that author notes symbol is present next to author name(s).
+
+.. image:: /_static/html_author_notes_symbol.png
+   :alt: Affiliation Numbers
+
+
+
+
