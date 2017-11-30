@@ -23,11 +23,12 @@ For other Latin terms and gene names either italics or plain text is acceptable.
 
 Allowed formats:
 
-|	- FirstName LastName
-|	- FirstName MN. LastName (MN. are initials of middle names; initials can be up to 4 letters)
-|	- FirstName M.N. LastName (M.N. are initials of middle names; initials can be up to 4 letters)
-|	- F. MiddleName LastName (F. is an initial of first name) 
-|	- F. MiddleName MiddleName LastName (F. is an initial of first name and there can be up to 4 middle names)
+	- F. MiddleName MiddleName LastName (F. is an initial of first name and there can be up to 4 middle names)
+	- FirstName LastName
+	- FirstName MN. LastName (MN. are initials of middle names; initials can be up to 4 letters)
+	- FirstName M.N. LastName (M.N. are initials of middle names; initials can be up to 4 letters)
+	- F. MiddleName LastName (F. is an initial of first name) 
+	
 
 Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
 
