@@ -26,7 +26,7 @@ Allowed formats:
 	- FirstName LastName
 	- FirstName MN. LastName (MN. are initials of middle names; initials can be up to 4 letters)
 	- FirstName M.N. LastName (M.N. are initlas of middle names; initials can be up to 4 letters)
-	- F. MiddleName LastName (F. is an initial of first name)
+	- F. MiddleName LastName (F. is an initial of first name) 
 	- F. MiddleName MiddleName LastName (F. is an initial of first name and there can be up to 4 middle names)
 
 Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
@@ -63,7 +63,7 @@ In case you find several affiliation texts for one text number, please contact c
 .. image:: /_static/html_affiliation_text_numbers.png
    :alt: Affiliation Numbers
 
-3.8. Check the format of the affiliation text. Authors are free to have any elements (e.g. e University, School, Department, Lab, Hospital, etc) in any sequence they like. Hoever certain rules apply to affiliation texts:
+3.4. Check the format of the affiliation text. Authors are free to have any elements (e.g. e University, School, Department, Lab, Hospital, etc) in any sequence they like. Hoever certain rules apply to affiliation texts:
 
 	- Check that affiliation text contains at least department/division/lab/school and institution.
 
@@ -81,7 +81,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 	- Check that only commas are used to separate parts of affiliation text. No other sepator is allowed. Comma after zip code is optional (however it should be used consistently: either all affiliation texts have comma after zip code or none.)
 
-3.9 Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
+3.5 Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
 
 
 4. Author Notes
