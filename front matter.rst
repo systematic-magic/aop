@@ -26,8 +26,8 @@ Allowed formats:
 	+  FirstName LastName
 	+  FirstName MN. LastName (MN. are initials of middle names; initials can be up to 4 letters)
 	+  FirstName M.N. LastName (M.N. are initials of middle names; initials can be up to 4 letters)
-	+  F |dot| MiddleName LastName (F. is an initial of first name)
-	+  F&#183; MiddleName MiddleName LastName (F&#xb7; is initial of first name and there can be up to 4 middle names)
+	+  F|dot| MiddleName LastName (F. is an initial of first name)
+	+  F|dot| MiddleName MiddleName LastName (F. is initial of first name and there can be up to 4 middle names)
 
 Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
 
