@@ -207,8 +207,8 @@ Abbreviations are optional.
 
 	- Check that Month is spelled out, and Day and Year are presented in digits. Note that sigle Day digits should be preceeded by 0 (zero). For example:
 
-	|	June 02, 2017
-	|	August 29, 2016
+		|	June 02, 2017
+		|	August 29, 2016
  
  	- Check that there is a comma (,) between Day and Year.
 
