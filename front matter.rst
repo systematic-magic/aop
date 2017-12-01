@@ -73,7 +73,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 	- Check that country and city names are NOT written in all CAPS (capital letters).
 
-	- Check USA states. Both full names and abbriviations are allowed. However, they should be used consistently: either all affiliation texts have all states abbreviated or all states are written in full form. 
+	- Check USA states. Both full names and abbriviations (two capital letters) are allowed. However, they should be used consistently: either all affiliation texts have all states abbreviated or all states are spelled out. 
 
 	- Check zip codes. Zip codes are optional element of affiliation texts. However, they should be used consistently: either all affiliation texts have zip codes or none.
 
@@ -81,7 +81,9 @@ In case you find several affiliation texts for one text number, please contact c
 
 	- Check that only commas are used to separate parts of affiliation text. No other sepator is allowed. Comma after zip code is optional (however it should be used consistently: either all affiliation texts have comma after zip code or none.)
 
-3.5 Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
+3.5. Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
+
+3.6. Check that there are no punctuation marks at the end of abbreviations line(s).
 
 
 4. Author Notes
@@ -92,9 +94,11 @@ Author notes are optional. Article can have several or none author notes.
 4.1. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: \*, †, +, #, $.
 If there are several author notes, then each note should have **different** symbol.
 
-4.2. Check that author notes are formatted in supprscript and colored in red.
+4.2. Check that there are no punctuation marks at the end of author notes line.
 
-4.3. Check that author notes symbol is present next to author name(s).
+4.3. Check that author notes are formatted in supprscript and colored in red.
+
+4.4. Check that author notes symbol is present next to author name(s).
 
 .. image:: /_static/html_author_notes_symbol.png
    :alt: Affiliation Numbers
@@ -144,7 +148,7 @@ If there are several author notes, then each note should have **different** symb
 	
 	- Check that article (except for Special Section articles - see below) has at least 1 and not more than 5 keywords.
 
-	- Have a look at TOC Section Title to check whether article belongs to special section. If Section Title contains any of the words in “Special Section” column of the table below, then it belongs to the Special Section.
+	- Have a look at TOC Section Title to check whether article belongs to special section. If Section Title contains any of the words in "Special Section" column of the table below, then it belongs to the Special Section.
 
 	
 	.. image:: /_static/html_special_section.png
@@ -169,6 +173,51 @@ If there are several author notes, then each note should have **different** symb
 	| Immunology	              | Immunology   | 
 	+-----------------------------+--------------+
 
+	- Check that there are no punctuation marks at the end of keywords line.
+
+
+7. Abbreviations
+----------------
+
+Abbreviations are optional.
+
+7.1. Check that abbreviations section has a title "Abbreviations:". It should start with capital letter and be followed by colon (:).
+
+7.2. Check the format of the abbreviations line:
+
+	- Check that abbreviation part is written in all CAPS and expanded part is in lower case letters (except for proper nouns).
+
+	- Check that abberviation part is separated from expanded part either by comma (,) or colon (:). No other separators allowed.
+
+	- Check that expanded part is separated from other abbreviation by semicolon (;). No other separators allowed.
+
+	- Check that there are no punctuation marks at the end of abbreviations line.
+
+
+8. Dates
+--------
+
+8.1. Check that dates section has titles “Received:”, “Accepted:”, “Published:”. They should start with capital letter and be followed by colon (:).
+
+8.2. Check the format of each date:
+
+	- Check that date has the following format:
+
+		Month Day, Year (where "month" should be spelled out, and day and year presented in digits)
+
+	For example:
+
+		June 02, 2017		(note that single day digits should be preceeded by 0)
+		August 29, 2016
+ 
+ 	- Check that there is a comma (,) between Day and Year.
+
+ 	- Check the spelling of the month.
+
+ 	.. image:: /_static/html_dates_format.png
+   		:alt: Dates format
+
+ 	- Check that Received date is older than Accepted date, and Accepted date is older than Published date (i.e. we cannot publish before we accept, and cannot accept before we receive).
 
 
 
