@@ -7,4 +7,4 @@ Contents
 
    Front Matter <front matter>
 
-   Sec Tions <sections>
+   <sections>
