@@ -130,4 +130,4 @@ If there are several author notes, then each note should have **different** symb
 
 .. |dot| raw:: html
 
-   &middot;
+   &period;
