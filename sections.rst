@@ -8,19 +8,20 @@ If you see any diviations of section naming in articles, please contact authors 
 
 JUMP TO:
 
-	Research papers (as well as Special Section Research papers
-	Clinical Research papers and Meta-Analysis 
-	Reviews
-	Editorials and News
-	Case reports
-	Research perspectives and Meeting reports
-|
+|	:ref:`Research papers (as well as Special Section Research papers<research_papers>`
+|	:ref:`Clinical Research papers and Meta-Analysis<clinical_research_papers>`
+|	:ref:`Reviews<reviews>`
+|	:ref:`Editorials and News<editorials_news>`
+|	:ref:`Case reports<case_reports>`
+|	:ref:`Research perspectives and Meeting reports<research_perspectives>`
+
 
 9.1. Check that article has the following sections in the following order:
 
+.. _research_papers:
 
 	- **Research papers (as well as Special Section Research papers)**
-	
+
 		ABSTRACT - mandatory - [all caps, in red]
 
 		INTRODUCTION - mandatory - [all caps, in red]
@@ -49,6 +50,7 @@ JUMP TO:
 
 		REFERENCES - mandatory - [all caps, in red]
 
+.. _clinical_research_papers:
 
 	- **Clinical Research papers and Meta-Analysis**
 
@@ -82,6 +84,8 @@ JUMP TO:
 
 		REFERENCES - mandatory - [all caps, in red]
 
+.. _reviews:
+
 	- **Reviews**
 
 		ABSTRACT - mandatory - [all caps, in red]
@@ -108,12 +112,15 @@ JUMP TO:
 
 		REFERENCES - mandatory - [all caps, in red]
 
+.. _editorials_news:
+
 	- **Editorials and News**
 
 		Editorials and News usually do not have any sections except:
 
 		REFERENCES - mandatory - [all caps, in red]
 
+.. _case_reports:
 
 	- **Case reports**
 
@@ -145,7 +152,7 @@ JUMP TO:
 
 		REFERENCES - mandatory - [all caps, in red]
 
-
+.. _research_perspectives:
 
 	- **Research perspectives and Meeting reports**
 		
