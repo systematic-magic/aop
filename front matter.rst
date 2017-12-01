@@ -214,6 +214,8 @@ Abbreviations are optional.
 
  	- Check the spelling of the month.
 
+ 	- Check that dates are written in italics.
+
  	.. image:: /_static/html_dates_format.png
    		:alt: Dates format
 
