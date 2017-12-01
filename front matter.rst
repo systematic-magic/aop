@@ -133,7 +133,7 @@ If there are several author notes, then each note should have **different** symb
 
 6.2. Check the format of the keywords line:
 	
-	- Check that capitalisation of scientific terms is correct. We suggest the you use the following procedure, if in you are in doubt regarding this or that term.
+	- Check that keywords are written in lower case, unless proper nouns. Check that capitalisation of scientific terms is correct. We suggest the you use the following procedure, if in you are in doubt regarding this or that term.
 
 	- Check that keywords are separated either by comma (,) or semicolon (;). However use of separators should be consistent: either all keywords are separated by comma or by semicolon. Separators cannot be mixed.
 
@@ -149,7 +149,7 @@ If there are several author notes, then each note should have **different** symb
 	
 	.. image:: /_static/html_special_section.png
    		:alt: Special Section
-
+   	|
 	
 	If article belongs to Special Section, then in addition to 5 general keywords article must have ALL special-section-related keywords. Corresponding keywords you can find in the table below.
 
