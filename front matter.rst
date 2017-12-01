@@ -122,7 +122,7 @@ If there are several author notes, then each note should have **different** symb
 
 	- Check that email addresses are separated by comma, if one author has few email addresses:
 
-		Author Name, email: |uline_strt| emailone@address.com |uline_end| , |uline_strt| emailtwo@address.com |uline_end| 
+		Author Name, email: |uline_strt| emailone@address.com |uline_end|, |uline_strt| emailtwo@address.com |uline_end| 
 
 	- Check that email address is hyperlinked.
 
