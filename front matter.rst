@@ -8,14 +8,14 @@
 1.3. Check that capitalisation of scientific terms is correct.
 We suggest the you use the following procedure, if in you are in doubt regarding this or that term.
 
-1.4. Check that following Latin terms are written in italics: in vivo, in vitro, in utero, in situ. 
+1.4. Check that following Latin terms are written in italics: **in vivo, in vitro, in utero, in situ**. 
 For other Latin terms and gene names either italics or plain text is acceptable.
 
 
 2. Author List
 --------------
 
-2.1. Check that all author names in Author List are separated by commas (,). No other separators allowed.
+2.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
 
 2.2. Check that there is no period (or any other punctuation mark) after the last author name.
 
@@ -31,8 +31,8 @@ Allowed formats:
 
 Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
 
-	- Compound names: Garcia-Closas, Gomez Jimenez
-	- Name related prepositions: Van den Brandt, van der Ent
+	- Compound last names: Garcia-Closas, Gomez Jimenez
+	- Last name related prepositions: Van den Brandt, van der Ent
 	- Suffixes: Williams 3rd, Rowland Jr
 	- Prefixes: McCann, O'Kelly
 	- Mononym: Govindjee
@@ -43,7 +43,7 @@ If you see that author name does not comply to these standards, please contact c
 
 2.5. Check that all affiliation numbers of the author are separated by commas (,). No other separator is allowed.
 
-2.6. Check that all affiliation numbers of the author are formatted in supprscript and colored in red. See below.
+2.6. Check that all affiliation numbers of the author are formatted in superscript and colored in red. See below.
 
 .. image:: /_static/html_affiliation_numbers.png
    :alt: Affiliation Numbers
@@ -52,30 +52,30 @@ If you see that author name does not comply to these standards, please contact c
 3. Affiliation text
 -------------------
 
-3.1. Check that each affiliation text contains separate text number (as a rule of thumb, if you see several country names in one affiliation text, then you have several affiliation texts glued together - this should be corrected). One text - one number.
+3.1. Check that each affiliation text contains separate text number (as a rule of thumb, if you see several country names in one affiliation text, then you have several affiliation texts groupped together - this should be corrected). One text - one number.
 
 In case you find several affiliation texts for one text number, please contact corresponding author and ask to provide correct affiliation texts and author affiliation numbers.
 
-3.2. Check that affiliation text number is formatted in supprscript and colored in red.
+3.2. Check that affiliation text number is formatted in superscript and colored in red.
 
 3.3. Check that there are no separators between affiliation text number and affiliation text itself (space is allowed). 
 
 .. image:: /_static/html_affiliation_text_numbers.png
    :alt: Affiliation Numbers
 
-3.4. Check the format of the affiliation text. Authors are free to have any elements (e.g. e University, School, Department, Lab, Hospital, etc) in any sequence they like. Hoever certain rules apply to affiliation texts:
+3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. e University, School, Department, Lab, Hospital, etc) in any sequence they like. Hoever certain rules apply to affiliation texts:
 
 	- Check that affiliation text contains at least department/division/lab/school and institution.
 
 	- Check that NO street addresses and house numbers are included in affiliation texts.
 
-	- Check that both country and city names are present in affiliation textas.
+	- Check that both country and city names are present in affiliation texts.
 
 	- Check that country and city names are NOT written in all CAPS (capital letters).
 
-	- Check USA states. Both full names and abbriviations are allowed. However, they should be used consistently: either all affiliation texts have all states abbreviated or all written in full form. 
+	- Check USA states. Both full names and abbriviations are allowed. However, they should be used consistently: either all affiliation texts have all states abbreviated or all states are written in full form. 
 
-	- Check Zip codes. Zip codes are optional element of affiliation texts. However, they should be used consistently: either all affiliation texts have zip codes or none.
+	- Check zip codes. Zip codes are optional element of affiliation texts. However, they should be used consistently: either all affiliation texts have zip codes or none.
 
 	If one or more affiliation texts does not have zip code, then remove zip code from all texts. 
 
@@ -89,7 +89,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 Author notes are optional. Article can have several or none author notes.
 
-4.1. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: `*, †, +, #, $`.
+4.1. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: \*, †, +, #, $.
 If there are several author notes, then each note should have **different** symbol.
 
 4.2. Check that author notes are formatted in supprscript and colored in red.
@@ -113,18 +113,24 @@ If there are several author notes, then each note should have **different** symb
 
 	- Check that correspondence line consists of the following elements in the following order:
 
-		AuthorName, email: email@address.com
+		Author Name, email: email@address.com
 
 	- Check that there are no comma (,) or "or" or other separators between several corresondence lines:
 
-	|	AuthorNameOne, email: emailone@address.com
-	|	AuthorNameTwo, email: emailtwo@address.com
+	|	Author Name One, email: emailone@address.com
+	|	Author Name Two, email: emailtwo@address.com
 
 	- Check that email addresses are separated by comma, if one author has few email addresses:
 
-		AuthorName, email: emailone@address.com, emailtwo@address.com
+		Author Name, email: emailone@address.com, emailtwo@address.com
 
 	- Check that email address is hyperlinked.
+
+
+
+
+
+
 
 
 
