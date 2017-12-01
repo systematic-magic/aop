@@ -20,7 +20,6 @@ JUMP TO:
 
 
 	- Research papers (as well as Special Section Research papers)
-
 		ABSTRACT - mandatory - [all caps, in red]
 
 		INTRODUCTION - mandatory - [all caps, in red]
@@ -51,7 +50,6 @@ JUMP TO:
 
 
 	- Clinical Research papers and Meta-Analysis 
-	
 		ABSTRACT - mandatory - [all caps, in red]
 
 		INTRODUCTION - mandatory - [all caps, in red]
@@ -107,15 +105,13 @@ JUMP TO:
 
 		REFERENCES - mandatory - [all caps, in red]
 
-	- Editorials and News
-		
+	- Editorials and News	
 		Editorials and News usually do not have any sections except:
 
 		REFERENCES - mandatory - [all caps, in red]
 
 
-	- Case reports
-		
+	- Case reports	
 		ABSTRACT - mandatory - [all caps, in red
 	
 		INTRODUCTION - mandatory - [all caps, in red]
@@ -147,7 +143,6 @@ JUMP TO:
 
 
 	- Research perspectives and Meeting reports
-	
 		ABSTRACT - mandatory - [all caps, in red]
 	
 
