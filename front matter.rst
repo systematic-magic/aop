@@ -207,8 +207,8 @@ Abbreviations are optional.
 
 	For example:
 
-		June 02, 2017		(note that single day digits should be preceeded by 0)
-		August 29, 2016
+	|	June 02, 2017		(note that single day digits should be preceeded by 0)
+	|	August 29, 2016
  
  	- Check that there is a comma (,) between Day and Year.
 
