@@ -126,9 +126,45 @@ If there are several author notes, then each note should have **different** symb
 
 	- Check that email address is hyperlinked.
 
+6. Keywords
+-----------
+
+6.1. Check that keywords section has a title “Keywords:”. It should start with capital letter and be followed by colon (:).
+
+6.2. Check the format of the keywords line:
+	
+	- Check that capitalisation of scientific terms is correct. We suggest the you use the following procedure, if in you are in doubt regarding this or that term.
+
+	- Check that keywords are separated either by comma (,) or semicolon (;). However use of separators should be consistent: either all keywords are separated by comma or by semicolon. Separators cannot be mixed.
+
+	.. image:: /_static/html_keywords_separator.png
+   :alt: Keywords
+
+	- Check that article (except for Special Section articles - see below) has at least 1 and not more than 5 keywords.
+
+	- Have a look at TOC Section Title to check whether article belongs to special section. If Section Title contains any of the words in “Special Section” column of the table below, then it belongs to the Special Section.
+
+	.. image:: /_static/html_special_section.png
+   :alt: Special Section
+
+	If article belongs to Special Section, then in addition to 5 general keywords article must have ALL special-section-related keywords. Corresponding keywords you can find in the table below.
 
 
-
+	+-----------------------------+--------------+ 
+	| Special Section             | Keywords     | 
+	+=============================+==============+ 
+	| Pathology                   | Pathology    | 
+	+-----------------------------+--------------+ 
+	| Chromosome                  | Chromosome   | 
+	+-----------------------------+--------------+ 
+	| Gerotarget (Focus on Aging) | Gerotarget   | 
+	+-----------------------------+--------------+ 
+	| Autophagy                   | Autophagy    | 
+	+-----------------------------+--------------+ 
+	| Neuroscience	              | Neuroscience | 
+	+-----------------------------+--------------+ 
+	| Immunology	              | Immunology   | 
+	+-----------------------------+--------------+
 
 
 
