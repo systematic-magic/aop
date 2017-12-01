@@ -6,6 +6,9 @@ Section headers should comply to below mentioned requirements in respect of orde
 
 If you see any diviations of section naming in articles, please contact authors and check whether they agree to change section header in question in accordance with these standards.
 
+
+9.1. Check that article has the following sections in the following order:
+
 JUMP TO:
 
 |	:ref:`Research papers (as well as Special Section Research papers<research_papers>`
@@ -15,8 +18,6 @@ JUMP TO:
 |	:ref:`Case reports<case_reports>`
 |	:ref:`Research perspectives and Meeting reports<research_perspectives>`
 
-
-9.1. Check that article has the following sections in the following order:
 
 .. _research_papers:
 
