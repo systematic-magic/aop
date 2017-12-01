@@ -17,6 +17,7 @@ JUMP TO:
 |	:ref:`Case reports<case_reports>`
 |	:ref:`Research perspectives and Meeting reports<research_perspectives>`
 
+.. role:: red
 
 .. _research_papers:
 
@@ -180,7 +181,7 @@ JUMP TO:
 
 
 
-.. role:: red
+
 
 
 
