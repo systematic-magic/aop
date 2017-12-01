@@ -203,7 +203,7 @@ Abbreviations are optional.
 
 	- Check that date has the following format:
 
-		Month Day, Year (where "month" should be spelled out, and day and year presented in digits)
+		Month Day, Year
 
 	- Check that Month is spelled out, and Day and Year are presented in digits. Note that sigle Day digits should be preceeded by 0 (zero). For example:
 
