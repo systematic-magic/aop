@@ -25,31 +25,31 @@ JUMP TO:
 
 		:red:`ABSTRACT` - mandatory - [all caps, in red]
 
-		INTRODUCTION - mandatory - [all caps, in red]
+		:red:`INTRODUCTION` - mandatory - [all caps, in red]
 
-		RESULTS - mandatory - [all caps, in red]
+		:red:`RESULTS` - mandatory - [all caps, in red]
 
-		DISCUSSION - mandatory - [all caps, in red]
+		:red:`DISCUSSION` - mandatory - [all caps, in red]
 
-		METHODS - mandatory (alternatively can be MATERIALS AND METHORDS, PATIENTS AND METHODS, EXPERIMENTAL METHODS - all other alternatives not allowed) - [all caps, in red]
+		:red:`METHODS` - mandatory (alternatively can be :red:`MATERIALS AND METHORDS`, :red:`PATIENTS AND METHODS`, :red:`EXPERIMENTAL METHODS` - all other alternatives not allowed) - [all caps, in red]
 
-		CONCLUSIONS - optional - [all caps, in red]
+		:red:`CONCLUSIONS` - optional - [all caps, in red]
 
-		Abbreviations - optional - [sentence case, in red]
+		:red:`Abbreviations` - optional - [sentence case, in red]
 
-		Author contributions - optional - [sentence case, in red]
+		:red:`Author contributions` - optional - [sentence case, in red]
 
-		ACKNOWLEDGMENTS - optional (alternatively can be ACKNOWLEDGMENTS AND FUNDING - in this case there should be no FUNDING section) - [all caps, in red]
+		:red:`ACKNOWLEDGMENTS` - optional (alternatively can be :red:`ACKNOWLEDGMENTS AND FUNDING` - in this case there should be no :red:`FUNDING section`) - [all caps, in red]
 
-		Ethics statement - optional - [sentence case, in red]
+		:red:`Ethics statement` - optional - [sentence case, in red]
 
-		CONFLICTS OF INTEREST - mandatory - [all caps, in red]
+		:red:`CONFLICTS OF INTEREST` - mandatory - [all caps, in red]
 
-		FUNDING - optional (alternatively FUNDING SUPPORT, GRANT SUPPORT - if article contains ACKNOWLEDGMENTS AND FUNDING section, then FUNDING section should be removed) - [all caps, in red]
+		:red:`FUNDING` - optional (alternatively :red:`FUNDING SUPPORT`, :red:`GRANT SUPPORT` - if article contains :red:`ACKNOWLEDGMENTS AND FUNDING` section, then :red:`FUNDING` section should be removed) - [all caps, in red]
 
-		Editorial note - optional - [sentence case, in red]
+		:red:`Editorial note` - optional - [sentence case, in red]
 
-		REFERENCES - mandatory - [all caps, in red]
+		:red:`REFERENCES` - mandatory - [all caps, in red]
 
 .. _clinical_research_papers:
 
