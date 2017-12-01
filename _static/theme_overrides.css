@@ -7,5 +7,6 @@ body span.caption-text {
 }
 
 body span.red {
-	color: #FF8C69;
+	color: #ac2b31;
+	font-weight: 700;
 }
