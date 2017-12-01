@@ -113,16 +113,16 @@ If there are several author notes, then each note should have **different** symb
 
 	- Check that correspondence line consists of the following elements in the following order:
 
-		Author Name, email: email@address.com
+		Author Name, email: |uline_strt| email@address.com |uline_end| 
 
 	- Check that there are no comma (,) or "or" or other separators between several corresondence lines:
 
-	|	Author Name One, email: emailone@address.com
-	|	Author Name Two, email: emailtwo@address.com
+	|	Author Name One, email: |uline_strt| emailone@address.com |uline_end| 
+	|	Author Name Two, email: |uline_strt| emailtwo@address.com |uline_end| 
 
 	- Check that email addresses are separated by comma, if one author has few email addresses:
 
-		Author Name, email: emailone@address.com, emailtwo@address.com
+		Author Name, email: |uline_strt| emailone@address.com |uline_end| , |uline_strt| emailtwo@address.com |uline_end| 
 
 	- Check that email address is hyperlinked.
 
@@ -137,3 +137,11 @@ If there are several author notes, then each note should have **different** symb
 .. |Fdot| raw:: html
 
    F&period;
+
+.. |uline_strt| raw:: html
+	
+	<u>
+
+.. |uline_end| raw:: html
+	
+	</u>
