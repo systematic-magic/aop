@@ -203,12 +203,12 @@ Abbreviations are optional.
 
 	- Check that date has the following format:
 
-		Month Day, Year
+		**Month Day, Year**
 
 	- Check that Month is spelled out, and Day and Year are presented in digits. Note that sigle Day digits should be preceeded by 0 (zero). For example:
 
-		June 02, 2017 |br|
-		August 29, 2016
+		**June 02, 2017** |br|
+		**August 29, 2016**
  
  	- Check that there is a comma (,) between Day and Year.
 
