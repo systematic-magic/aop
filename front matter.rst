@@ -138,14 +138,14 @@ If there are several author notes, then each note should have **different** symb
 	- Check that keywords are separated either by comma (,) or semicolon (;). However use of separators should be consistent: either all keywords are separated by comma or by semicolon. Separators cannot be mixed.
 
 	.. image:: /_static/html_keywords_separator.png
-   :alt: Keywords
+   		:alt: Keywords
 
 	- Check that article (except for Special Section articles - see below) has at least 1 and not more than 5 keywords.
 
 	- Have a look at TOC Section Title to check whether article belongs to special section. If Section Title contains any of the words in “Special Section” column of the table below, then it belongs to the Special Section.
 
 	.. image:: /_static/html_special_section.png
-   :alt: Special Section
+   		:alt: Special Section
 
 	If article belongs to Special Section, then in addition to 5 general keywords article must have ALL special-section-related keywords. Corresponding keywords you can find in the table below.
 
