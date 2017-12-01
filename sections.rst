@@ -22,7 +22,7 @@ JUMP TO:
 
 	- **Research papers (as well as Special Section Research papers)**
 
-		ABSTRACT - mandatory - [all caps, in red]
+		:red:`ABSTRACT` - mandatory - [all caps, in red]
 
 		INTRODUCTION - mandatory - [all caps, in red]
 
@@ -177,6 +177,11 @@ JUMP TO:
 		Editorial note - optional - [sentence case, in red]
 
 		REFERENCES - mandatory - [all caps, in red]
+
+
+
+.. role:: red
+
 
 
 
