@@ -150,7 +150,6 @@ If there are several author notes, then each note should have **different** symb
 	.. image:: /_static/html_special_section.png
    		:alt: Special Section
    	|
-	
 	If article belongs to Special Section, then in addition to 5 general keywords article must have ALL special-section-related keywords. Corresponding keywords you can find in the table below.
 
 
