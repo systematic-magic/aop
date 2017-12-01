@@ -6,4 +6,4 @@ Contents
    :maxdepth: 2
 
    FrontMatter <front matter>
-   Sections <sections>
+   sections
