@@ -205,10 +205,9 @@ Abbreviations are optional.
 
 		Month Day, Year (where "month" should be spelled out, and day and year presented in digits)
 
-		For example:
 
-	|	June 02, 2017		(note that single day digits should be preceeded by 0)
-	|	August 29, 2016
+		June 02, 2017		(note that single day digits should be preceeded by 0) |br|
+		August 29, 2016
  
  	- Check that there is a comma (,) between Day and Year.
 
@@ -233,3 +232,8 @@ Abbreviations are optional.
 .. |uline_end| raw:: html
 	
 	</u>
+
+
+.. |br| raw:: html
+
+   <br />
