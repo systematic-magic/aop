@@ -183,11 +183,11 @@ JUMP TO:
 +---------------------------------+--------------+-----------------------------+
 | Section                         | Mandatory?   | Format                      |
 +=================================+==============+=============================+
-| ABSTRACT                        | Yes          | all caps, bold, in red      |
+| | ABSTRACT                      | Yes          | all caps, bold, in red      |
 +---------------------------------+--------------+-----------------------------+
-| INTRODUCTION                    | Yes          | all caps, bold, in red      |
+| | INTRODUCTION                  | Yes          | all caps, bold, in red      |
 +---------------------------------+--------------+-----------------------------+
-| DISCUSSION                      | Yes          | all caps, bold, in red      |
+| | DISCUSSION                    | Yes          | all caps, bold, in red      |
 +---------------------------------+--------------+-----------------------------+
 | | METHORDS                      | Yes          | all caps, bold, in red      |
 | |                               |              |                             |
@@ -196,13 +196,13 @@ JUMP TO:
 | | PATIENTS AND METHODS          |              |                             |
 | | EXPERIMENTAL METHODS          |              |                             |
 +---------------------------------+--------------+-----------------------------+
-| CONCLUSIONS                     | No           | all caps, bold, in red      |
+| | CONCLUSIONS                   | No           | all caps, bold, in red      |
 +---------------------------------+--------------+-----------------------------+
-| Abbreviations	                  | No           | sentence case, bold in red] |
+| | Abbreviations	              | No           | sentence case, bold in red] |
 +---------------------------------+--------------+-----------------------------+
-| Author contributions            | No           | sentence case, bold in red] |
+| | Author contributions          | No           | sentence case, bold in red] |
 +---------------------------------+--------------+-----------------------------+
-| Abbreviations	                  | No           | sentence case, bold in red] |
+| | Abbreviations	              | No           | sentence case, bold in red] |
 +---------------------------------+--------------+-----------------------------+
 | | ACKNOWLEDGMENTS               | No           | all caps, bold, in red      |
 | |                               |              |                             |
@@ -211,21 +211,21 @@ JUMP TO:
 | | (in this case there should    |              |                             |
 | | be no FUNDING section)        |              |                             |
 +---------------------------------+--------------+-----------------------------+
-| Ethics statement                | No           | sentence case, bold in red] |
+| | Ethics statement              | No           | sentence case, bold in red] |
 +---------------------------------+--------------+-----------------------------+
-| CONFLICTS OF INTEREST           | Yes          | all caps, bold, in red      |
+| | CONFLICTS OF INTEREST         | Yes          | all caps, bold, in red      |
 +---------------------------------+--------------+-----------------------------+
-|  FUNDING                        | No           | all caps, bold, in red      |
-|                                 |              |                             |
-|  alternatively:                 |              |                             |
-|  FUNDING SUPPORT                |              |                             |
-|  GRANT SUPPORT                  |              |                             |
-|  (if article contains           |              |                             |
-|  ACKNOWLEDGMENTS AND FUNDING    |              |                             |
-|  section, then FUNDING          |              |                             |
-|  section should be removed)     |              |                             |
+| | FUNDING                       | No           | all caps, bold, in red      |
+| |                               |              |                             |
+| | alternatively:                |              |                             |
+| | FUNDING SUPPORT               |              |                             |
+| | GRANT SUPPORT                 |              |                             |
+| | (if article contains          |              |                             |
+| | ACKNOWLEDGMENTS AND FUNDING   |              |                             |
+| | section, then FUNDING         |              |                             |
+| | section should be removed)    |              |                             |
 +---------------------------------+--------------+-----------------------------+
-| Editorial note                  | No           | sentence case, bold in red] |
+| | Editorial note                | No           | sentence case, bold in red] |
 +---------------------------------+--------------+-----------------------------+
-| REFERENCES                      | Yes          | all caps, bold, in red      |
+| | REFERENCES                    | Yes          | all caps, bold, in red      |
 +---------------------------------+--------------+-----------------------------+
