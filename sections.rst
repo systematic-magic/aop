@@ -215,15 +215,15 @@ JUMP TO:
 +---------------------------------+--------------+-----------------------------+
 | CONFLICTS OF INTEREST           | Yes          | all caps, bold, in red      |
 +---------------------------------+--------------+-----------------------------+
-| | FUNDING                       | No           | all caps, bold, in red      |
-| |                               |              |                             |
-| | alternatively:                |              |                             |
-| | FUNDING SUPPORT               |              |                             |
-| | GRANT SUPPORT                 |              |                             |
-| | (if article contains          |              |                             |
-| | ACKNOWLEDGMENTS AND FUNDING   |              |                             |
-| | section, then FUNDING         |              |                             |
-| | section should be removed)    |              |                             |
+|  FUNDING                        | No           | all caps, bold, in red      |
+|                                 |              |                             |
+|  alternatively:                 |              |                             |
+|  FUNDING SUPPORT                |              |                             |
+|  GRANT SUPPORT                  |              |                             |
+|  (if article contains           |              |                             |
+|  ACKNOWLEDGMENTS AND FUNDING    |              |                             |
+|  section, then FUNDING          |              |                             |
+|  section should be removed)     |              |                             |
 +---------------------------------+--------------+-----------------------------+
 | Editorial note                  | No           | sentence case, bold in red] |
 +---------------------------------+--------------+-----------------------------+
