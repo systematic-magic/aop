@@ -47,5 +47,7 @@ If figure is very hard to read, please contact Production team and ask to provid
 	|
 	| `Allowed options:`
 	|
-	| **Figure 2: RPPA data and model pathways.** **A.** RPPA data proteins ratio of s-OS patient vs l-OS patient. **B.** Protein pathways used in the computational analysis: violet nodes are new nodes added to the previous model [9] using RPPA data.
+	| **Figure 2: RPPA data and model pathways.** **A.** RPPA data proteins ratio of s-OS patient vs l-OS patient. **B.** Protein pathways used in the computational analysis: violet nodes are new nodes added to the previous model using RPPA data.
+	|
+	| **Figure 3: Radiographies of a 43-year old male patient.** Tumors in lungs disappeared after 8 cycles of nivolumab. **a.**, **c.** Pre-treatment. **b.**, **d.** Post-treatment.
 
