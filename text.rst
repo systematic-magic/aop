@@ -42,7 +42,7 @@ If figure is very hard to read, please contact Production team and ask to provid
 	|
 	| **Figure 4: Calibration results.** Heat map of the difference of s-OS MIRI and l-OS MIRI for all the proteins and parameters after calibration.
 
-	+ If there are pannels, then there should be description text for each of the pannels. Description text for each of the pannels should be preceeded by pannel letter and period. Pannel letter should be formatted in bold and colored in black.
+	+ If there are pannels, then there should be description text for each of the pannels. Description text should be preceeded by pannel letter and period. Pannel letter should be formatted in bold and colored in black.
 
 	|
 	| `Allowed options:`
