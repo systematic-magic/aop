@@ -15,12 +15,11 @@
 
 If figure is very hard to read, please contact Production team and ask to provide more clear images. If Production team does not have better images, then contact corresponding author.
 
-11.2. Check the format of figure tite and description text. Figure title is mandatory. Description text should be present, if figure has pannels. Otherwise description is optional.
-
+11.2. Check the format of figure tite. Figure title is mandatory.
 		
 	- Check that title has the following format:
 
-	|	**Figure N: Description text in sentence case followed by period.** 
+	|	**Figure N: Title text in sentence case followed by period.** 
 	
 	|	For example:
 
@@ -31,20 +30,22 @@ If figure is very hard to read, please contact Production team and ask to provid
 
 	- Check that title is formatted in bold and colored in black.
 
-	- Check whether figure has pannels:
 
-	+ If there are no pannels, then check that figure description text follows figure title. Check that description text is formatted in plain text and colored in black.
+11.3 Check the format of figure description text. Description text should be present, if figure has pannels. Otherwise description is optional.
 
-			|
-			| For example:
-			|
-			| **Figure 4: Calibration results.** Heat map of the difference of s-OS MIRI and l-OS MIRI for all the proteins and parameters after calibration.
+- Check whether figure has pannels:
 
-	+ If there are pannels, then there should be description text for each of the pannels. Description text for each of the pannels should be preceeded by pannel letter and period. Pannle letter should be formatted in bold and colored in black.
++ If there are no pannels, then check that figure description text follows figure title. Check that description text is formatted in plain text and colored in black.
 
+	|
+	| For example:
+	|
+	| **Figure 4: Calibration results.** Heat map of the difference of s-OS MIRI and l-OS MIRI for all the proteins and parameters after calibration.
 
-			|
-			| Allowed options:
-			|
-			| **Figure 2: RPPA data and model pathways.** **A.** RPPA data proteins ratio of s-OS patient vs l-OS patient. **B.** Protein pathways used in the computational analysis: violet nodes are new nodes added to the previous model [9] using RPPA data.
++ If there are pannels, then there should be description text for each of the pannels. Description text for each of the pannels should be preceeded by pannel letter and period. Pannle letter should be formatted in bold and colored in black.
+
+	|
+	| Allowed options:
+	|
+	| **Figure 2: RPPA data and model pathways.** **A.** RPPA data proteins ratio of s-OS patient vs l-OS patient. **B.** Protein pathways used in the computational analysis: violet nodes are new nodes added to the previous model [9] using RPPA data.
 
