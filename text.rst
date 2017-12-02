@@ -18,13 +18,13 @@ If figure is very hard to read, please contact Production team and ask to provid
 11.2. Check that figure has figure description and supplementary text in the following format:
 
 		
-		- Check that description has "Figure" word, figure number and colon (:). That should be followed by description text in sentance case. Figure description should be formatted in bold and colored in black.
+	- Check that description has "Figure" word, figure number and colon (:). That should be followed by description text in sentance case. Figure description should be formatted in bold and colored in black.
 
 	|	**Figure N: Description text in sentence case followed by period.** 
 	
 	|	For example:
 
-	|	**Figure 2: RPPA data and model pathways. A.**
+	|	**Figure 2: RPPA data and model pathways.**
 	|	**Figure 4: Calibration results.** 
 
 
