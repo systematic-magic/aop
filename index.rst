@@ -7,3 +7,4 @@ Contents
 
    FrontMatter <front matter>
    sections
+   text

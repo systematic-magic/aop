@@ -181,6 +181,26 @@ JUMP TO:
 
 
 
+9.2. Check the format of all subsection headers in the article:
+	
+	- Check that **all** subsection headers in the article are written either in title case or sentence case. Formats cannot be mixed.
+
+	- Check that subsection headers are formatted in bold and colored in black. **No** underlining or italics (except for Latin terms and gene names) are allowed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
