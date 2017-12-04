@@ -76,4 +76,50 @@ If figure is hard to read, please contact Production team and ask to provide mor
 
 11.5. Check that figure numbers are assigned to figures sequentially and there are no gaps in a sequence.
 
+11.6. Check figure callouts in the text:
+
+	- Check the format of figire callouts:
+
+	| Fig. 1
+	| Figure 1
+
+	If figure has pannels, than callout can have a letter (letter case should be the same as on figure image):
+
+	| Fig. 1A
+	| Fig. 1a
+	| Figure 1A
+	| Figure 1a
+
+	Both formats (Fig. and Figure) are acceptable. However, they should be used consitently: either all callouts have "Fig."" or all callouts have "Figure".
+
+	| `Examples:`
+	|
+	| Figure 1
+	| Figure 3C
+	| Figures 3A2 and 3B2
+	| Figures 6 and 7
+	| Figures 9, 10 and 11
+	| Figures 7–8
+
+	| Same combinations with "Fig."
+
+
+	- Check that words "Figure" or "Fig." as well as number (and letter) are hyperlinked.
+
+	- Check that each figure has at least 1 callout in the text.
+
+	If one or more callouts are missing in the text, please contact author.
+
+
+.. Important::
+
+	There is a different format for Supplementary Figures.
+	It is described in Supplementary materials check here.
+
+
+
+
+
+
+
 
