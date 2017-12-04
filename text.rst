@@ -51,9 +51,9 @@ If figure is hard to read, please contact Production team and ask to provide mor
 	|	**A.** or **a.**
 	|	(**A**) or (**a**)
 
-		~ Check that letter case is the same as depicted on figure image. 
+		- Check that letter case is the same as depicted on figure image. 
 
-		~ Check that pannel letter is formatted in bold and colored in black.
+		- Check that pannel letter is formatted in bold and colored in black.
 
 	| `Examples:`
 	|
