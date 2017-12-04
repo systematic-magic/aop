@@ -32,7 +32,7 @@ If figure is hard to read, please contact Production team and ask to provide mor
 
 	- Check that title is in sentance case and followed by period.
 
-	- Check that number and title is formatted in bold and colored in black.
+	- Check that number and title are formatted in bold and colored in black.
 
 
 11.4. Check the format of figure description text. Description text should be present, if figure has pannels. Otherwise description is optional.
@@ -44,18 +44,18 @@ If figure is hard to read, please contact Production team and ask to provide mor
 	|
 	| `For example:`
 	|
-	| **Figure 4: Calibration results.** Heat map of the difference of s-OS MIRI and l-OS MIRI for all the proteins and parameters after calibration.
+	| **Figure 4: Figure title goes here.** This is a figure description in plain text. There can be more than one sentence in a description.
 
-	+ If there are pannels, then there should be description text for each of the pannels. Check that description is formatted in plan text and preceeded by pannel letter. There are 2 allowed standards for pannel letter:
+	+ If there are pannels, then there should be description text for each of the pannels. Check that description is formatted in plan text and preceeded by pannel letter. There are 2 allowed formats for pannel letter:
 	|
 	|	**A.** or **a.**
 	|	(**A**) or (**a**)
 
-		~ Check that letter case is the same as depicted on figure image,
+		~ Check that letter case is the same as depicted on figure image. 
 
 		~ Check that pannel letter is formatted in bold and colored in black.
 
-	| `Allowed options:`
+	| `Examples:`
 	|
 	| **Figure 2: RPPA data and model pathways.** **A.** RPPA data proteins. **B.** Protein pathways.
 	|
@@ -74,6 +74,6 @@ If figure is hard to read, please contact Production team and ask to provide mor
 	| **Figure 3:** The effects of CAG on (**A**) cell viability, (**B**) alanine transaminase (ALT) activity, and (**C**) aspartate transaminase (AST) activity. 
 
 
-11.5. Check figure numbers to be in sequence and --- gaps.
+11.5. Check that figure numbers are assigned to figures sequentially and there are no gaps in a sequence.
 
 
