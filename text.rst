@@ -47,13 +47,13 @@ If figure is hard to read, please contact Production team and ask to provide mor
 	| **Figure 4: Calibration results.** Heat map of the difference of s-OS MIRI and l-OS MIRI for all the proteins and parameters after calibration.
 
 	+ If there are pannels, then there should be description text for each of the pannels. Check that description is formatted in plan text and preceeded by pannel letter. There are 2 allowed standards for pannel letter:
-
+	|
 	|	**A.** or **a.*** 
 	|	(**A**) or (**a**)
 
-		- Check that letter case is the same as depicted on figure image,
+		= Check that letter case is the same as depicted on figure image,
 
-		- Check that pannel letter is formatted in bold and colored in black.
+		= Check that pannel letter is formatted in bold and colored in black.
 
 	| `Allowed options:`
 	|
