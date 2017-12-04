@@ -119,6 +119,44 @@ If figure is hard to read, please contact Production team and ask to provide mor
 
 
 
+11. Figures
+------------
+
+11.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
+
+If image is hard to read, please contact Production team and ask to provide more clear images. If Production team does not have better images, then contact corresponding author.
+
+11.2. Check whether figures have pannel letters. Both lower case and upper case pannel letters are allowed. However, they should be used consistently: either all figures have lower case pannel letters or all have upper case letters. Mix of formats is not allowed.
+
+11.3. Check the figure description text (figure legend):
+
+	- Check that figure legend has a figure number:
+
+		**Figure N:** (where N is a number of the figure)
+
+	- Check thta number is followed by colon (:).
+
+	- Check that figure number is formatted in bold and colored in black.
+
+	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in plain text.
+
+		**Figure 1: First sentence of legend text in sentence case.**
+
+	Check exclusion to this rule: if first sentence contains pannel letters, then it should be formatted in plain text.
+
+		**Figure 2:** First sentence of legend text containing pannel letter (**A**) and letter (**B**) in a sentence case.
+
+	- If figure image has pannel letters, then check that legend text has a decription of each pannel. Description shoud have a corresponding pannel letter in bold.
+
+	There are 2 allowed formats for the pannel letter in legend text (case of letter should match letter case in figure image):
+	|
+	|	**A.** - i.e. letter followed by period (.)
+	|	(**A**) - i.e. letter wrapped in round brackets ()
+
+	| or if image pannel has letters in lower case:
+	|
+	| **a.**
+	| (**a**)
 
 
 
