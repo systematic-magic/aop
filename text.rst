@@ -13,13 +13,18 @@
 
 11.1. Check that figure texts/graphics are clear and can easily be read.
 
-If figure is very hard to read, please contact Production team and ask to provide more clear images. If Production team does not have better images, then contact corresponding author.
+If figure is hard to read, please contact Production team and ask to provide more clear images. If Production team does not have better images, then contact corresponding author.
 
-11.2. Check the format of figure title. Figure title is mandatory. The title should be a single sentence (i.e. it is not allowed to have 2 or more sentances as a title).
+11.2. Check whether figures have pannel letters. Both lower case and upper case pannel letters are allowed. However, they should be used consistently: either all figures have lower case pannel letters or all have upper case letters. Mix of formats is not allowed.
+
+
+11.3. Check the format of figure number and title. The title should be a single sentence (i.e. it is not allowed to have 2 or more sentances as a title). Figure number is mandatory and figure title is optional.
 	
-	- Check that title has the following format:
+	- Check that number and title has the following format:
 
-	|	**Figure N: Title text in sentence case followed by period.** 
+	|	**Figure N: Title text is in sentence case followed by period.** 
+	| OR
+	|	**Figure N.**
 	
 	|	For example:
 
@@ -28,21 +33,26 @@ If figure is very hard to read, please contact Production team and ask to provid
 
 	- Check that title is in sentance case and followed by period.
 
-	- Check that title is formatted in bold and colored in black.
+	- Check that number and title is formatted in bold and colored in black.
 
 
-11.3. Check the format of figure description text. Description text should be present, if figure has pannels. Otherwise description is optional.
+11.4. Check the format of figure description text. Description text should be present, if figure has pannels. Otherwise description is optional.
 
 - Check whether figure has pannels:
 
-	+ If there are no pannels, then check that figure description text follows figure title. Check that description text is formatted in plain text and colored in black.
+	+ If there are no pannels, then check that figure description text follows figure number and title. Check that description text is formatted in plain text.
 
 	|
 	| `For example:`
 	|
 	| **Figure 4: Calibration results.** Heat map of the difference of s-OS MIRI and l-OS MIRI for all the proteins and parameters after calibration.
 
-	+ If there are pannels, then there should be description text for each of the pannels. Description text should be preceeded by pannel letter and period. Pannel letter should be formatted in bold and colored in black.
+	+ If there are pannels, then there should be description text for each of the pannels. Check that description is formatted in plan text and preceeded by pannel letter. There are 2 allowed standards for pannel letter:
+
+		**A.** or **a.*** (letter case should be the same as depicted on figure image)
+		(**A**) or (**a**) 
+
+	Pannel letter should be formatted in bold and colored in black.
 
 	|
 	| `Allowed options:`
@@ -53,8 +63,9 @@ If figure is very hard to read, please contact Production team and ask to provid
 	|
 	| **Figure 3: Radiographies of a 43-year old male patient.** Tumors in lungs disappeared after 8 cycles of nivolumab. **a.**, **c.** Pre-treatment. **b.**, **d.** Post-treatment.
 	|
-	| **Figure 4: PLAG inhibited neutrophil infiltration into CIA joints.** **A.-E.**, A’-E’. Articular joints of rear legs from control, untreated CIA, and treated CIA mice were stained with a neutrophil-specific antibody (NIMP-R14). Images were taken at 40× (A-E), and 200× (A’-E’, B’-C’) magnification. 
+	| **Figure 4: PLAG inhibited neutrophil infiltration into CIA joints.** **A.-E.**, A’-E’. Articular joints of rear legs from control, untreated CIA, and treated CIA mice were stained with a neutrophil-specific antibody (NIMP-R14). Images were taken at 40× (A-E), and 200× (A’-E’, B’-C’) magnification.
+	|
 
-
+11.5. Check figure numbers to be in sequence and --- gaps.
 
 
