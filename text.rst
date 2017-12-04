@@ -48,7 +48,7 @@ If figure is hard to read, please contact Production team and ask to provide mor
 
 	+ If there are pannels, then there should be description text for each of the pannels. Check that description is formatted in plan text and preceeded by pannel letter. There are 2 allowed standards for pannel letter:
 	|
-	|	**A.** or **a.*** 
+	|	**A.** or **a.**
 	|	(**A**) or (**a**)
 
 		~ Check that letter case is the same as depicted on figure image,
@@ -57,14 +57,22 @@ If figure is hard to read, please contact Production team and ask to provide mor
 
 	| `Allowed options:`
 	|
-	| **Figure 2: RPPA data and model pathways.** **A.** RPPA data proteins ratio of s-OS patient vs l-OS patient. **B.** Protein pathways used in the computational analysis: violet nodes are new nodes added to the previous model using RPPA data.
+	| **Figure 2: RPPA data and model pathways.** **A.** RPPA data proteins. **B.** Protein pathways.
 	|
-	| **Figure 2: Effects of ERβ on Apoptosis of TNBC cells.** **A.** and **B.** A protein-based apoptosis array was used to assess the effects of 1 nM E2 treatment (24 hours) of ERβ expressing MDA-MB-231 cells on the expression levels of multiple pro- and anti-apoptotic proteins. 
+	| **Figure 2: Effects of ERβ. ** **A.** and **B.** A protein-based apoptosis array.
 	|
-	| **Figure 3: Radiographies of a 43-year old male patient.** Tumors in lungs disappeared after 8 cycles of nivolumab. **a.**, **c.** Pre-treatment. **b.**, **d.** Post-treatment.
+	| **Figure 3: Radiographies of a 43-year old male patient.** Tumors in lungs disappeared. **a.**, **c.** Pre-treatment. **b.**, **d.** Post-treatment.
 	|
-	| **Figure 4: PLAG inhibited neutrophil infiltration into CIA joints.** **A.-E.**, A’-E’. Articular joints of rear legs from control, untreated CIA, and treated CIA mice were stained with a neutrophil-specific antibody (NIMP-R14). Images were taken at 40× (A-E), and 200× (A’-E’, B’-C’) magnification.
+	| **Figure 4: PLAG inhibited neutrophil infiltration.** **A.-E.**, A’-E’. Articular joints of rear legs.
 	|
+	| **Figure 2: Effects of LPS/AC treatment on hepatocytes.** (**A**) Variations in hepatocyte viability. (**B**) Effect of different concentrations of LPS/AC treatment.
+	| 
+	| **Figure 5: Changes in apoptosis rate in chicken.** (**A**) 10 μg/mL CAG treatment group, and (**B, C**) 100 μg/mL CAG treatment group.
+	|
+	| **Figure 1: Tumor-associated antigen-reactive T cells.** (**B-D**) Cumulative results of IFN-γ ELISpot assays.
+	|
+	| **Figure 3:** The effects of CAG on (**A**) cell viability, (**B**) alanine transaminase (ALT) activity, and (**C**) aspartate transaminase (AST) activity. 
+
 
 11.5. Check figure numbers to be in sequence and --- gaps.
 
