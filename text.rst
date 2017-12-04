@@ -23,7 +23,7 @@ If figure is hard to read, please contact Production team and ask to provide mor
 	- Check that number and title has the following format:
 
 	|	**Figure N: Title text is in sentence case followed by period.** 
-	| OR
+	| 	OR
 	|	**Figure N.**
 	
 	|	For example:
@@ -49,10 +49,10 @@ If figure is hard to read, please contact Production team and ask to provide mor
 
 	+ If there are pannels, then there should be description text for each of the pannels. Check that description is formatted in plan text and preceeded by pannel letter. There are 2 allowed standards for pannel letter:
 
-		**A.** or **a.*** (letter case should be the same as depicted on figure image)
-		(**A**) or (**a**) 
-
-	Pannel letter should be formatted in bold and colored in black.
+	|	**A.** or **a.*** (letter case should be the same as depicted on figure image)
+	|	(**A**) or (**a**) 
+	|
+	| Pannel letter should be formatted in bold and colored in black.
 
 	|
 	| `Allowed options:`
