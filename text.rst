@@ -134,24 +134,35 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	|	**Figure N:** (where N is a number of the figure)
 
-	- Check thta number is followed by colon (:).
+	- Check that number is followed by colon (:).
 
 	- Check that figure number is formatted in bold and colored in black.
 
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in plain text.
 
-	|	**Figure 1: First sentence of legend text in sentence case.**
+	|	**Figure 1: First sentence of legend text in sentence case.** Second sentance and rest of text.
 
 	Check exclusion to this rule: if first sentence contains pannel letters, then it should be formatted in plain text.
 
-	|	**Figure 2:** First sentence of legend text containing pannel letter (**A**) and letter (**B**) in a sentence case.
+	|	**Figure 2:** First sentence of legend text containing pannel letter (**A**) and letter (**B**) in a sentence case. Second sentance and rest of text.
 
-	- If figure image has pannel letters, then check that legend text has a decription of each pannel. Description shoud have a corresponding pannel letter in bold.
+	- If figure image has pannel letters, then check that referene to each pannel is present in figure legend. Reference is denoted by pannel letter and is formatted in bold.
 
-	There are 2 allowed formats for the pannel letter in legend text (case of letter should match letter case in figure image):
+	There are 2 allowed formats for the pannel reference (case of letter should match letter case in figure image):
 
 	|	**A.** or **a.** - i.e. letter followed by period (.)
 	|	(**A**) or (**a**) - i.e. letter wrapped in round brackets ()
+
+	Pannel letters can be combined in different ways in the figure legend text:
+
+	| **A.** and **B.**
+	| **A.**, **B.**
+	| **A.-C.**
+	| (**A and B**)
+	| (**A, B**)
+	| (**A-C**)
+
+	Same variations are allowed for lower case panel letters.
 
 
 
