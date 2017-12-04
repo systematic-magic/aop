@@ -149,7 +149,7 @@ If image is hard to read, please contact Production team and ask to provide more
 	- If figure image has pannel letters, then check that legend text has a decription of each pannel. Description shoud have a corresponding pannel letter in bold.
 
 	There are 2 allowed formats for the pannel letter in legend text (case of letter should match letter case in figure image):
-	|
+
 	|	**A.** - i.e. letter followed by period (.)
 	|	(**A**) - i.e. letter wrapped in round brackets ()
 
