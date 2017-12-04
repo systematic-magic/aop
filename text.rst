@@ -132,7 +132,7 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	- Check that figure legend has a figure number:
 
-		**Figure N:** (where N is a number of the figure)
+	|	**Figure N:** (where N is a number of the figure)
 
 	- Check thta number is followed by colon (:).
 
@@ -140,23 +140,20 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in plain text.
 
-		**Figure 1: First sentence of legend text in sentence case.**
+	|	**Figure 1: First sentence of legend text in sentence case.**
 
 	Check exclusion to this rule: if first sentence contains pannel letters, then it should be formatted in plain text.
 
-		**Figure 2:** First sentence of legend text containing pannel letter (**A**) and letter (**B**) in a sentence case.
+	|	**Figure 2:** First sentence of legend text containing pannel letter (**A**) and letter (**B**) in a sentence case.
 
 	- If figure image has pannel letters, then check that legend text has a decription of each pannel. Description shoud have a corresponding pannel letter in bold.
 
 	There are 2 allowed formats for the pannel letter in legend text (case of letter should match letter case in figure image):
 
-	|	**A.** - i.e. letter followed by period (.)
-	|	(**A**) - i.e. letter wrapped in round brackets ()
+	|	**A.** or **a.** - i.e. letter followed by period (.)
+	|	(**A**) or (**a**) - i.e. letter wrapped in round brackets ()
 
-	| or if image pannel has letters in lower case:
-	|
-	| **a.**
-	| (**a**)
+
 
 
 
