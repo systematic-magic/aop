@@ -59,7 +59,7 @@ If figure is hard to read, please contact Production team and ask to provide mor
 	|
 	| **Figure 2: RPPA data and model pathways.** **A.** RPPA data proteins. **B.** Protein pathways.
 	|
-	| **Figure 2: Effects of ERβ. ** **A.** and **B.** A protein-based apoptosis array.
+	| **Figure 2: Effects of ERβ. A.** and **B.** A protein-based apoptosis array.
 	|
 	| **Figure 3: Radiographies of a 43-year old male patient.** Tumors in lungs disappeared. **a.**, **c.** Pre-treatment. **b.**, **d.** Post-treatment.
 	|
@@ -69,7 +69,7 @@ If figure is hard to read, please contact Production team and ask to provide mor
 	| 
 	| **Figure 5: Changes in apoptosis rate in chicken.** (**A**) 10 μg/mL CAG treatment group, and (**B, C**) 100 μg/mL CAG treatment group.
 	|
-	| **Figure 1: Tumor-associated antigen-reactive T cells.** (**B-D**) Cumulative results of IFN-γ ELISpot assays.
+	| **Figure 1: Tumor-associated antigen-reactive T cells.** (**A-C**) Cumulative results of IFN-γ ELISpot assays.
 	|
 	| **Figure 3:** The effects of CAG on (**A**) cell viability, (**B**) alanine transaminase (ALT) activity, and (**C**) aspartate transaminase (AST) activity. 
 
