@@ -1,8 +1,5 @@
 9. Section headers
 ------------------
-
-**!!! GET ME TO THE NEW CHECK!! **
-
 .. _start_of_check:
 
 Section headers should comply to below mentioned requirements in respect of order, letter case, color and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author contributions" section with no alternatives specified, which means that all other variations (like "Authors' contributions, Author contribution, Contribution of author, etc") are not allowed.
@@ -12,7 +9,7 @@ If you see any diviations of section naming in articles, please contact authors 
 
 9.1. Check that article has the following sections in the following order:
 
-GET ME TO:
+| NAVIGATE TO:
 |	:ref:`Research papers (as well as Special Section Research papers)<research_papers>`
 |	:ref:`Clinical Research papers and Meta-Analysis<clinical_research_papers>`
 |	:ref:`Reviews<reviews>`
@@ -55,7 +52,7 @@ GET ME TO:
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
 
-| GET ME TO:
+| NAVIGATE TO:
 | :ref:`next check<next_check>`
 | :ref:`start of this check<start_of_check>`
 
@@ -93,7 +90,7 @@ GET ME TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-| GET ME TO:
+| NAVIGATE TO:
 | :ref:`next check<next_check>`
 | :ref:`start of this check<start_of_check>`
 
@@ -125,7 +122,7 @@ GET ME TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-| GET ME TO:
+| NAVIGATE TO:
 | :ref:`next check<next_check>`
 | :ref:`start of this check<start_of_check>`
 
@@ -137,7 +134,7 @@ GET ME TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-| GET ME TO:
+| NAVIGATE TO:
 | :ref:`next check<next_check>`
 | :ref:`start of this check<start_of_check>`
 
@@ -173,7 +170,7 @@ GET ME TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-| GET ME TO:
+| NAVIGATE TO:
 | :ref:`next check<next_check>`
 | :ref:`start of this check<start_of_check>`
 

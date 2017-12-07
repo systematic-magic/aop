@@ -1,13 +1,13 @@
 10. Text
 --------
 
-10.1. Check that there is a period (.) at the end of the abstract text.
+10.1. Check that font type and size is consistent across all sections (except for References) of the article. 
 
-10.2. Check MATERIALS AND METHODS section (or its alternatives - see in Section headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
+10.2. Check that there is a period (.) at the end of the abstract text.
 
-10.3. Check that all website addresses are hyperlinked in article text.
+10.3. Check MATERIALS AND METHODS section (or its alternatives - see in Section headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
 
-**!! 10.4. The size of the text should be the same across all article sections. **
+10.4. Check that all website addresses are hyperlinked in article text.
 
 
 11. Figures
@@ -58,7 +58,7 @@ If image is hard to read, please contact Production team and ask to provide more
 
 11.4. Check that figure numbers are assigned to figures sequentially and there are no gaps in a sequence.
 
-** !!!if you see different sequence - chceck with the author"
+If you see that figures are presented on the page not in sequence, then check with corresponding author whether it is possible to put them back in sequence.
 
 11.5. Check figure callouts in the text:
 
@@ -100,4 +100,7 @@ If image is hard to read, please contact Production team and ask to provide more
 	There is a different format for Supplementary Figures.
 	It is described in Supplementary materials check here.
 
+
+12. Tables
+----------
 
