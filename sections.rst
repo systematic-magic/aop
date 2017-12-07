@@ -13,7 +13,6 @@ If you see any diviations of section naming in articles, please contact authors 
 9.1. Check that article has the following sections in the following order:
 
 GET ME TO:
-
 |	:ref:`Research papers (as well as Special Section Research papers)<research_papers>`
 |	:ref:`Clinical Research papers and Meta-Analysis<clinical_research_papers>`
 |	:ref:`Reviews<reviews>`
@@ -56,9 +55,9 @@ GET ME TO:
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
 
-GET ME TO:
-:ref:`next check<next_check>`
-:ref:`start of this check<start_of_check>`
+| GET ME TO:
+| :ref:`next check<next_check>`
+| :ref:`start of this check<start_of_check>`
 
 .. _clinical_research_papers:
 
@@ -94,9 +93,9 @@ GET ME TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-GET ME TO:
-:ref:`next check<next_check>`
-:ref:`start of this check<start_of_check>`
+| GET ME TO:
+| :ref:`next check<next_check>`
+| :ref:`start of this check<start_of_check>`
 
 .. _reviews:
 
@@ -126,9 +125,9 @@ GET ME TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-GET ME TO:
-:ref:`next check<next_check>`
-:ref:`start of this check<start_of_check>`
+| GET ME TO:
+| :ref:`next check<next_check>`
+| :ref:`start of this check<start_of_check>`
 
 .. _editorials_news:
 
@@ -138,9 +137,9 @@ GET ME TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-GET ME TO:
-:ref:`next check<next_check>`
-:ref:`start of this check<start_of_check>`
+| GET ME TO:
+| :ref:`next check<next_check>`
+| :ref:`start of this check<start_of_check>`
 
 .. _case_reports:
 
@@ -174,9 +173,9 @@ GET ME TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-GET ME TO:
-:ref:`next check<next_check>`
-:ref:`start of this check<start_of_check>`
+| GET ME TO:
+| :ref:`next check<next_check>`
+| :ref:`start of this check<start_of_check>`
 
 .. _research_perspectives:
 
