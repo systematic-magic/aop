@@ -8,7 +8,7 @@
 1.3. Check that capitalisation of scientific terms is correct.
 We suggest the you use the following procedure, if in you are in doubt regarding this or that term.
 
-1.4. Check that following Latin terms are written in italics: **in vivo, in vitro, in utero, in situ, via**. 
+1.4. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ, via*. 
 For other Latin terms and gene names either italics or plain text is acceptable.
 
 
