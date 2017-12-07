@@ -7,6 +7,8 @@
 
 10.3. Check that all website addresses are hyperlinked in article text.
 
+**!! 10.4. The size of the text should be the same across all article sections. **
+
 
 11. Figures
 ------------
@@ -47,7 +49,7 @@ If image is hard to read, please contact Production team and ask to provide more
 	| **A.** and **B.**
 	| **A.**, **B.**
 	| **A.-C.**
-	| (**A and B**)
+	| (**A** and **B**)
 	| (**A, B**)
 	| (**A-C**)
 
@@ -55,6 +57,8 @@ If image is hard to read, please contact Production team and ask to provide more
 
 
 11.4. Check that figure numbers are assigned to figures sequentially and there are no gaps in a sequence.
+
+** !!!if you see different sequence - chceck with the author"
 
 11.5. Check figure callouts in the text:
 

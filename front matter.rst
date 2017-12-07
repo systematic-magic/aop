@@ -8,14 +8,14 @@
 1.3. Check that capitalisation of scientific terms is correct.
 We suggest the you use the following procedure, if in you are in doubt regarding this or that term.
 
-1.4. Check that following Latin terms are written in italics: **in vivo, in vitro, in utero, in situ**. 
+1.4. Check that following Latin terms are written in italics: **in vivo, in vitro, in utero, in situ, via**. 
 For other Latin terms and gene names either italics or plain text is acceptable.
 
 
 2. Author List
 --------------
 
-2.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
+2.1. Check that all author names in author list are separated by commas (,). Last two author names in the list can be separated by "and" instead of comma (,). No other separators allowed.
 
 2.2. Check that there is no period (or any other punctuation mark) after the last author name.
 
@@ -27,7 +27,7 @@ Allowed formats:
 	+  FirstName MN. LastName (MN. are initials of middle names; initials can be up to 4 letters)
 	+  FirstName M.N. LastName (M.N. are initials of middle names; initials can be up to 4 letters)
 	+  |Fdot| MiddleName LastName (F. is an initial of first name)
-	+  |Fdot| MiddleName MiddleName LastName (F. is initial of first name and there can be up to 4 middle names)
+	+  |Fdot| MiddleName MiddleName LastName (F. is initial of first name and there can any number of middle names)
 
 Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
 
@@ -36,6 +36,12 @@ Please note that last names can be compound, can have prepositions, suffixes, pr
 	- Suffixes: Williams 3rd, Rowland Jr
 	- Prefixes: McCann, O'Kelly
 	- Mononym: Govindjee
+
+
+.. Important::
+	
+	LastName **cannot** be presented as initial (even if authors insist on this). LastName should always be presented in full.
+
 
 If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
 
@@ -48,11 +54,16 @@ If you see that author name does not comply to these standards, please contact c
 .. image:: /_static/html_affiliation_numbers.png
    :alt: Affiliation Numbers
 
+.. Note::
+	
+	Occassionally you can see a symbol (\*, #, \**, \*** etc) next to the author name together with affiliation number. This sybol is related to Author Notes.
+	Author Notes checks can be found below.
+
 
 3. Affiliation text
 -------------------
 
-3.1. Check that each affiliation text contains separate text number (as a rule of thumb, if you see several country names in one affiliation text, then you have several affiliation texts groupped together - this should be corrected). One text - one number.
+3.1. Check that each affiliation text contains separate text number. If you see an affiliation text containing more than one country, then it is a good indication that you see several affilation texts groupped together. This should be corrected. As a rule of thumb: one affiliation text should have one number.
 
 In case you find several affiliation texts for one text number, please contact corresponding author and ask to provide correct affiliation texts and author affiliation numbers.
 
@@ -91,14 +102,16 @@ In case you find several affiliation texts for one text number, please contact c
 
 Author notes are optional. Article can have several or none author notes.
 
-4.1. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: \*, †, +, #, $.
+4.1. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: \*, †, +, #, \**, \***.
 If there are several author notes, then each note should have **different** symbol.
 
-4.2. Check that there are no punctuation marks at the end of author notes line.
+4.2. Check that author notes line is written in sentence case.
 
-4.3. Check that author notes are formatted in supprscript and colored in red.
+4.3. Check that there are no punctuation marks at the end of author notes line.
 
-4.4. Check that author notes symbol is present next to author name(s).
+4.4. Check that author notes symbols are formatted in supprscript and colored in red.
+
+4.5. Check that author notes symbol is present next to author name(s).
 
 .. image:: /_static/html_author_notes_symbol.png
    :alt: Affiliation Numbers
@@ -146,9 +159,11 @@ If there are several author notes, then each note should have **different** symb
    		:alt: Keywords
    	|
 	
-	- Check that article (except for Special Section articles - see below) has at least 1 and not more than 5 keywords.
+	- Check that article has at least 1 and not more than 5 keywords.
 
-	- Have a look at TOC Section Title to check whether article belongs to special section. If Section Title contains any of the words in "Special Section" column of the table below, then it belongs to the Special Section.
+	`Exception:` if article belongs to Special section (see below), then there can be additional special-section-related keywords (i.e. check that article has from 1 to 5 "general" keywords and all special section keywords).
+
+	- Have a look at TOC Section Title to check whether article belongs to Special section. If Section Title contains any of the words in "Special Section" column of the table below, then it belongs to the Special Section.
 
 	
 	.. image:: /_static/html_special_section.png
@@ -192,6 +207,9 @@ Abbreviations are optional.
 	- Check that expanded part is separated from other abbreviation by semicolon (;). No other separators allowed.
 
 	- Check that there are no punctuation marks at the end of abbreviations line.
+
+
+7.3. Check that there are not more than 5 abbreviation pairs (i.e. abbreviation and expanded text). If there are more than 5 pairs, ask production to move all abbreviations in an article text as an "Abbreviations" section.
 
 
 8. Dates
