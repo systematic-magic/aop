@@ -59,7 +59,7 @@ GET ME TO:
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
 
-GET ME TO: :ref:` next check.<next_check>`
+GET ME TO:  :ref:` next check.<next_check>`
 
 
 .. _clinical_research_papers:
