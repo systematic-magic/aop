@@ -3,7 +3,7 @@
 
 **!!! GET ME TO THE NEW CHECK!! **
 
-
+.. _start_of_check:
 
 Section headers should comply to below mentioned requirements in respect of order, letter case, color and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author contributions" section with no alternatives specified, which means that all other variations (like "Authors' contributions, Author contribution, Contribution of author, etc") are not allowed.
 
@@ -56,8 +56,9 @@ GET ME TO:
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
 
-GET ME TO:  :ref:` next check.<next_check>`
-
+GET ME TO:
+:ref:`next check<next_check>`
+:ref:`start of this check<start_of_check>`
 
 .. _clinical_research_papers:
 
@@ -93,7 +94,9 @@ GET ME TO:  :ref:` next check.<next_check>`
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-GET ME TO: :ref:` next check.<next_check>`
+GET ME TO:
+:ref:`next check<next_check>`
+:ref:`start of this check<start_of_check>`
 
 .. _reviews:
 
@@ -114,7 +117,7 @@ GET ME TO: :ref:` next check.<next_check>`
 		:red:`ACKNOWLEDGMENTS` - optional (alternatively can be :red:`ACKNOWLEDGMENTS AND FUNDING` - in this case there should be no FUNDING section) - [all caps, in red]
 
 		:red:`Ethics statement` - optional - [sentence case, in red] - (can be present as Subheader in :red:`METHODS` section, as a Subheader it should be bold, in sentence case and in black)
-		
+
 		:red:`CONFLICTS OF INTEREST` - mandatory - [all caps, in red]
 
 		:red:`FUNDING` - optional (alternatively :red:`FUNDING SUPPORT`, :red:`GRANT SUPPORT` - if article contains :red:`ACKNOWLEDGMENTS AND FUNDING` section, then :red:`FUNDING` section should be removed) - [all caps, in red]
@@ -123,7 +126,9 @@ GET ME TO: :ref:` next check.<next_check>`
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-GET ME TO: :ref:` next check.<next_check>`
+GET ME TO:
+:ref:`next check<next_check>`
+:ref:`start of this check<start_of_check>`
 
 .. _editorials_news:
 
@@ -133,7 +138,9 @@ GET ME TO: :ref:` next check.<next_check>`
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-:ref:`Get me to the next check.<next_check>`
+GET ME TO:
+:ref:`next check<next_check>`
+:ref:`start of this check<start_of_check>`
 
 .. _case_reports:
 
@@ -167,7 +174,9 @@ GET ME TO: :ref:` next check.<next_check>`
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-GET ME TO: :ref:` next check.<next_check>`
+GET ME TO:
+:ref:`next check<next_check>`
+:ref:`start of this check<start_of_check>`
 
 .. _research_perspectives:
 
