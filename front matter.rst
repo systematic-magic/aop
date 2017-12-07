@@ -157,7 +157,6 @@ If there are several author notes, then each note should have **different** symb
 	
 	.. image:: /_static/html_keywords_separator.png
    		:alt: Keywords
-   	|
 	
 	- Check that article has at least 1 and not more than 5 keywords.
 
