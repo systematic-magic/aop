@@ -45,10 +45,7 @@ GET ME TO:
 
 		:red:`ACKNOWLEDGMENTS` - optional (alternatively can be :red:`ACKNOWLEDGMENTS AND FUNDING` - in this case there should be no :red:`FUNDING section`) - [all caps, in red]
 
-		:red:`Ethics statement` - optional - [sentence case, in red]
-
-**!!! Ethitcs statement !!! *** in materials and methods
-
+		:red:`Ethics statement` - optional - [sentence case, in red] - (can be present as Subheader in :red:`METHODS` section, as a Subheader it should be bold, in sentence case and in black)
 
 		:red:`CONFLICTS OF INTEREST` - mandatory - [all caps, in red]
 
@@ -86,7 +83,7 @@ GET ME TO:  :ref:` next check.<next_check>`
 
 		:red:`ACKNOWLEDGMENTS` - optional (alternatively can be :red:`ACKNOWLEDGMENTS AND FUNDING` - in this case there should be no :red:`FUNDING` section) - [all caps, in red]
 
-		:red:`Ethics statement` - optional - [sentence case, in red]
+		:red:`Ethics statement` - optional - [sentence case, in red] - (can be present as Subheader in :red:`METHODS` section, as a Subheader it should be bold, in sentence case and in black)
 
 		:red:`CONFLICTS OF INTEREST` - mandatory - [all caps, in red]
 
@@ -116,8 +113,8 @@ GET ME TO: :ref:` next check.<next_check>`
 
 		:red:`ACKNOWLEDGMENTS` - optional (alternatively can be :red:`ACKNOWLEDGMENTS AND FUNDING` - in this case there should be no FUNDING section) - [all caps, in red]
 
-		:red:`Ethics statement` - optional - [sentence case, in red]
-
+		:red:`Ethics statement` - optional - [sentence case, in red] - (can be present as Subheader in :red:`METHODS` section, as a Subheader it should be bold, in sentence case and in black)
+		
 		:red:`CONFLICTS OF INTEREST` - mandatory - [all caps, in red]
 
 		:red:`FUNDING` - optional (alternatively :red:`FUNDING SUPPORT`, :red:`GRANT SUPPORT` - if article contains :red:`ACKNOWLEDGMENTS AND FUNDING` section, then :red:`FUNDING` section should be removed) - [all caps, in red]
@@ -160,7 +157,7 @@ GET ME TO: :ref:` next check.<next_check>`
 
 		:red:`ACKNOWLEDGMENTS` - optional (alternatively can be :red:`ACKNOWLEDGMENTS AND FUNDING` - in this case there should be no :red:`FUNDING` section) - [all caps, in red]
 
-		:red:`Ethics statement` - optional - [sentence case, in red]
+		:red:`Ethics statement` - optional - [sentence case, in red] - (can be present as Subheader in :red:`METHODS` section, as a Subheader it should be bold, in sentence case and in black)
 
 		:red:`CONFLICTS OF INTEREST` - mandatory - [all caps, in red]
 
@@ -188,7 +185,7 @@ GET ME TO: :ref:` next check.<next_check>`
 
 		:red:`ACKNOWLEDGMENTS` - optional (alternatively can be :red:`ACKNOWLEDGMENTS AND FUNDING` - in this case there should be no :red:`FUNDING section`) - [all caps, in red]
 
-		:red:`Ethics statement` - optional - [sentence case, in red]
+		:red:`Ethics statement` - optional - [sentence case, in red] - (can be present as Subheader in :red:`METHODS` section, as a Subheader it should be bold, in sentence case and in black)
 
 		:red:`CONFLICTS OF INTEREST` - mandatory - [all caps, in red]
 
