@@ -12,7 +12,7 @@ If you see any diviations of section naming in articles, please contact authors 
 
 9.1. Check that article has the following sections in the following order:
 
-JUMP TO:
+GET ME TO:
 
 |	:ref:`Research papers (as well as Special Section Research papers)<research_papers>`
 |	:ref:`Clinical Research papers and Meta-Analysis<clinical_research_papers>`
@@ -59,7 +59,7 @@ JUMP TO:
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
 
-:ref:`Get me to the next check.<next_check>`
+GET ME TO: :ref:` next check.<next_check>`
 
 
 .. _clinical_research_papers:
@@ -96,7 +96,7 @@ JUMP TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-:ref:`Get me to the next check.<next_check>`
+GET ME TO: :ref:` next check.<next_check>`
 
 .. _reviews:
 
@@ -126,7 +126,7 @@ JUMP TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-:ref:`Get me to the next check.<next_check>`
+GET ME TO: :ref:` next check.<next_check>`
 
 .. _editorials_news:
 
@@ -160,7 +160,7 @@ JUMP TO:
 
 		:red:`ACKNOWLEDGMENTS` - optional (alternatively can be :red:`ACKNOWLEDGMENTS AND FUNDING` - in this case there should be no :red:`FUNDING` section) - [all caps, in red]
 
-		:red:`Ethics statement - optional - [sentence case, in red]
+		:red:`Ethics statement` - optional - [sentence case, in red]
 
 		:red:`CONFLICTS OF INTEREST` - mandatory - [all caps, in red]
 
@@ -170,7 +170,7 @@ JUMP TO:
 
 		:red:`REFERENCES` - mandatory - [all caps, in red]
 
-:ref:`Get me to the next check.<next_check>`
+GET ME TO: :ref:` next check.<next_check>`
 
 .. _research_perspectives:
 
