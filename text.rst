@@ -246,7 +246,8 @@ Author list is a list of authors in the reference. Author list should always end
 	.. image:: /_static/html_group_authorship3.png
 		:alt: Group Authorship
 
-
+	| OR
+	|
 	| no more than 14 authors.
 	|
 	| no more than 14 authors, Group Authorship
