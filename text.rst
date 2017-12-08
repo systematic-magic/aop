@@ -231,6 +231,7 @@ Author list is a list of authors in the reference. Author list should always end
 14A.2. Check the format of author list:
 
 	| no more than 13 authors, et al.
+	|
 	| no more than 13 authors, et al, Group Authorship 
 	|	(comma as a separator between et al and Group Authorship)
 	| no more than 13 authors, et al; Group Authorship 
