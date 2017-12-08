@@ -43,7 +43,8 @@ Author list is a list of authors in the reference. Author list should always end
 	|	(comma as a separator between et al and Group Authorship)
 	| exactly 13 authors, et al; Group Authorship 
 	|	(semicolon as a separator between et al and Group Authorship)
-	
+
+
 	.. image:: /_static/html_author_number.png
 		:alt: Number of authors
 
@@ -74,7 +75,8 @@ Author list is a list of authors in the reference. Author list should always end
 		:alt: Group Authorship
 
 
-	There can be "and" before Group Authorship (though it is optional). In both cases (with or without "and") there should be a separator (comma or semicolon) before "and".
+	There can be "and" before Group Authorship. Check that there is a separator (comma or semicolon) before "and".
+
 
 	- Check that Group Authorship is positioned at the end of author list. Other positions are not allowed.
 
@@ -93,7 +95,7 @@ Author list is a list of authors in the reference. Author list should always end
 Citation data is a part of a reference, which contains Jounal Title, year, volume, pages and doi.
 
 
-14.2.1. Check that citation data has correct journal title:
+14.2.1. Check that citation data has correct journal title. The following titles are allowed:
 
 	| Oncotarget
 	| Oncoscience 
@@ -138,8 +140,31 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 			:alt: Citation Data
 
 
-14.2.3.
+14.2.3. Check for references to articles in Advance Publications. These references can be distinguished by having full date (2016 Jul 19) instead of just year and/or having [Epub ahead of print] note (see image below).
+
+.. image:: /_static/html_cit_dat_ahead_of_print.png
+	:alt: Ahead of Print
 		
+	- Check whether those references were moved from Advance Publications section to specific issue and have full-citation data available:
+
+	Go to corresponding article page on Oncotarget site and check whether article page contains full citation-data (year; volume: pages).
+
+.. image:: /_static/html_cit_dat_check.png
+	:alt: Adavance Publications check
+
+		+ If full citation data is present, then suggest correction to include full citation-data to the reference.
+		
+		.. image:: /_static/html_cit_dat_corrections.png
+			:alt: Adavance Publications corrections
+
+		**OR**
 
 
+		.. image:: /_static/html_cit_dat_no_full_cit_data.png
+			:alt: Full citation data
+		
+		+ If full citation data is not present on article page, then leave references as it is. No action is necessary.
+		
+		.. image:: /_static/html_cit_dat_ahead_of_print.png
+			:alt: Ahead of Print
 
