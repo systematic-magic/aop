@@ -16,6 +16,13 @@ Plain text
 
 Figure pannel
 
+en dash
+
+Figure pannels
+
+Group Authorship
+
+
 
 How to check whether term, keyword etc is in correct case
 	1. Search article text for the term in question. Most likely you will find few instances, which will give you understanding regarding correct capitalisation. If this is not the case, check next points.

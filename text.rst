@@ -97,10 +97,174 @@ If you see that figures are presented on the page not in sequence, then check wi
 
 .. Important::
 
-	There is a different format for Supplementary Figures.
-	It is described in Supplementary materials check here.
+	There is a different callouts format for Supplementary Figures.
+	It is described in Supplementary Materials Check here.
 
 
 12. Tables
 ----------
+
+12.1.  Check that table font size is large enough to read.
+
+If table is hard to read, please contact Production team and ask to increase font size.
+
+12.2. Check table title:
+
+	- Check that there is a tite above the table.
+
+	- Check that title has table number:
+
+	| **Table N:** (where N is a number of the table)
+
+	In rare cases table number can contain a letter:
+
+	| **Table 1A:** (where Table 1A and 1B, 1C etc are separate tables)
+
+	- Check that number is followed by colon (:).
+
+	- Check that table number is formatted in bold and colored in black.
+
+	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentance as a table title.
+
+	| **Table 2: Table title in a sentence case.**
+
+	- Check that title does not have period (.) at the end.
+
+	- Check that title is written in sentence case, formatted in bold and colored in black.
+
+12.3. Check that table-related additional information is presented below the table as a note in plain text.
+
+12.4. Check that table font, title font and notes (additional information) fonts are used consistetly within the article (i.e. font should not vary from table to table).
+
+12.5. Check that table numbers are assigned to tables sequentially and there are no gaps in a sequence.
+
+If you see that tables are presented on the page not in sequence, then check with corresponding author whether it is possible to put them back in sequence.
+
+12.5. Check table callouts in the text:
+
+	- Check the format of table callouts:
+
+	| Table 1 (or in rare cases Table 1A)
+	|
+	| `Examples:`
+	|
+	| Table 1
+	| Table 2A
+	| Table 1 and 2
+	| Table 1A and 1B
+
+	- Check that word "Table" as well as number (and letter) are hyperlinked.
+
+	- Check that each table has at least 1 callout in the text.
+
+	If one or more callouts are missing in the text, please contact author.
+
+.. Important::
+
+	There is a different callouts format for Supplementary Tables.
+	It is described in Supplementary Materials Check here.
+
+
+13. Reference Callouts
+----------------------
+
+13.1. Check reference callouts in the text:
+
+	- Check the format of reference callouts:
+
+	| [N] (where N is the order number of the corresponding reference)
+	|	
+	| `Examples:`
+	|
+	| [1]
+	| [1, 2]
+	| [1–3]
+	| [1, 3-4]
+
+	- Check that only comma (,) and en dash (-) are used as a separators. No other separators are allowed. 
+
+	- Check that there is a space after comma (,) and no space before and after en dash (-).
+
+	- Check that reference callouts are in plain text and a number (or numbers in case of ranges) is hyperlinked.
+
+13.2. Check that callout number for each of the references is present in the text or is covered in the range of nunbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
+
+13.3. Check that there are no "orphaned" callouts (i.e. callout numbers for the references which do not exist). E.g. if you see callout [50] and there are only 40 references in the article, then callout [50] is "orphaned" and should be removed.
+
+
+14. References
+--------------
+Rererences checks are quite complex due to high number of possible variations. Therfore we have split reference checks into two parts:
+
+| Author list
+| Citation data
+| Garbage
+
+14A. Author List
+=================
+
+Author list is a list of authors in the reference. Author list should always end with period (.).
+
+14A.1. Check the format of author names in the autor list:
+
+	| Lastname INIT (where INIT is initials of the author, no more than 4 letters)
+	|
+	| `Examples:`
+	| Rini B
+	| Escudier BI
+	| Loo SCJ
+	| Wang KHCN
+
+	| Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
+	|
+	| Compound last names: Garcia-Closas, Gomez Jimenez
+	| Last name related prepositions: Van den Brandt, van der Ent
+	| Suffixes: Williams 3rd, Rowland Jr
+	| Prefixes: McCann, O'Kelly
+	| Mononym: Govindjee
+
+
+	- Check that initials have no more than 4 letters and have **no** hyphens or spaces in-between.
+
+	- Check that mononym (names which have no initials) is “true” mononym, rather being Lasname with missed initials. Check PubMed site, if in doubt.
+
+14A.2. Check whether author list contains Group Authorship.
+
+	- If list of authors does not contain Group Authorship, then check that number of authors names in author list is either:
+
+	|	* no more than 13, if followed by comma (,) et al and period (.)
+	|	* no more than 14, if followed by period (.)
+
+	.. image:: /_static/html_author_etal_number.png
+   		:alt: Number of authors
+
+
+   	- If list of authors contains Group Authorship, then check that Group Authorship is located at the very end of the author list and separated from the author list either by comma (,) or semicolon (;). Check that number of author names in author list is either:
+
+   	|	* no more than 13, if followed by comma (,) et al, comma (,) and Group Authorship
+	|	* no more than 14, if followed by comma (,) and Group Authorship
+	| or same format, but with semicolon (;)
+	|   * no more than 13, if followed by comma (,) et al, semicolon (;) and Group Authorship
+	|	* no more than 14, if followed by semicolon (;) and Group Authorship
+
+	"And" is optional before the Group Authorship. In both cases (with or without "and") there should be a separator (comma or semicolon) before "and".
+
+	.. image:: /_static/html_group_authorship1.png
+		:alt: Group Authorship
+
+	.. image:: /_static/html_group_authorship2.png
+		:alt: Group Authorship
+
+	.. image:: /_static/html_group_authorship3.png
+		:alt: Group Authorship
+
+	.. image:: /_static/html_group_authorship4.png
+		:alt: Group Authorship
+
+
+
+
+
+	
+
 
