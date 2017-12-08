@@ -7,12 +7,12 @@ Rererences checks are quite complex due to high number of possible variations. T
 | Citation data - other journals
 | Garbage
 
-14a. Author List
+14.1. Author List
 =================
 
 Author list is a list of authors in the reference. Author list should always end with period (.).
 
-14a.1. Check the format of author names in the autor list:
+14.1.1. Check the format of author names in the autor list:
 
 	| Lastname INIT (where INIT is initials of the author, no more than 4 letters)
 	|
@@ -35,7 +35,7 @@ Author list is a list of authors in the reference. Author list should always end
 
 	- Check that mononym (names which have no initials) is “true” mononym, rather being Lasname with missed initials. Check PubMed site, if in doubt.
 
-14a.2. Check the format of author list. The following options are acceptable:
+14.1.2. Check the format of author list. The following options are acceptable:
 
 	| exactly 13 authors, et al.
 	|
@@ -83,7 +83,7 @@ Author list is a list of authors in the reference. Author list should always end
 	- Author list should be formated as plain text.
 
 
-14b. Citation Data (in-house)
+14.2. Citation Data (in-house)
 =============================
 
 .. ATTENTION::
@@ -93,7 +93,7 @@ Author list is a list of authors in the reference. Author list should always end
 Citation data is a part of a reference, which contains Jounal Title, year, volume, pages and doi.
 
 
-14b.1. Check that citation data has correct journal title:
+14.2.1. Check that citation data has correct journal title:
 
 	| Oncotarget
 	| Oncoscience 
@@ -102,7 +102,7 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 	This is the only acceptable spelling. No variations are allowed.
 
-14b.2. Check that citation data has the following elements in the following order:
+14.2.2. Check that citation data has the following elements in the following order:
 
 	| Journal Title. year; volume: page numbers. doi.
 	|
@@ -135,8 +135,10 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 		If doi is missing, then you should chose doi format for corrections based on the format of other doi present in the article. I.e. the format of doi should be consistent across all the references in the article.
 
 		.. image:: /_static/html_citaiton_data.png
-		:alt: Citation Data
+			:alt: Citation Data
 
+
+14.2.3.
 		
 
 
