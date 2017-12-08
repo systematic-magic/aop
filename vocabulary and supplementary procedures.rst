@@ -22,6 +22,7 @@ Figure pannels
 
 Group Authorship
 
+el al.
 
 
 How to check whether term, keyword etc is in correct case
