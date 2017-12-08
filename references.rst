@@ -31,7 +31,7 @@ Author list is a list of authors in the reference. Author list should always end
 	| Mononym: Govindjee
 
 
-	- Check that initials have no more than 4 letters and have **no** hyphens or spaces in-between.
+	- Check that initials have no more than 4 letters and have **no** hyphens (-) or spaces in-between.
 
 	- Check that mononym (names which have no initials) is “true” mononym, rather being Lasname with missed initials. Check PubMed site, if in doubt.
 
@@ -142,15 +142,16 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 14.2.3. Check for references to articles in Advance Publications. These references can be distinguished by having full date (2016 Jul 19) instead of just year and/or having [Epub ahead of print] note (see image below).
 
-.. image:: /_static/html_cit_dat_ahead_of_print.png
-	:alt: Ahead of Print
+
+	.. image:: /_static/html_cit_dat_ahead_of_print.png
+		:alt: Ahead of Print
 		
 	- Check whether those references were moved from Advance Publications section to specific issue and have full-citation data available:
 
 	Go to corresponding article page on Oncotarget site and check whether article page contains full citation-data (year; volume: pages).
 
-.. image:: /_static/html_cit_dat_check.png
-	:alt: Adavance Publications check
+	.. image:: /_static/html_cit_dat_check.png
+		:alt: Adavance Publications check
 
 		+ If full citation data is present, then suggest correction to include full citation-data to the reference.
 		
