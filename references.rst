@@ -35,7 +35,7 @@ Author list is a list of authors in the reference. Author list should always end
 
 	- Check that mononym (names which have no initials) is “true” mononym, rather being Lasname with missed initials. Check PubMed site, if in doubt.
 
-14a.2. Check the format of author list:
+14a.2. Check the format of author list. The following options are acceptable:
 
 	| exactly 13 authors, et al.
 	|
@@ -90,10 +90,10 @@ Author list is a list of authors in the reference. Author list should always end
 	
 	This section is applicable ONLY to in-house journals: **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
 
-Citation data is a part of a reference, which contains Jounal Name, year, volume, pages and DOI.
+Citation data is a part of a reference, which contains Jounal Title, year, volume, pages and doi.
 
 
-14b.1. Check that citation data has correct name of the journal:
+14b.1. Check that citation data has correct journal title:
 
 	| Oncotarget
 	| Oncoscience 
@@ -102,6 +102,32 @@ Citation data is a part of a reference, which contains Jounal Name, year, volume
 
 	This is the only acceptable spelling. No variations are allowed.
 
-14b.2. Check that citation data has the following format:
+14b.2. Check that citation data has the following elements in the following order:
+
+	| Journal Title. year; volume: page numbers. doi.
+	|
+	| `Example`
+	|
+	| Oncotarget. 2017; 8:4218–27. http://doi.org/10.18632/oncotarget.13906.
+	| Aging (Albany NY). 2015; 7:609-10. doi: 10.18632/aging.100804.
+	| Genes Cancer. 2010; 1:1100-14. doi: 10.1177/1947601910396213.
+	| Oncoscience. 2016; 3:58-70. https://doi.org/10.18632/oncoscience.292.
+
+	- Check the format of each element:
+
+		+ Journal title should be followed by period (.). There should be a space after period.
+
+		+ Year shoudl be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
+
+		+ Volume should be one or more digits and should be followed by colon (:). There can be a space after colon (but this is not mandatory).
+
+		+ Page numbers can be in either in short (12063-74) of full (12063-12074) format and should be followed by period (.). There should be a space after period.
+
+		+ DOI should be present. There are 2 allowed formats of doi:
+
+			| https://doi.org/ ... 
+			| doi: ...
+
+		If doi is missing, then you should chose doi format for corrections based on the format of other doi present in the article. I.e. the format of doi should be consistent across all the references in the article.
 
 
