@@ -8,3 +8,4 @@ Contents
    FrontMatter <front matter>
    sections
    text
+   references
