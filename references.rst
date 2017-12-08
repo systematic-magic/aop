@@ -123,11 +123,21 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 		+ Page numbers can be in either in short (12063-74) of full (12063-12074) format and should be followed by period (.). There should be a space after period.
 
-		+ DOI should be present. There are 2 allowed formats of doi:
+		+ DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
 
-			| https://doi.org/ ... 
-			| doi: ...
+			| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
+			| doi: ... (e.g. doi: 10.1177/1947601910396213.)
+
+		+ DOI shoud should be hyperlinked if in https://doi.org/ format.
+
+		+ DOI can be followed by period (but this is not mandatory).
 
 		If doi is missing, then you should chose doi format for corrections based on the format of other doi present in the article. I.e. the format of doi should be consistent across all the references in the article.
+
+		.. image:: /_static/html_citaiton_data.png
+		:alt: Citation Data
+
+		
+
 
 
