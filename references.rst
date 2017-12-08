@@ -80,7 +80,28 @@ Author list is a list of authors in the reference. Author list should always end
 
 	- Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after Group Authorship (if present).
 
+	- Author list should be formated as plain text.
+
 
 14b. Citation Data (in-house)
 =============================
+
+.. ATTENTION::
+	
+	This section is applicable ONLY to in-house journals: **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
+
+Citation data is a part of a reference, which contains Jounal Name, year, volume, pages and DOI.
+
+
+14b.1. Check that citation data has correct name of the journal:
+
+	| Oncotarget
+	| Oncoscience 
+	| Aging (Albany NY)
+	| Genes Cancer
+
+	This is the only acceptable spelling. No variations are allowed.
+
+14b.2. Check that citation data has the following format:
+
 
