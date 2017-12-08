@@ -152,3 +152,21 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 | Go to corresponding article page on Oncotarget site and check whether article page contains full citation-data (year; volume: pages).
 
+	.. image:: /_static/html_cit_dat_check.png
+		:alt: Adavance Publications check
+
+	+ If full citation data is present, then suggest correction to include full citation-data to the reference.
+
+	.. image:: /_static/html_cit_dat_corrections.png
+		:alt: Adavance Publications corrections
+
+	**OR**
+
+
+	.. image:: /_static/html_cit_dat_no_full_cit_data.png
+		:alt: Full citation data
+
+	+ If full citation data is not present on article page, then leave references as it is. No action is necessary.
+
+	.. image:: /_static/html_cit_dat_ahead_of_print.png
+		:alt: Ahead of Print
