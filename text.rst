@@ -248,8 +248,11 @@ Author list is a list of authors in the reference. Author list should always end
 
 
 	| no more than 14 authors.
-	| no more than 14 authors, Group Authorship (comma as a separator between author list and Group Authorship) 
-	| no more than 14 authors; Group Authorship (semicolon as a separator between author list and Group Authorship)
+	|
+	| no more than 14 authors, Group Authorship
+	|	(comma as a separator between author list and Group Authorship) 
+	| no more than 14 authors; Group Authorship 
+	|	(semicolon as a separator between author list and Group Authorship)
 
 
 	.. image:: /_static/html_author_etal_number.png
@@ -265,47 +268,10 @@ Author list is a list of authors in the reference. Author list should always end
 
 	There can be "and" before Group Authorship (though it is optional). In both cases (with or without "and") there should be a separator (comma or semicolon) before "and".
 
+	- Check that Group Authorship is positioned at the end of author list. Other positions are not allowed.
+
+	- Check that there is a period (.) either after the last author name (if there are 14 authors), or after et al (if there are 13 authors + et al), or after Group Authorship (if present).
 
 
-
-
-Check whether author list contains Group Authorship.
-
-	- If list of authors does not contain Group Authorship, then check that number of authors names in author list is either:
-
-	|	* no more than 13, if followed by comma (,) et al and period (.)
-	|	* no more than 14, if followed by period (.)
-
-	.. image:: /_static/html_author_etal_number.png
-   		:alt: Number of authors
-
-
-   	- If list of authors contains Group Authorship, then check that Group Authorship is located at the very end of the author list and separated from the author list either by comma (,) or semicolon (;). Check that number of author names in author list is either:
-
-   	|	* no more than 13, if followed by comma (,) et al, comma (,) and Group Authorship
-	|	* no more than 14, if followed by comma (,) and Group Authorship
-	| or same format, but with semicolon (;)
-	|   * no more than 13, if followed by comma (,) et al, semicolon (;) and Group Authorship
-	|	* no more than 14, if followed by semicolon (;) and Group Authorship
-
-	"And" is optional before the Group Authorship. In both cases (with or without "and") there should be a separator (comma or semicolon) before "and".
-
-	.. image:: /_static/html_group_authorship1.png
-		:alt: Group Authorship
-
-	.. image:: /_static/html_group_authorship2.png
-		:alt: Group Authorship
-
-	.. image:: /_static/html_group_authorship3.png
-		:alt: Group Authorship
-
-	.. image:: /_static/html_group_authorship4.png
-		:alt: Group Authorship
-
-
-
-
-
-	
 
 
