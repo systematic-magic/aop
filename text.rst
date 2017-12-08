@@ -200,12 +200,12 @@ Rererences checks are quite complex due to high number of possible variations. T
 | Citation data
 | Garbage
 
-14A. Author List
+14a. Author List
 =================
 
 Author list is a list of authors in the reference. Author list should always end with period (.).
 
-14A.1. Check the format of author names in the autor list:
+14a.1. Check the format of author names in the autor list:
 
 	| Lastname INIT (where INIT is initials of the author, no more than 4 letters)
 	|
@@ -228,13 +228,13 @@ Author list is a list of authors in the reference. Author list should always end
 
 	- Check that mononym (names which have no initials) is “true” mononym, rather being Lasname with missed initials. Check PubMed site, if in doubt.
 
-14A.2. Check the format of author list:
+14a.2. Check the format of author list:
 
-	| no more than 13 authors, et al.
+	| exactly 13 authors, et al.
 	|
-	| no more than 13 authors, et al, Group Authorship 
+	| exactly 13 authors, et al, Group Authorship 
 	|	(comma as a separator between et al and Group Authorship)
-	| no more than 13 authors, et al; Group Authorship 
+	| exactly 13 authors, et al; Group Authorship 
 	|	(semicolon as a separator between et al and Group Authorship)
 	
 	.. image:: /_static/html_author_number.png
@@ -248,11 +248,11 @@ Author list is a list of authors in the reference. Author list should always end
 
 	| OR
 	|
-	| no more than 14 authors.
+	| less or equal to 14 authors.
 	|
-	| no more than 14 authors, Group Authorship
+	| less or equal to 14 authors, Group Authorship
 	|	(comma as a separator between author list and Group Authorship) 
-	| no more than 14 authors; Group Authorship 
+	| less or equal to 14 authors; Group Authorship 
 	|	(semicolon as a separator between author list and Group Authorship)
 
 
@@ -271,7 +271,7 @@ Author list is a list of authors in the reference. Author list should always end
 
 	- Check that Group Authorship is positioned at the end of author list. Other positions are not allowed.
 
-	- Check that there is a period (.) either after the last author name (if there are 14 authors), or after et al (if there are 13 authors + et al), or after Group Authorship (if present).
+	- Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after Group Authorship (if present).
 
 
 
