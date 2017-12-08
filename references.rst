@@ -168,3 +168,4 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 		.. image:: /_static/html_cit_dat_ahead_of_print.png
 			:alt: Ahead of Print
 
+
