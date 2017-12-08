@@ -231,8 +231,10 @@ Author list is a list of authors in the reference. Author list should always end
 14A.2. Check the format of author list:
 
 	| no more than 13 authors, et al.
-	| no more than 13 authors, et al, Group Authorship (comma as a separator between et al and Group Authorship)
-	| no more than 13 authors, et al; Group Authorship (semicolon as a separator between et al and Group Authorship)
+	| no more than 13 authors, et al, Group Authorship 
+	|	(comma as a separator between et al and Group Authorship)
+	| no more than 13 authors, et al; Group Authorship 
+	|	(semicolon as a separator between et al and Group Authorship)
 	
 	.. image:: /_static/html_author_number.png
 		:alt: Number of authors
@@ -244,13 +246,10 @@ Author list is a list of authors in the reference. Author list should always end
 		:alt: Group Authorship
 
 
-
-
 	| no more than 14 authors.
 	| no more than 14 authors, Group Authorship (comma as a separator between author list and Group Authorship) 
 	| no more than 14 authors; Group Authorship (semicolon as a separator between author list and Group Authorship)
 
-	There can be "and" before Group Authorship (though it is optional). In both cases (with or without "and") there should be a separator (comma or semicolon) before "and".
 
 	.. image:: /_static/html_author_etal_number.png
 		:alt: Number of authors
@@ -261,6 +260,10 @@ Author list is a list of authors in the reference. Author list should always end
 
 	.. image:: /_static/html_group_authorship4.png
 		:alt: Group Authorship
+
+
+	There can be "and" before Group Authorship (though it is optional). In both cases (with or without "and") there should be a separator (comma or semicolon) before "and".
+
 
 
 
