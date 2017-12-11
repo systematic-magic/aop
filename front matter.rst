@@ -21,7 +21,7 @@ For other Latin terms and gene names either italics or plain text is acceptable.
 
 .. image:: /_static/html_author_list_separ.png
    :alt: Author list separators
-   :scale: 40%
+   :scale: 35%
 
 
 2.3. Check the format of the author name. 
@@ -53,13 +53,13 @@ If you see that author name does not comply to these standards, please contact c
 2.4. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers. If there is only one affiliation text for all authors, then each author name should have "1" next to it. 
 
 .. image:: /_static/html_aff_texts_and_authors.png
-	:scale: 40%
+	:scale: 35%
 	:alt: Affiliation texts and authors
    
 
 .. image:: /_static/html_one_affiliation_all_auth.png
    :alt: One affiliation for all authors
-   :scale: 40%
+   :scale: 35%
 
 2.5. Check that all affiliation numbers of the author are separated by commas (,). No other separator is allowed.
 
