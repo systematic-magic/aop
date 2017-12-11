@@ -104,6 +104,10 @@ In case you find several affiliation texts for one text number, please contact c
 
 	- Check that only commas are used to separate parts of affiliation text. No other sepator is allowed. Comma after zip code is optional (however it should be used consistently: either all affiliation texts have comma after zip code or none.)
 
+.. image:: /_static/html_aff_format.png
+   :alt: Affiliation format
+
+
 3.5. Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
 
 3.6. Check that there are no punctuation marks at the end of abbreviations line(s).
