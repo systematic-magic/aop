@@ -81,7 +81,7 @@ If you see that author name does not comply to these standards, please contact c
 
 .. image:: /_static/html_2_texts_1_number.png
    :alt: One affiliation for all authors
-   :scale: 35%
+   :scale: 40%
 
 
 In case you find several affiliation texts for one text number, please contact corresponding author and ask to provide correct affiliation texts and author affiliation numbers.
