@@ -81,7 +81,7 @@ If you see that author name does not comply to these standards, please contact c
 
 .. image:: /_static/html_2_texts_1_number.png
    :alt: One affiliation for all authors
-   :scale: 40%
+   :scale: 45%
 
 
 In case you find several affiliation texts for one text number, please contact corresponding author and ask to provide correct affiliation texts and author affiliation numbers.
@@ -109,7 +109,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 	If one or more affiliation texts does not have zip code, then remove zip code from all texts. 
 
-	- Check that only commas are used to separate parts of affiliation text. No other sepator is allowed. Comma before/after zip code is optional (however it should be used consistently: either all affiliation texts have comma before/after zip code or none.)
+	- Check that only commas are used to separate parts of affiliation text. No other sepator is allowed. Zip code can be separated from state or city name by space (however it should be used consistently: either space used for zip codes in all affiliations or in none).
 
 .. image:: /_static/html_aff_format.png
    :alt: Affiliation format
