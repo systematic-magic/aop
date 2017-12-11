@@ -115,8 +115,9 @@ In case you find several affiliation texts for one text number, please contact c
 
 	- Check that only commas are used to separate parts of affiliation text. No other sepator is allowed. Zip code can be separated from state or city name by space (however it should be used consistently: either space used for zip codes in all affiliations or in none).
 
-.. image:: /_static/html_aff_format.png
-   :alt: Affiliation format
+.. image:: /_static/html_aff_text_structure.png
+   :alt: Affiliation text structure
+   :scale: 40%
 
 
 3.5. Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
