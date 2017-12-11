@@ -105,6 +105,10 @@ In case you find several affiliation texts for one text number, please contact c
 
 	- Check USA states. Both full names and abbriviations (two capital letters) are allowed. However, they should be used consistently: either all affiliation texts have all states abbreviated or all states are spelled out. 
 
+	.. image:: /_static/html_usa_state_name.png
+	   :alt: Affiliation Numbers
+	   :scale: 45%
+	
 	- Check zip codes. Zip codes are optional element of affiliation texts. However, they should be used consistently: either all affiliation texts have zip codes or none.
 
 	If one or more affiliation texts does not have zip code, then remove zip code from all texts. 
