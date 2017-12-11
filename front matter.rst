@@ -79,6 +79,11 @@ If you see that author name does not comply to these standards, please contact c
 
 3.1. Check that each affiliation text contains separate text number. If you see an affiliation text containing more than one country, then it is a good indication that you see several affilation texts groupped together. This should be corrected. As a rule of thumb: one affiliation text should have one number.
 
+.. image:: /_static/html_2_texts_1_number.png
+   :alt: One affiliation for all authors
+   :scale: 35%
+
+
 In case you find several affiliation texts for one text number, please contact corresponding author and ask to provide correct affiliation texts and author affiliation numbers.
 
 3.2. Check that affiliation text number is formatted in superscript and colored in red.
