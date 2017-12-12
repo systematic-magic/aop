@@ -173,7 +173,7 @@ If there are several author notes, then each note should have **different** symb
 
 	- Check that correspondence line consists of the following elements in the following order:
 
-		:sample:`Author Name, email:` :und:`email@address.com`
+	|	:sample:`Author Name, email:` :und:`email@address.com`
 
 	- Check that there are no comma (,) or "or" or other separators between several corresondence lines:
 
@@ -182,7 +182,7 @@ If there are several author notes, then each note should have **different** symb
 
 	- Check that email addresses are separated by comma, if one author has few email addresses:
 
-		:sample:`Author Name, email:` :und:`emailone@address.com`, :und:`emailtwo@address.com`
+	|	:sample:`Author Name, email:` :und:`emailone@address.com`, :und:`emailtwo@address.com`
 
 	- Check that email address is hyperlinked.
 
