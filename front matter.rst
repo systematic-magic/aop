@@ -149,8 +149,8 @@ If there are several author notes, then each note should have **different** symb
 4.5. Check that author notes symbol is present next to author name(s).
 
 .. image:: /_static/html_author_notes.png
-   :alt: Author Notes
-
+   	:alt: Author Notes
+	:scale: 70%
 
 5. Correspondence
 -----------------
