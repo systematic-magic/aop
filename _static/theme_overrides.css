@@ -14,6 +14,7 @@ body span.red {
 
 body span.und {
 	text-decoration: underline;
+	text-decoration-color: blue;
 }
 
 body span.sample {
