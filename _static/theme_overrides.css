@@ -13,11 +13,13 @@ body span.red {
 
 
 body span.und {
+	color: #4074c8;
 	text-decoration: underline;
-	text-decoration-color: blue;
+	text-decoration-color: #4074c8;
 }
 
 body span.sample {
 	font-family: monospace;
+	font-size: 12px;
 	font-weight: 700;
 }
