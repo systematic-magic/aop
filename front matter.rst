@@ -125,6 +125,10 @@ In case you find several affiliation texts for one text number, please contact c
 
 3.5. Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
 
+.. image:: /_static/html_current_address.png
+	:alt: Affiliation text structure
+
+
 3.6. Check that there are no punctuation marks at the end of abbreviations line(s).
 
 
