@@ -21,7 +21,7 @@ For other Latin terms and gene names either italics or plain text is acceptable.
 
 .. image:: /_static/html_author_list_separ.png
    :alt: Author list separators
-   :scale: 50%
+   :scale: 60%
 
 
 2.3. Check the format of the author name. 
