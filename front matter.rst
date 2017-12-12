@@ -177,7 +177,7 @@ If there are several author notes, then each note should have **different** symb
 
 	- Check that there are no comma (,) or "or" or other separators between several corresondence lines:
 
-	:sample:`Author Name One, email:` :und:`emailone@address.com` 
+	| Author Name One, email:	:und:`emailone@address.com` 
 	|	Author Name Two, email: |uline_strt| emailtwo@address.com |uline_end| 
 
 	- Check that email addresses are separated by comma, if one author has few email addresses:
