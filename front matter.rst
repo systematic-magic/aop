@@ -53,13 +53,13 @@ If you see that author name does not comply to these standards, please contact c
 2.4. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers. If there is only one affiliation text for all authors, then each author name should have "1" next to it. 
 
 .. image:: /_static/html_aff_texts_and_authors.png
-	:scale: 35%
+	:scale: 60%
 	:alt: Affiliation texts and authors
    
 
 .. image:: /_static/html_one_affiliation_all_auth.png
    :alt: One affiliation for all authors
-   :scale: 35%
+   :scale: 60%
 
 2.5. Check that all affiliation numbers of the author are separated by commas (,). No other separator is allowed.
 
@@ -81,7 +81,7 @@ If you see that author name does not comply to these standards, please contact c
 
 .. image:: /_static/html_2_texts_1_number.png
    :alt: One affiliation for all authors
-   :scale: 45%
+   :scale: 55%
 
 
 In case you find several affiliation texts for one text number, please contact corresponding author and ask to provide correct affiliation texts and author affiliation numbers.
@@ -90,7 +90,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 3.3. Check that there are no separators between affiliation text number and affiliation text itself (space is allowed). 
 
-.. image:: /_static/html_affiliation_text_numbers.png
+.. image:: /_static/html_affiliation_text_numbers_new.png
    :alt: Affiliation Numbers
 
 3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. e University, School, Department, Lab, Hospital, etc) in any sequence they like. Hoever certain rules apply to affiliation texts:
@@ -107,7 +107,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 	.. image:: /_static/html_usa_state_name.png
 	   :alt: Affiliation Numbers
-	   :scale: 45%
+	   :scale: 60%
 	
 	- Check zip codes. Zip codes are optional element of affiliation texts. However, they should be used consistently: either all affiliation texts have zip codes or none.
 
@@ -117,7 +117,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 	.. image:: /_static/html_aff_text_structure.png
 	   :alt: Affiliation text structure
-	   :scale: 45%
+	   :scale: 60%
 
 
 3.5. Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
