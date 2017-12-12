@@ -10,3 +10,13 @@ body span.red {
 	color: #ac2b31;
 	font-weight: 700;
 }
+
+
+body span.u {
+	text-decoration: underline;
+}
+
+body span.sample {
+	font-family: monospace;
+	font-weight: 700;
+}

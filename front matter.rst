@@ -150,7 +150,12 @@ If there are several author notes, then each note should have **different** symb
 
 .. image:: /_static/html_author_notes.png
    	:alt: Author Notes
-	:scale: 40%
+	:scale: 50%
+
+
+.. role:: u
+
+.. role:: sample
 
 5. Correspondence
 -----------------
@@ -169,7 +174,7 @@ If there are several author notes, then each note should have **different** symb
 
 	- Check that there are no comma (,) or "or" or other separators between several corresondence lines:
 
-	|	Author Name One, email: |uline_strt| emailone@address.com |uline_end| 
+	|	:sample:`Author Name One, email: ` :u:`emailone@address.com` 
 	|	Author Name Two, email: |uline_strt| emailtwo@address.com |uline_end| 
 
 	- Check that email addresses are separated by comma, if one author has few email addresses:
