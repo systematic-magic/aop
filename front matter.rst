@@ -121,7 +121,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 	.. image:: /_static/html_aff_text_structure_non-us.png
 	   :alt: Affiliation text structure
-	   :scale: 40%
+	   :scale: 50%
 
 3.5. Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
 
@@ -148,8 +148,8 @@ If there are several author notes, then each note should have **different** symb
 
 4.5. Check that author notes symbol is present next to author name(s).
 
-.. image:: /_static/html_author_notes_symbol.png
-   :alt: Affiliation Numbers
+.. image:: /_static/html_author_notes.png
+   :alt: Author Notes
 
 
 5. Correspondence
