@@ -138,6 +138,8 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 12.5. Check that table numbers are assigned to tables sequentially and there are no gaps in a sequence.
 
+***!!! Check with audio to paraphrase ***
+
 If you see that tables are presented on the page not in sequence, then check with corresponding author whether it is possible to put them back in sequence.
 
 12.5. Check table callouts in the text:
@@ -152,6 +154,10 @@ If you see that tables are presented on the page not in sequence, then check wit
 	| Table 2A
 	| Table 1 and 2
 	| Table 1A and 1B
+
+
+
+	*** !!! TABLES 1 adn 2 ***
 
 	- Check that word "Table" as well as number (and letter) are hyperlinked.
 

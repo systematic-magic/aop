@@ -37,6 +37,9 @@ Author list is a list of authors in the reference. Author list should always end
 
 14.1.2. Check the format of author list. The following options are acceptable:
 
+
+*** !!! Can be any number of authors ***
+
 	| exactly 13 authors, et al.
 	|
 	| exactly 13 authors, et al, Group Authorship 
@@ -50,6 +53,9 @@ Author list is a list of authors in the reference. Author list should always end
 
 	.. image:: /_static/html_group_authorship1.png
 		:alt: Group Authorship
+
+
+*** !!!! Move this screenshot to 14 authors ***
 
 	.. image:: /_static/html_group_authorship3.png
 		:alt: Group Authorship
