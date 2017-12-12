@@ -203,7 +203,8 @@ If there are several author notes, then each note should have **different** symb
 	
 	- Check that article has at least 1 and not more than 5 keywords.
 
-	`Exception:` if article belongs to Special section (see below), then there can be additional special-section-related keywords (i.e. check that article has from 1 to 5 "general" keywords and all special section keywords).
+| `Exception:` 
+| If article belongs to Special section (see below), then there can be additional special-section-related keywords (i.e. check that article has from 1 to 5 "general" keywords and all special section keywords).
 
 	- Have a look at TOC Section Title to check whether article belongs to Special section. If Section Title contains any of the words in "Special Section" column of the table below, then it belongs to the Special Section.
 
