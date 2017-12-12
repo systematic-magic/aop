@@ -90,7 +90,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 3.3. Check that there are no separators between affiliation text number and affiliation text itself (space is allowed). 
 
-.. image:: /_static/html_affiliation_text_numbers_new.png
+.. image:: /_static/html_affiliation_numbers_new.png
    :alt: Affiliation Numbers
 
 3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. e University, School, Department, Lab, Hospital, etc) in any sequence they like. Hoever certain rules apply to affiliation texts:
