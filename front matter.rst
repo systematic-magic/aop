@@ -198,7 +198,7 @@ If there are several author notes, then each note should have **different** symb
 	- Check that keywords are separated either by comma (,) or semicolon (;). However use of separators should be consistent: either all keywords are separated by comma or by semicolon. Separators cannot be mixed.
 
 	
-	.. image:: /_static/html_keywords_separator.png
+	.. image:: /_static/html_keywords.png
    		:alt: Keywords
 	
 	- Check that article has at least 1 and not more than 5 keywords.
