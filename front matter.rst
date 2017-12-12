@@ -50,12 +50,13 @@ Please note that last names can be compound, can have prepositions, suffixes, pr
 
 If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
 
-2.4. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers. If there is only one affiliation text for all authors, then each author name should have "1" next to it. 
+2.4. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers.
 
 .. image:: /_static/html_aff_texts_and_authors.png
 	:scale: 60%
 	:alt: Affiliation texts and authors
-   
+
+If there is only one affiliation text for all authors, then each author name should have "1" next to it. 
 
 .. image:: /_static/html_one_affiliation_all_auth.png
    :alt: One affiliation for all authors
