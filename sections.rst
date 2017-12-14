@@ -207,7 +207,9 @@ If you see any diviations of section naming in articles, please contact authors 
 	
 	- Check that **all** subsection headers in the article are written in sentence case.
 
-	- Check that subsection headers are formatted in bold and colored in black. **No** underlining or italics (except for Latin terms and gene names) are allowed.
+	- Check that subsection headers are formatted in bold and colored in black. 
+
+	- Check that there are **no** underlining or italics (except for Latin terms and gene names) in the headers.
 
 	- Check that there is no period (.) at the end of the subsection header.
 

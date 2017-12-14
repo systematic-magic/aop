@@ -1,3 +1,8 @@
+.. role:: und
+
+.. role:: sample
+
+
 10. Text
 --------
 
@@ -23,7 +28,7 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	- Check that figure legend has a figure number:
 
-	|	**Figure N:** (where N is a number of the figure)
+	|	** :sample:`Figure N:` ** (where N is a number of the figure)
 
 	- Check that number is followed by colon (:).
 
