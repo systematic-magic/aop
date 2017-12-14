@@ -279,7 +279,7 @@ Abbreviations are optional.
 
 		:sample:`Month Day, Year`
 
-	- Check that Month is spelled out, and Day and Year are presented in digits. Note that sigle Day digits should be preceeded by 0 (zero).
+	- Check that Month is spelled out, and Day and Year are presented as digits. Note that sigle Day digits should be preceeded by 0 (zero).
 
 	| 	`Example:`
 	|	June 02, 2017
@@ -293,7 +293,7 @@ Abbreviations are optional.
 
  	.. image:: /_static/html_dates.png
    		:alt: Dates format
-   		:scale: 50%
+   		:scale: 45%
 
  	- Check that Received date is older than Accepted date, and Accepted date is older than Published date (i.e. we cannot publish before we accept, and cannot accept before we receive).
 
