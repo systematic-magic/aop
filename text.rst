@@ -41,6 +41,7 @@ If image is hard to read, please contact Production team and ask to provide more
 	
 	.. image:: /_static/html_figure_number.png
    	  	:alt: Figure number
+   	  	:scale: 99%
 
 	`Exclusion:` if first sentence contains pannel letters, then it should be formatted in plain text.
 
@@ -49,16 +50,16 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	.. image:: /_static/html_figure_number_exception.png
    	  	:alt: Figure number
-
+   	  	:scale: 99%
 
 	- If figure image has pannel letters, then check that referene to each pannel is present in figure legend. Reference is denoted by pannel letter and is formatted in bold.
 
-	There are 2 allowed formats for the pannel reference (case of letter should match letter case in figure image):
+	| There are 2 allowed formats for the pannel reference (case of letter should match letter case in figure image):
 
 	|	:sampleb:`A.` or :sampleb:`a.` - i.e. letter followed by period (.)
 	|	:sample:`(`:sampleb:`A`:sample:`)` or :sample:`(`:sampleb:`a`:sample:`)` - i.e. letter wrapped in round brackets ()
 
-	Pannel letters can be combined in different ways in the figure legend text:
+	| Pannel letters can be combined in different ways in the figure legend text:
 
 	| :sampleb:`A.` :sample:`and` :sampleb:`B.`
 	| :sampleb:`A.`:sample:`,` :sampleb:`B.`
@@ -67,7 +68,10 @@ If image is hard to read, please contact Production team and ask to provide more
 	| :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
 	| :sample:`(`:sampleb:`A-C`:sample:`)`
 
-	Same variations are allowed for lower case panel letters.
+	| Same variations are allowed for lower case panel letters.
+
+
+	If a reference to pannel letter is missing, then please ask author to provide one.
 
 
 11.4. Check that figure numbers are assigned to figures sequentially and there are no gaps in a sequence.
