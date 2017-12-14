@@ -245,6 +245,12 @@ Abbreviations are optional.
 
 7.2. Check the format of the abbreviations line:
 
+	|	:sample:`ABRVTN: expanded text; ABRVTN: expanded text`
+	|	:sample:`ABRVTN, expanded text; ABRVTN, expanded text`
+	| or
+	|	:sample:`expanded text: ABRVTN; expanded text: ABRVTN`
+	|	:sample:`expanded text, ABRVTN; expanded text, ABRVTN`
+
 	- Check that abbreviation part is written in all CAPS and expanded part is in lower case letters (except for proper nouns).
 
 	- Check that abberviation part is separated from expanded part either by comma (,) or colon (:). No other separators allowed.
