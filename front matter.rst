@@ -281,8 +281,7 @@ Abbreviations are optional.
 
 	- Check that Month is spelled out, and Day and Year are presented in digits. Note that sigle Day digits should be preceeded by 0 (zero).
 
-	| 	`Example`
-	|
+	| 	`Example:`
 	|	June 02, 2017
 	| 	August 29, 2016
  
