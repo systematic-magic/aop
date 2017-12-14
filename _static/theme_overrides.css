@@ -26,3 +26,11 @@ body span.sample {
 	font-weight: 400;
 
 }
+
+body span.sample {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: 400;
+}
