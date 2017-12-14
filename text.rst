@@ -41,14 +41,14 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	Check exclusion to this rule: if first sentence contains pannel letters, then it should be formatted in plain text.
 
-	|	**Figure 2:** First sentence of legend text containing pannel letter (**A**) and letter (**B**) in a sentence case. Second sentance and rest of text.
+	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing pannel letter (` :sampleb:`A` :sample:`) and letter (` :sampleb:`B` :sample:`) in a sentence case. Second sentance and rest of text.`
 
 	- If figure image has pannel letters, then check that referene to each pannel is present in figure legend. Reference is denoted by pannel letter and is formatted in bold.
 
 	There are 2 allowed formats for the pannel reference (case of letter should match letter case in figure image):
 
-	|	**A.** or **a.** - i.e. letter followed by period (.)
-	|	(**A**) or (**a**) - i.e. letter wrapped in round brackets ()
+	|	:sampleb:`A.` or :sampleb:`a.` - i.e. letter followed by period (.)
+	|	:sample:`(` :sampleb:`A` :sample:`)` or :sample:`(` :sampleb:`a` :sample:`)` - i.e. letter wrapped in round brackets ()
 
 	Pannel letters can be combined in different ways in the figure legend text:
 
