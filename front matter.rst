@@ -255,7 +255,7 @@ Abbreviations are optional.
 
 	- Check that abberviation part is separated from expanded part either by comma (,) or colon (:). No other separators allowed.
 
-	- Check that expanded part is separated from other abbreviation by semicolon (;). No other separators allowed.
+	- Check that abbreviation pairs (i.e. abbreviation and corresponding expanded text) are separated from each other by semicolon (;). No other separators allowed.
 
 	- Check that there are no punctuation marks at the end of abbreviations line.
 
@@ -265,7 +265,7 @@ Abbreviations are optional.
 	:scale: 60%
 
 
-7.3. Check that there are not more than 5 abbreviation pairs (i.e. abbreviation and corresponding expanded text). If there are more than 5 pairs, ask Production to move all abbreviations in an article text as an "Abbreviations" section.
+7.3. Check that there are not more than 5 abbreviation pairs. If there are more than 5 pairs, ask Production to move all abbreviations to the article text as an "Abbreviations" section.
 
 
 8. Dates
