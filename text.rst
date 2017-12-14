@@ -62,20 +62,41 @@ If image is hard to read, please contact Production team and ask to provide more
 	| Pannel letters can be combined in different ways in the figure legend text:
 
 	| :sampleb:`A.` :sample:`and` :sampleb:`B.`
-	| :sampleb:`A.`:sample:`,` :sampleb:`B.`
-	| :sampleb:`A.-C.`
-	| :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
-	.. image:: /_static/html_fig_reference_br_anb.png
+
+	.. image:: /_static/html_fig_reference_anb.png
    	  	:alt: Figure number
    	  	:scale: 99%
-	| :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
+
+	| :sampleb:`A.`:sample:`,` :sampleb:`B.`
+
 	.. image:: /_static/html_fig_reference_br_acomb.png
    	  	:alt: Figure number
    	  	:scale: 99%
-	| :sample:`(`:sampleb:`A-C`:sample:`)`
+
+	| :sampleb:`A.-C.`
+
 	.. image:: /_static/html_fig_reference_br_a-c.png
    	  	:alt: Figure number
    	  	:scale: 99%
+
+	| :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
+
+	.. image:: /_static/html_fig_reference_br_anb.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
+
+	.. image:: /_static/html_fig_reference_br_acomb.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sample:`(`:sampleb:`A-C`:sample:`)`
+
+	.. image:: /_static/html_fig_reference_br_a-c.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
 	| Same variations are allowed for lower case panel letters.
 
 
