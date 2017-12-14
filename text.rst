@@ -69,7 +69,7 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	| :sampleb:`A.`:sample:`,` :sampleb:`B.`
 
-	.. image:: /_static/html_fig_reference_br_acomb.png
+	.. image:: /_static/html_fig_reference_acomb.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
