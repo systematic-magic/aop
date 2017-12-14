@@ -277,12 +277,14 @@ Abbreviations are optional.
 
 	- Check that date has the following format:
 
-		**Month Day, Year**
+		:sample:`Month Day, Year`
 
-	- Check that Month is spelled out, and Day and Year are presented in digits. Note that sigle Day digits should be preceeded by 0 (zero). For example:
+	- Check that Month is spelled out, and Day and Year are presented in digits. Note that sigle Day digits should be preceeded by 0 (zero).
 
-		**June 02, 2017** |br|
-		**August 29, 2016**
+	| 	`Example`
+	|
+	|	June 02, 2017
+	| 	August 29, 2016
  
  	- Check that there is a comma (,) between Day and Year.
 
