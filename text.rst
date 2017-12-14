@@ -38,9 +38,9 @@ If image is hard to read, please contact Production team and ask to provide more
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in plain text.
 
 	|	:sampleb:`Figure 1: First sentence of legend text in sentence case.` :sample:`Second sentance and rest of text.`
-
-	.. image:: /_static/html_figure_number.png
-   		:alt: Author Notes
+	|
+	| .. image:: /_static/html_figure_number.png
+   	|  	:alt: Author Notes
 
 	`Exclusion:` if first sentence contains pannel letters, then it should be formatted in plain text.
 
