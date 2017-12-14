@@ -292,8 +292,9 @@ Abbreviations are optional.
 
  	- Check that dates are written in italics.
 
- 	.. image:: /_static/html_dates_format.png
+ 	.. image:: /_static/html_dates.png
    		:alt: Dates format
+   		:scale: 50%
 
  	- Check that Received date is older than Accepted date, and Accepted date is older than Published date (i.e. we cannot publish before we accept, and cannot accept before we receive).
 
