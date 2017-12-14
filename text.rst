@@ -37,7 +37,7 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in plain text.
 
-	|	**Figure 1: First sentence of legend text in sentence case.** Second sentance and rest of text.
+	|	:sampleb:`Figure 1: First sentence of legend text in sentence case.` :sample:`Second sentance and rest of text.`
 
 	Check exclusion to this rule: if first sentence contains pannel letters, then it should be formatted in plain text.
 
@@ -52,12 +52,12 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	Pannel letters can be combined in different ways in the figure legend text:
 
-	| **A.** and **B.**
-	| **A.**, **B.**
-	| **A.-C.**
-	| (**A** and **B**)
-	| (**A, B**)
-	| (**A-C**)
+	| :sampleb:`A.` :sample:`and` :sampleb:`B.`
+	| :sampleb:`A.`:sample:`,` :sampleb:`B.`
+	| :sampleb:`A.-C.`
+	| :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
+	| :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
+	| :sample:`(`:sampleb:`A-C`:sample:`)`
 
 	Same variations are allowed for lower case panel letters.
 
