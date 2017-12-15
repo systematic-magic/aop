@@ -105,9 +105,9 @@ If image is hard to read, please contact Production team and ask to provide more
 	If a reference to pannel letter is missing, then please ask author to provide one.
 
 
-11.4. Check that figure numbers are assigned to figures sequentially and there are no gaps in a sequence. In other words there should not be a situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
+11.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
 
-At the same time, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
+At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
 
 If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to re-number the figures to eliminate the gaps.
 
@@ -205,13 +205,17 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 12.3. Check that table-related additional information is presented below the table as a note in plain text.
 
+.. image:: /_static/html_table_notes.png
+	:alt: Table title
+	:scale: 99%
+
 12.4. Check that table font, title font and notes (additional information) fonts are used consistetly within the article (i.e. font should not vary from table to table).
 
-12.5. Check that table numbers are assigned to tables sequentially and there are no gaps in a sequence.
+12.5. Check that table numbers. Tables should be numbered continuously, so thare are no gaps in the sequence. In other words there should be no situation when there are tables 1, 3 and 4 in the article, but table 2 is missing.
 
-***!!! Check with audio to paraphrase ***
+At the same time, upon authors request, tables can appear in the text in any order. E.g. table 2 before table 1 is OK.
 
-If you see that tables are presented on the page not in sequence, then check with corresponding author whether it is possible to put them back in sequence.
+If you see that there are gaps in number sequence, then check with corresponding author whether some tables are missing or whether it is possible to re-number the tables to eliminate the gaps.
 
 12.5. Check table callouts in the text:
 
@@ -223,14 +227,12 @@ If you see that tables are presented on the page not in sequence, then check wit
 	|
 	| Table 1
 	| Table 2A
-	| Table 1 and 2
-	| Table 1A and 1B
+	| Tables 1 and 2
+	| Tables 1A and 1B
 
 
 
-	*** !!! TABLES 1 adn 2 ***
-
-	- Check that word "Table" as well as number (and letter) are hyperlinked.
+	- Check that word "Table" (or "Tables") as well as number (and letter) are hyperlinked.
 
 	- Check that each table has at least 1 callout in the text.
 
