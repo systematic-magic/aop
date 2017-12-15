@@ -123,7 +123,7 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Figure number
    	  	:scale: 99%
     |
-	If figure has pannels, than callout can have a letter (letter case should be the same as on figure image):
+	If figure has pannels, then callout can have a letter (letter case should be the same as on figure image):
 
 	| :sampleu:`Fig. 1A` 	
 	| :sampleu:`Fig. 1a`
@@ -141,15 +141,18 @@ If you see that there are gaps in number sequence, then check with corresponding
    	|
 	Both formats (Fig. and Figure) are acceptable. However, they should be used consitently: either all callouts have "Fig." or all callouts have "Figure".
 
-	| `Examples:`
+	| `Examples of callout combinations:`
 	|
 	| :sampleu:`Figure 1`
 	| :sampleu:`Figure 3C`
-	| :sampleu:`Figures 3A2` :sample:`and` :sampleu:`3B2`
-	| :sampleu:`Figures 6` :sample:`and` :sampleu:`7`
-	| :sampleu:`Figures 9`:sample:`,` :sampleu:`10` :sample:`and` :sampleu:`11`
-	| :sampleu:`Figures 7`:sample:`–`:sampleu:`8`
+	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C`
+	| :sampleu:`Figure 5B`:sample:`,` :sampleu:`5C`
+	| :sampleu:`Figure 1E`:sample:`–`:sampleu:`1G`
 
+	.. image:: /_static/html_fig_callout_variations.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+   	  	
 	Same variations are allowed for "Fig."
 
 
