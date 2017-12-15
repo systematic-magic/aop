@@ -1,3 +1,12 @@
+.. role:: und
+
+.. role:: sample
+
+.. role:: sampleb
+
+.. role:: sampleu
+
+
 14. References
 --------------
 Rererences checks are quite complex due to high number of possible variations. Therfore we have split reference checks into two parts:
@@ -14,21 +23,21 @@ Author list is a list of authors in the reference. Author list should always end
 
 14.1.1. Check the format of author names in the autor list:
 
-	| Lastname INIT (where INIT is initials of the author, no more than 4 letters)
+	| :sample:`Lastname INIT` (where INIT is initials of the author, no more than 4 letters)
 	|
 	| `Examples:`
-	| Rini B
-	| Escudier BI
-	| Loo SCJ
-	| Wang KHCN
+	| :sample:`Rini B`
+	| :sample:`Escudier BI`
+	| :sample:`Loo SCJ`
+	| :sample:`Wang KHCN`
 
 	| Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
 	|
-	| Compound last names: Garcia-Closas, Gomez Jimenez
-	| Last name related prepositions: Van den Brandt, van der Ent
-	| Suffixes: Williams 3rd, Rowland Jr
-	| Prefixes: McCann, O'Kelly
-	| Mononym: Govindjee
+	| Compound last names: :sample:`Garcia-Closas, Gomez Jimenez`
+	| Last name related prepositions: :sample:`Van den Brandt, van der Ent`
+	| Suffixes: :sample:`Williams 3rd, Rowland Jr`
+	| Prefixes: :sample:`McCann, O'Kelly`
+	| Mononym: :sample:`Govindjee`
 
 
 	- Check that initials have no more than 4 letters and have **no** hyphens (-) or spaces in-between.
@@ -37,9 +46,28 @@ Author list is a list of authors in the reference. Author list should always end
 
 14.1.2. Check the format of author list. The following options are acceptable:
 
+	| from 1 to 14 authors.
+	|
+	| from 1 to 14 authors, Group Authorship
+	|	(comma as a separator between author list and Group Authorship) 
+	| from 1 to 14 authors; Group Authorship 
+	|	(semicolon as a separator between author list and Group Authorship)
 
-*** !!! Can be any number of authors ***
 
+	.. image:: /_static/html_author_etal_number.png
+		:alt: Number of authors
+
+	.. image:: /_static/html_group_authorship2.png
+		:alt: Group Authorship
+
+	.. image:: /_static/html_group_authorship4.png
+		:alt: Group Authorship
+
+	.. image:: /_static/html_group_authorship3.png
+		:alt: Group Authorship
+
+	| OR
+	|
 	| exactly 13 authors, et al.
 	|
 	| exactly 13 authors, et al, Group Authorship 
@@ -52,32 +80,6 @@ Author list is a list of authors in the reference. Author list should always end
 		:alt: Number of authors
 
 	.. image:: /_static/html_group_authorship1.png
-		:alt: Group Authorship
-
-
-*** !!!! Move this screenshot to 14 authors ***
-
-	.. image:: /_static/html_group_authorship3.png
-		:alt: Group Authorship
-
-	| OR
-	|
-	| less or equal to 14 authors.
-	|
-	| less or equal to 14 authors, Group Authorship
-	|	(comma as a separator between author list and Group Authorship) 
-	| less or equal to 14 authors; Group Authorship 
-	|	(semicolon as a separator between author list and Group Authorship)
-
-
-	.. image:: /_static/html_author_etal_number.png
-		:alt: Number of authors
-
-	.. image:: /_static/html_group_authorship2.png
-		:alt: Group Authorship
-
-
-	.. image:: /_static/html_group_authorship4.png
 		:alt: Group Authorship
 
 
@@ -103,23 +105,22 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 14.2.1. Check that citation data has correct journal title. The following titles are allowed:
 
-	| Oncotarget
-	| Oncoscience 
-	| Aging (Albany NY)
-	| Genes Cancer
+	| :sample:`Oncotarget`
+	| :sample:`Oncoscience`
+	| :sample:`Aging (Albany NY)`
+	| :sample:`Genes Cancer`
 
 	This is the only acceptable spelling. No variations are allowed.
 
 14.2.2. Check that citation data has the following elements in the following order:
 
-	| Journal Title. year; volume: page numbers. doi.
+	| :sample:`Journal Title. year; volume: page numbers. doi.`
 	|
 	| `Example`
-	|
-	| Oncotarget. 2017; 8:4218–27. http://doi.org/10.18632/oncotarget.13906.
-	| Aging (Albany NY). 2015; 7:609-10. doi: 10.18632/aging.100804.
-	| Genes Cancer. 2010; 1:1100-14. doi: 10.1177/1947601910396213.
-	| Oncoscience. 2016; 3:58-70. https://doi.org/10.18632/oncoscience.292.
+	| :sample:`Oncotarget. 2017; 8:4218–27. http://doi.org/10.18632/oncotarget.13906.`
+	| :sample:`Aging (Albany NY). 2015; 7:609-10. doi: 10.18632/aging.100804.`
+	| :sample:`Genes Cancer. 2010; 1:1100-14. doi: 10.1177/1947601910396213.`
+	| :sample:`Oncoscience. 2016; 3:58-70. https://doi.org/10.18632/oncoscience.292.`
 
 	- Check the format of each element:
 

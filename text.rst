@@ -228,7 +228,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 	| :sampleu:`Table 1`
 	| :sampleu:`Table 2A`
 	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2` (note that there is "s" at the end of "Table" word)
-	| :sampleu:`Tables 3A` :sample:`and` :sampleu:`3B`
+	| :sampleu:`Tables 3A` :sample:`and` :sampleu:`3B` (where 3A adn 3B are separate tables)
 
 	.. image:: /_static/html_table_callouts.png
 		:alt: Table callouts
@@ -259,7 +259,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 	| :sample:`[1]`
 	| :sample:`[1, 2]`
 	| :sample:`[1–3]`
-	| :sample:`[1, 3-4]`
+	| :sample:`[1, 3–4]`
 
 	.. image:: /_static/html_callouts.png
 		:alt: Table callouts
