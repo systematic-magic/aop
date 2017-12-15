@@ -181,11 +181,11 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that title has table number:
 
-	| **Table N:** (where N is a number of the table)
+	| :sampleb:`Table N:` (where N is a number of the table)
 
 	In rare cases table number can contain a letter:
 
-	| **Table 1A:** (where Table 1A and 1B, 1C etc are separate tables)
+	| :sampleb:`Table 1A:` (where Table 1A and 1B, 1C etc are separate tables)
 
 	- Check that number is followed by colon (:).
 
@@ -213,7 +213,7 @@ If you see that tables are presented on the page not in sequence, then check wit
 
 	- Check the format of table callouts:
 
-	| Table 1 (or in rare cases Table 1A)
+	| :sampleb:`Table 1` (or in rare cases :sampleb:`Table 1A`)
 	|
 	| `Examples:`
 	|
