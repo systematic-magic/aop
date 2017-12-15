@@ -15,6 +15,8 @@ Rererences checks are quite complex due to high number of possible variations. T
 | Citation data - in-house journals
 | Citation data - other journals
 | General checks
+| Websites
+| Books
 
 14.1. Author List
 =================
@@ -260,6 +262,18 @@ If you find duplicate references, please contact the author asking to correct th
 	| `Example:`
 	| 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. [Article in Chinese]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
+
+14.4.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version.
+
+14.4.4. Check for extra information to the references (i.e. in addition to "sandard" information). Remove all extra information.
+	|
+	| `Example:`
+	| ":official publication of the society of…"
+	| "http://dx.doi.org/"
+
+14.4.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
+
+14.4.6. Remove “PMID” and “PMCID” details if present in any reference.
 
 
 .. |br| raw:: html
