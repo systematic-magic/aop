@@ -193,7 +193,11 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentance as a table title.
 
-	| **Table 2: Table title in a sentence case.**
+	| :sampleb:`Table 2: Table title in a sentence case.`
+
+	.. image:: /_static/html_table_title.png
+   	  	:alt: Table title
+   	  	:scale: 99%
 
 	- Check that title does not have period (.) at the end.
 
