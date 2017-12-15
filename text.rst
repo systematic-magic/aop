@@ -4,6 +4,8 @@
 
 .. role:: sampleb
 
+.. role:: sampleu
+
 10. Text
 --------
 
@@ -103,34 +105,56 @@ If image is hard to read, please contact Production team and ask to provide more
 	If a reference to pannel letter is missing, then please ask author to provide one.
 
 
-11.4. Check that figure numbers are assigned to figures sequentially and there are no gaps in a sequence.
+11.4. Check that figure numbers are assigned to figures sequentially and there are no gaps in a sequence. In other words there should not be a situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
 
-If you see that figures are presented on the page not in sequence, then check with corresponding author whether it is possible to put them back in sequence.
+At the same time, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
+
+If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to re-number the figures to eliminate the gaps.
 
 11.5. Check figure callouts in the text:
 
 	- Check the format of figire callouts:
 
-	| Fig. 1
-	| Figure 1
+	| :sampleu:`Fig. 1`
+	.. image:: /_static/html_fig_callout_short.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sampleu:`Figure 1`
+	.. image:: /_static/html_fig_callout_full.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
 
 	If figure has pannels, than callout can have a letter (letter case should be the same as on figure image):
 
-	| Fig. 1A
-	| Fig. 1a
-	| Figure 1A
-	| Figure 1a
+	| :sampleu:`Fig. 1A`
+	.. image:: /_static/html_fig_callout_full_letter.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sampleu:`Fig. 1a`
+	.. image:: /_static/html_fig_callout_short_letter.png
+   	  :alt: Figure number
+   	  :scale: 99%
+
+	| :sampleu:`Figure 1A`
+	.. image:: /_static/html_fig_callout_full_letter.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+	
+	| :sampleu:`Figure 1a`
 
 	Both formats (Fig. and Figure) are acceptable. However, they should be used consitently: either all callouts have "Fig." or all callouts have "Figure".
 
 	| `Examples:`
 	|
-	| Figure 1
-	| Figure 3C
-	| Figures 3A2 and 3B2
-	| Figures 6 and 7
-	| Figures 9, 10 and 11
-	| Figures 7–8
+	| :sampleu:`Figure 1`
+	| :sampleu:`Figure 3C`
+	| :sampleu:`Figures 3A2` :sample:`and` :sampleu:`3B2`
+	| :sampleu:`Figures 6` :sample:`and` :sampleu:`7`
+	| :sampleu:`Figures 9`:sample:`,` :sampleu:`10` :sample:`and` :sampleu:`11`
+	| :sampleu:`Figures 7`:sample:`–`:sampleu:`8`
 
 	Same variations are allowed for "Fig."
 
