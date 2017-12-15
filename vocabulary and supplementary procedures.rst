@@ -23,13 +23,15 @@ Title case
 
 Plain text
 	"Normal" text which does not have any special text formatting (i.e. it has default font, size and is not styled into bold or italics).
-	|
+
+|
 
 .. _mononym:
 
 Mononym
 	Person who has only last name (no first name or middle name(s)).
-	|
+
+|
 
 .. _group_authorship:
 
@@ -45,7 +47,8 @@ Group Authorship
 
 en dash
 	The en dash (–) is slightly wider than the hyphen (-) but narrower than the em dash (—). The typical computer keyboard lacks a 	dedicated key for the en dash, though most word processors provide a means for its insertion.
-	|
+
+|
 
 .. _figure_pannel:
 
