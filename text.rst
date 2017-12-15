@@ -25,7 +25,7 @@
 
 If image is hard to read, please contact Production team and ask to provide more clear images. If Production team does not have better images, then contact corresponding author.
 
-11.2. Check whether figures have pannel letters. Both lower case and upper case pannel letters are allowed. However, they should be used consistently: either all figures have lower case pannel letters or all have upper case letters. Mix of formats is not allowed.
+11.2. Check whether figures have :ref:`pannel letters<figure_pannel>`. Both lower case and upper case :ref:`pannel letters<figure_pannel>` are allowed. However, they should be used consistently: either all figures have lower case :ref:`pannel letters<figure_pannel>` or all have upper case letters. Mix of formats is not allowed.
 
 11.3. Check the figure description text (figure legend):
 
@@ -45,16 +45,16 @@ If image is hard to read, please contact Production team and ask to provide more
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	`Exclusion:` if first sentence contains pannel letters, then it should be formatted in plain text.
+	`Exclusion:` if first sentence contains :ref:`pannel letters<figure_pannel>`, then it should be formatted in plain text.
 
-	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing pannel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentance and rest of text.`
+	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing :ref:`pannel letter<figure_pannel>` (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentance and rest of text.`
 
 
 	.. image:: /_static/html_figure_number_exception.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	- If figure image has pannel letters, then check that referene to each pannel is present in figure legend. Reference is denoted by pannel letter and is formatted in bold.
+	- If figure image has :ref:`pannel letters<figure_pannel>`, then check that referene to each pannel is present in figure legend. Reference is denoted by :ref:`pannel letter<figure_pannel>` and is formatted in bold.
 
 	| There are 2 allowed formats for the pannel reference (case of letter should match letter case in figure image):
 
@@ -102,7 +102,7 @@ If image is hard to read, please contact Production team and ask to provide more
 	| Same variations are allowed for lower case panel letters.
 
 
-	If a reference to pannel letter is missing, then please ask author to provide one.
+	If a reference to :ref:`pannel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 
 11.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
