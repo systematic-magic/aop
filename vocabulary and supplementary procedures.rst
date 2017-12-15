@@ -1,22 +1,41 @@
 
 .. _sentence_case:
+
 Sentence case
 	Sentence case is the conventional way of using capital letters in a sentence. That is, you only capitalise the first letter of the  first word – like you would in a sentence. Proper nouns (including abbreviations, gene names, journal titles, scientific databases, etc.) have initial capitals as well.
 
-	E.g. `The cat sat on the mat.` `London is a capital of The United Kingdom of Great Britain and Northern Ireland.`
+	| `Examples:`
+	| :sample:`The cat sat on the mat.`
+	| :sample:`London is a capital of The United Kingdom of Great Britain and Northern Ireland.`
 
+.. _title_case:
+
+Title case
+	Title case is the conventional way of using capital letters in a sentence. That is, you capitalise all principal words. Articles, conjunctions, and prepositions do not get capital letters unless they start the title.
+
+	| `Examples:`
+	| :sample:`Snow White and the Seven Dwarfs.`
+	| :sample:`Seven Habits of Effective People.`
+
+
+.. _plain_text:
 
 Plain text
 	"Normal" text which does not have any special text formatting (i.e. it has default font, size and is not styled into bold or italics).
 
 
+.. _mononym:
+
 Mononym
 	Person who has only last name (no first name or middle name(s)).
 
 
-Title case
+.. _group_authorship:
 
-Plain text
+Group Authorship
+	
+
+
 
 Figure pannel
 

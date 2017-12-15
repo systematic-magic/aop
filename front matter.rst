@@ -41,7 +41,7 @@ Allowed formats:
 	+  :sample:`F. MiddleName LastName` (F. is an initial of first name)
 	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
 
-Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
+Please note that last names can be compound, can have prepositions, suffixes, prefixes or be :ref:`mononyms<mononym>`. For example:
 
 	- Compound last names: :sample:`Garcia-Closas, Gomez Jimenez`
 	- Last name related prepositions: :sample:`Van den Brandt, van der Ent`
