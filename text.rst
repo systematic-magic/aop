@@ -117,28 +117,21 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	| :sampleu:`Fig. 1`
 	| :sampleu:`Figure 1`
-	| text
-	| yeyx
 
-	.. image:: /_static/html_fig_callout_full.png
+
+	.. image:: /_static/html_fig_callouts.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	.. image:: /_static/html_fig_callout_short.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
 
 	If figure has pannels, than callout can have a letter (letter case should be the same as on figure image):
 
-	| :sampleu:`Fig. 1A` 	.. image:: /_static/html_fig_callout_full_letter.png
-   	  						:alt: Figure number
-   	  						:scale: 99%
-
-
+	| :sampleu:`Fig. 1A` 	
 	| :sampleu:`Fig. 1a`
-	.. image:: /_static/html_fig_callout_short_letter.png
-   	  :alt: Figure number
-   	  :scale: 99%
+	
+	.. image:: /_static/html_fig_callout_short_letters.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
 
 	| :sampleu:`Figure 1A`
 	.. image:: /_static/html_fig_callout_full_letter.png
