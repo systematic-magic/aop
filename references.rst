@@ -14,7 +14,7 @@ Rererences checks are quite complex due to high number of possible variations. T
 | Author list
 | Citation data - in-house journals
 | Citation data - other journals
-| Garbage
+| General checks
 
 14.1. Author List
 =================
@@ -186,7 +186,7 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 .. ATTENTION::
 	
-	This section is applicable all journals **except for in-house journals**. 
+	This section is applicable to all journals **except for in-house journals**. 
 
 Citation data is a part of a reference, which contains Jounal Title, year, volume, pages and doi.
 
@@ -201,7 +201,9 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 14.3.2. Check the format of each element:
 
-	- Journal title can be abbreviated or written in full. If abbreviated, check that it is the same as on PubMed site. Make sure that there are **no** unnecessary periods (.) after each abbreviated word. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals
+	- Journal title can be abbreviated or written in full. If abbreviated, check that it is written the same way as on PubMed site. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals
+
+	- Journal tile should be in a :ref:`title case<title_case>`.
 
 	- Journal title should be followed by period (.). There should be a space after period.
 
@@ -243,6 +245,20 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 	If doi is missing, then you should chose doi format for corrections based on the format of other doi present in the article. I.e. the format of doi should be consistent across all the references in the article.
 
 
+
+14.4. General checks
+====================
+
+14.4.1. Check for duplicates in the reference list. 
+
+If you find duplicate references, please contact the author asking to correct the reference list.
+
+14.4.2. Check for references translated into Eglish from other language (usually you can spot those by keywords: translation, tranflated from, in Chineese, in French etc). Those references should comply to the following format:
+
+	| :sample:`Author list. [Title of the article]. [Article in Chinese]. Journal Name. 1072; 1: 1-2.` (doi is optional)
+	|
+	| `Example:`
+	| 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. [Article in Chinese]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
 
 
