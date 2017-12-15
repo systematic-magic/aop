@@ -75,7 +75,7 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	| :sampleb:`A.-C.`
 
-	.. image:: /_static/html_fig_reference_br_a-c.png
+	.. image:: /_static/html_fig_reference_a-c.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
