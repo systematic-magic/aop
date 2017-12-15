@@ -35,19 +35,19 @@ For other Latin terms and gene names either italics or :ref:`plain text<plain_te
 
 Allowed formats:
 
-	+  FirstName LastName
-	+  FirstName MN. LastName (MN. are initials of middle names; initials can be up to 4 letters)
-	+  FirstName M.N. LastName (M.N. are initials of middle names; initials can be up to 4 letters)
-	+  |Fdot| MiddleName LastName (F. is an initial of first name)
-	+  |Fdot| MiddleName MiddleName LastName (F. is initial of first name and there can any number of middle names)
+	+  :sample:`FirstName LastName`
+	+  :sample:`FirstName MN. LastName` (MN. are initials of middle names; initials can be up to 4 letters)
+	+  :sample:`FirstName M.N. LastName` (M.N. are initials of middle names; initials can be up to 4 letters)
+	+  :sample:`F. MiddleName LastName` (F. is an initial of first name)
+	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
 
 Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
 
-	- Compound last names: Garcia-Closas, Gomez Jimenez
-	- Last name related prepositions: Van den Brandt, van der Ent
-	- Suffixes: Williams 3rd, Rowland Jr
-	- Prefixes: McCann, O'Kelly
-	- Mononym: Govindjee
+	- Compound last names: :sample:`Garcia-Closas, Gomez Jimenez`
+	- Last name related prepositions: :sample:`Van den Brandt, van der Ent`
+	- Suffixes: :sample:`Williams 3rd, Rowland Jr`
+	- Prefixes: :sample:`McCann, O'Kelly`
+	- Mononym: :sample:`Govindjee`
 
 
 .. Important::
@@ -78,8 +78,8 @@ If there is only one affiliation text for all authors, then each author name sho
 
 .. Note::
 	
-	Occassionally you can see a symbol (\*, #, \**, \*** etc) next to the author name together with affiliation number. This sybol is related to Author Notes.
-	Author Notes checks can be found below.
+	Occassionally you can see a symbol (\*, #, \**, \*** etc) next to the author name together with affiliation number. This sybol is related to Author Notes. |br|
+	:ref:`Author Notes checks<author_notes>` can be found below.
 
 
 3. Affiliation text
@@ -101,7 +101,7 @@ In case you find several affiliation texts for one text number, please contact c
 .. image:: /_static/html_affiliation_numbers_new.png
    :alt: Affiliation Numbers
 
-3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. e University, School, Department, Lab, Hospital, etc) in any sequence they like. Hoever certain rules apply to affiliation texts:
+3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. e University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
 
 	- Check that affiliation text contains at least department/division/lab/school and institution.
 
@@ -138,7 +138,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 3.6. Check that there are no punctuation marks at the end of abbreviations line(s).
 
-
+.. _author_notes:
 4. Author Notes
 ---------------
 
@@ -193,7 +193,7 @@ If there are several author notes, then each note should have **different** symb
 
 6.2. Check the format of the keywords line:
 	
-	- Check that keywords are written in lower case, unless proper nouns. Check that capitalisation of scientific terms is correct. We suggest the you use the following procedure, if in you are in doubt regarding this or that term.
+	- Check that keywords are written in lower case, unless proper nouns. Check that capitalisation of scientific terms is correct. We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
 
 	- Check that keywords are separated either by comma (,) or semicolon (;). However use of separators should be consistent: either all keywords are separated by comma or by semicolon. Separators cannot be mixed.
 
