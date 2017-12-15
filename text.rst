@@ -117,11 +117,13 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	| :sampleu:`Fig. 1`
 	| :sampleu:`Figure 1`
+	| text
+	| yeyx
 
 	.. image:: /_static/html_fig_callout_full.png
    	  	:alt: Figure number
    	  	:scale: 99%
-   	  	
+
 	.. image:: /_static/html_fig_callout_short.png
    	  	:alt: Figure number
    	  	:scale: 99%
