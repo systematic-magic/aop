@@ -7,6 +7,7 @@ Sentence case
 	| `Examples:`
 	| :sample:`The cat sat on the mat.`
 	| :sample:`London is a capital of The United Kingdom of Great Britain and Northern Ireland.`
+	|
 
 .. _title_case:
 
@@ -16,19 +17,19 @@ Title case
 	| `Examples:`
 	| :sample:`Snow White and the Seven Dwarfs.`
 	| :sample:`Seven Habits of Effective People.`
-
+	|
 
 .. _plain_text:
 
 Plain text
 	"Normal" text which does not have any special text formatting (i.e. it has default font, size and is not styled into bold or italics).
-
+	|
 
 .. _mononym:
 
 Mononym
 	Person who has only last name (no first name or middle name(s)).
-
+	|
 
 .. _group_authorship:
 
@@ -38,12 +39,13 @@ Group Authorship
 	| `Examples:`
 	| :sample:`Cancer Genome Atlas Research Network`
 	| :sample:`North Central Cancer Treatment Group Study N0177`
-
+	|
 
 .. _en_dash:
 
 en dash
-	The en dash (–) is slightly wider than the hyphen (-) but narrower than the em dash (—). The typical computer keyboard lacks a dedicated key for the en dash, though most word processors provide a means for its insertion.
+	The en dash (–) is slightly wider than the hyphen (-) but narrower than the em dash (—). The typical computer keyboard lacks a 	dedicated key for the en dash, though most word processors provide a means for its insertion.
+	|
 
 .. _figure_pannel:
 
@@ -54,7 +56,7 @@ Figure pannel
 
 	.. image:: /_static/html_figure_panels.png
    		:alt: One affiliation for all authors
-
+   	|
 
 .. _correct_case_check:
 
