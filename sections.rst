@@ -205,13 +205,17 @@ If you see any diviations of section naming in articles, please contact authors 
 
 9.2. Check the format of all subsection headers in the article:
 	
-	- Check that **all** subsection headers in the article are written in sentence case.
+	- Check that **all** subsection headers in the article are written in :ref:`sentence case<sentence_case>`.
 
 	- Check that subsection headers are formatted in bold and colored in black. 
 
 	- Check that there are **no** underlining or italics (except for Latin terms and gene names) in the headers.
 
 	- Check that there is no period (.) at the end of the subsection header.
+
+.. image:: /_static/html_subsection_header.png
+	:alt: Subsection headers
+	:scale: 99%
 
 
 
