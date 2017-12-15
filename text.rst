@@ -144,7 +144,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 	| `Examples of callout combinations:`
 	| :sampleu:`Figure 1`
 	| :sampleu:`Figure 3C`
-	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is no "s" at the end of Figure)
+	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is no "s" at the end of "Figure" word)
 	| :sampleu:`Figure 5B`:sample:`,` :sampleu:`5C`
 	| :sampleu:`Figure 1E`:sample:`–`:sampleu:`1G`
 
@@ -227,8 +227,8 @@ If you see that there are gaps in number sequence, then check with corresponding
 	|
 	| :sampleu:`Table 1`
 	| :sampleu:`Table 2A`
-	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2`
-	| :sampleu:`Tables 1A` :sample:`and` :sampleu:`1B`
+	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2` (note that there is "s" at the end of "Table" word)
+	| :sampleu:`Tables 3A` :sample:`and` :sampleu:`3B`
 
 	.. image:: /_static/html_table_callouts.png
 		:alt: Table callouts
@@ -253,15 +253,18 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check the format of reference callouts:
 
-	| [N] (where N is the order number of the corresponding reference)
+	|  :sample:`[N]` (where N is the order number of the corresponding reference)
 	|	
 	| `Examples:`
-	|
-	| [1]
-	| [1, 2]
-	| [1–3]
-	| [1, 3-4]
+	| :sample:`[1]`
+	| :sample:`[1, 2]`
+	| :sample:`[1–3]`
+	| :sample:`[1, 3-4]`
 
+	.. image:: /_static/html_callouts.png
+		:alt: Table callouts
+		:scale: 99%
+	|
 	- Check that only comma (,) and en dash (-) are used as a separators. No other separators are allowed. 
 
 	- Check that there is a space after comma (,) and no space before and after en dash (-).
