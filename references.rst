@@ -98,7 +98,8 @@ Author list is a list of authors in the reference. Author list should always end
 
 .. ATTENTION::
 	
-	This section is applicable ONLY to in-house journals: **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
+	This section is applicable ONLY to in-house journals: |br|
+	 **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
 
 Citation data is a part of a reference, which contains Jounal Title, year, volume, pages and doi.
 
@@ -183,3 +184,9 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 14.3. Citation Data (other journals)
 ====================================
 
+
+
+
+.. |br| raw:: html
+
+   <br />
