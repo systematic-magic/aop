@@ -221,19 +221,19 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check the format of table callouts:
 
-	| :sampleb:`Table 1` (or in rare cases :sampleb:`Table 1A`)
+	| :sampleu:`Table 1` (or in rare cases :sampleu:`Table 1A`)
 	|
 	| `Examples:`
 	|
-	| Table 1
-	| Table 2A
-	| Tables 1 and 2
-	| Tables 1A and 1B
+	| :sampleu:`Table 1`
+	| :sampleu:`Table 2A`
+	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2`
+	| :sampleu:`Tables 1A` :sample:`and` :sampleu:`1B`
 
 	.. image:: /_static/html_table_callouts.png
 		:alt: Table callouts
 		:scale: 99%
-
+	|
 	- Check that word "Table" (or "Tables") as well as number (and letter) are hyperlinked.
 
 	- Check that each table has at least 1 callout in the text.
