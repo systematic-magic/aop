@@ -266,14 +266,26 @@ If you find duplicate references, please contact the author asking to correct th
 14.4.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version.
 
 14.4.4. Check for extra information to the references (i.e. in addition to "sandard" information). Remove all extra information.
-	|
+	
 	| `Example:`
 	| ":official publication of the society of…"
 	| "http://dx.doi.org/"
 
 14.4.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
 
-14.4.6. Remove “PMID” and “PMCID” details if present in any reference.
+14.4.6. Remove “PMID” and “PMCID” details, if present in any reference.
+
+
+14.5. Websites
+==============
+
+14.5.1. There is no standard for website references.
+
+
+14.6. Books and reports
+=======================
+
+14.6.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. If there is any other extra information like valid links given for the same, it would be great.
 
 
 .. |br| raw:: html

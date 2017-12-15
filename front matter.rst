@@ -36,10 +36,14 @@ For other Latin terms and gene names either italics or :ref:`plain text<plain_te
 Allowed formats:
 
 	+  :sample:`FirstName LastName`
-	+  :sample:`FirstName MN. LastName` (MN. are initials of middle names; initials can be up to 4 letters)
-	+  :sample:`FirstName M.N. LastName` (M.N. are initials of middle names; initials can be up to 4 letters)
-	+  :sample:`F. MiddleName LastName` (F. is an initial of first name)
-	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
+	+  :sample:`FirstName MN. LastName` 
+			(MN. are initials of middle names; initials can be up to 4 letters)
+	+  :sample:`FirstName M.N. LastName` 
+			(M.N. are initials of middle names; initials can be up to 4 letters)
+	+  :sample:`F. MiddleName LastName` 
+			(F. is an initial of first name)
+	+  :sample:`F. MiddleName MiddleName LastName` 
+			(F. is initial of first name and there can any number of middle names)
 
 Please note that last names can be compound, can have prepositions, suffixes, prefixes or be :ref:`mononyms<mononym>`. For example:
 
