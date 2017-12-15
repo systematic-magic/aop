@@ -128,10 +128,10 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	If figure has pannels, than callout can have a letter (letter case should be the same as on figure image):
 
-	| :sampleu:`Fig. 1A`
-	.. image:: /_static/html_fig_callout_full_letter.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
+	| :sampleu:`Fig. 1A` 	.. image:: /_static/html_fig_callout_full_letter.png
+   	  						:alt: Figure number
+   	  						:scale: 99%
+
 
 	| :sampleu:`Fig. 1a`
 	.. image:: /_static/html_fig_callout_short_letter.png
@@ -142,7 +142,6 @@ If you see that there are gaps in number sequence, then check with corresponding
 	.. image:: /_static/html_fig_callout_full_letter.png
    	  	:alt: Figure number
    	  	:scale: 99%
-	
 	| :sampleu:`Figure 1a`
 
 	Both formats (Fig. and Figure) are acceptable. However, they should be used consitently: either all callouts have "Fig." or all callouts have "Figure".
