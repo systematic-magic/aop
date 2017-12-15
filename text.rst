@@ -122,9 +122,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 	.. image:: /_static/html_fig_callouts.png
    	  	:alt: Figure number
    	  	:scale: 99%
-
     |
-
 	If figure has pannels, than callout can have a letter (letter case should be the same as on figure image):
 
 	| :sampleu:`Fig. 1A` 	
