@@ -123,32 +123,32 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 	| Genes Cancer. 2010; 1:1100-14. doi: 10.1177/1947601910396213.
 	| Oncoscience. 2016; 3:58-70. https://doi.org/10.18632/oncoscience.292.
 
-	- Check the format of each element:
+14.2.3. Check the format of each element:
 
-		+ Journal title should be followed by period (.). There should be a space after period.
+	+ Journal title should be followed by period (.). There should be a space after period.
 
-		+ Year shoudl be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
+	+ Year shoudl be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
 
-		+ Volume should be one or more digits and should be followed by colon (:). There can be a space after colon (but this is not mandatory).
+	+ Volume should be one or more digits and should be followed by colon (:). There can be a space after colon (but this is not mandatory).
 
-		+ Page numbers can be in either in short (12063-74) of full (12063-12074) format and should be followed by period (.). There should be a space after period.
+	+ Page numbers can be in either in short (12063-74) of full (12063-12074) format and should be followed by period (.). There should be a space after period.
 
-		+ DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
+	+ DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
 
-			| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
-			| doi: ... (e.g. doi: 10.1177/1947601910396213.)
+		| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
+		| doi: ... (e.g. doi: 10.1177/1947601910396213.)
 
-		+ DOI shoud should be hyperlinked if in https://doi.org/ format.
+	+ DOI shoud should be hyperlinked if in https://doi.org/ format.
 
-		+ DOI can be followed by period (but this is not mandatory).
+	+ DOI can be followed by period (but this is not mandatory).
 
-		If doi is missing, then you should chose doi format for corrections based on the format of other doi present in the article. I.e. the format of doi should be consistent across all the references in the article.
+	If doi is missing, then you should chose doi format for corrections based on the format of other doi present in the article. I.e. the format of doi should be consistent across all the references in the article.
 
-		.. image:: /_static/html_citaiton_data.png
-			:alt: Citation Data
+	.. image:: /_static/html_citaiton_data.png
+		:alt: Citation Data
 
 
-14.2.3. Check for references to articles in Advance Publications. These references can be distinguished by having full date (2016 Jul 19) instead of just year and/or having [Epub ahead of print] note (see image below).
+14.2.4. Check for references to articles in Advance Publications. These references can be distinguished by having full date (2016 Jul 19) instead of just year and/or having [Epub ahead of print] note (see image below).
 
 
 .. image:: /_static/html_cit_dat_ahead_of_print.png
@@ -183,6 +183,65 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 14.3. Citation Data (other journals)
 ====================================
+
+.. ATTENTION::
+	
+	This section is applicable all journals **except for in-house journals**. 
+
+Citation data is a part of a reference, which contains Jounal Title, year, volume, pages and doi.
+
+14.3.1. Check that citation data has the following elements in the following order:
+
+	| :sample:`Journal Title. year; volume: page numbers. doi.` (note: doi is optional)
+	|	
+	| `Example:`
+	| International Journal of Cancer. 2005; 115:503–510
+	| Clin Microbiol Rev. 2003; 16:1-17. https://doi.org/10.1128/CMR.16.1.1-17.2003.
+	| Quant Biol. 2013; 1: 115-30. doi: 10.1007/s40484-013-0012-4.
+
+14.3.2. Check the format of each element:
+
+	- Journal title can be abbreviated or written in full. If abbreviated, check that it is the same as on PubMed site. Make sure that there are **no** unnecessary periods (.) after each abbreviated word. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals
+
+	- Journal title should be followed by period (.). There should be a space after period.
+
+	.. image:: /_static/html_cdo_journal_title.png
+		:alt: Journal title
+		:scale: 60%
+
+	- Year shoudl be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
+
+	.. image:: /_static/html_cdo_year.png
+		:alt: Year
+		:scale: 60%
+
+	- Volume should be one or more digits (rarely can also contain letters) and should be followed by colon (:). There can be a space after colon (but this is not mandatory).
+
+	.. image:: /_static/html_cdo_volume.png
+		:alt: Volume
+		:scale: 60%
+
+	- Page numbers can be either in short (12063-74) of full (12063-12074) format and rarely can also contain letters. Page numbers should be followed by period (.). There should be a space after period.
+
+	.. image:: /_static/html_cdo_pages.png
+		:alt: Page numbers
+		:scale: 60%
+
+	- DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
+
+		| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
+		| doi: ... (e.g. doi: 10.1177/1947601910396213.)
+
+	- DOI shoud should be hyperlinked if in https://doi.org/ format.
+
+	- DOI can be followed by period (but this is not mandatory).
+	
+	.. image:: /_static/html_cdo_doi.png
+		:alt: DOI
+		:scale: 60%
+
+	If doi is missing, then you should chose doi format for corrections based on the format of other doi present in the article. I.e. the format of doi should be consistent across all the references in the article.
+
 
 
 
