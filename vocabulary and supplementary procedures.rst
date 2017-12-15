@@ -33,21 +33,31 @@ Mononym
 .. _group_authorship:
 
 Group Authorship
-	
+	Group Authorship is a large numbers of investigators working under a single group name. Group-author articles involve the following parties: the overall group, members of the group who take responsibility for authorship of the article (named individual authors), and members of the group who do not take responsibility for authorship of the article but have contributed to the work that led to the article (nonauthor group members).
+
+	| `Examples:`
+	| :sample:`Cancer Genome Atlas Research Network`
+	| :sample:`North Central Cancer Treatment Group Study N0177`
 
 
-
-Figure pannel
+.. _en_dash:
 
 en dash
+	The en dash (–) is slightly wider than the hyphen (-) but narrower than the em dash (—). The typical computer keyboard lacks a dedicated key for the en dash, though most word processors provide a means for its insertion.
 
-Figure pannels
+.. _figure_pannel:
 
-Group Authorship
+Figure pannel
+	Figures can contain several "embedded" images, each of which contains its own identifier - a letter. Those "embedded" images are called figure pannels.
 
-el al.
+	| `Example:`
+
+	.. image:: /_static/html_figure_panels.png
+   		:alt: One affiliation for all authors
+
 
 .. _correct_case_check:
+
 How to check whether term, keyword etc is in correct case?
 	1. Search article text for the term in question. Most likely you will find few instances, which will give you understanding regarding correct capitalisation. If this is not the case, check next points.
 	2. Search PubMed site (https://www.ncbi.nlm.nih.gov/pmc/) for the term in question.
