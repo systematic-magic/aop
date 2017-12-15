@@ -115,16 +115,16 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check the format of figire callouts:
 
-			:sampleu:`Fig. 1`
-	.. image:: /_static/html_fig_callout_short.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
-
+	| :sampleu:`Fig. 1`
 	| :sampleu:`Figure 1`
+
 	.. image:: /_static/html_fig_callout_full.png
    	  	:alt: Figure number
    	  	:scale: 99%
-
+   	  	
+	.. image:: /_static/html_fig_callout_short.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
 
 	If figure has pannels, than callout can have a letter (letter case should be the same as on figure image):
 
