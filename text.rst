@@ -201,9 +201,9 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that title does not have period (.) at the end.
 
-	- Check that title is written in sentence case, formatted in bold and colored in black.
+	- Check that title is written in :ref:`sentence case<sentence_case>`, formatted in bold and colored in black.
 
-12.3. Check that table-related additional information is presented below the table as a note in plain text.
+12.3. Check that table-related additional information is presented below the table as a note in :ref:`plain text<plain_text>`.
 
 .. image:: /_static/html_table_notes.png
 	:alt: Table notes
@@ -268,7 +268,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check that there is a space after comma (,) and no space before and after en dash (-).
 
-	- Check that reference callouts are in plain text and a number (or numbers in case of ranges) is hyperlinked.
+	- Check that reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked.
 
 13.2. Check that callout number for each of the references is present in the text or is covered in the range of nunbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
 
