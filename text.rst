@@ -253,8 +253,8 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check the format of reference callouts:
 
-	|  :sample:`[N]` (where N is the order number of the corresponding reference)
-	|	
+	| :sample:`[N]` (where N is the order number of the corresponding reference)
+	|
 	| `Examples:`
 	| :sample:`[1]`
 	| :sample:`[1, 2]`
