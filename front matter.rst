@@ -139,6 +139,7 @@ In case you find several affiliation texts for one text number, please contact c
 3.6. Check that there are no punctuation marks at the end of abbreviations line(s).
 
 .. _author_notes:
+
 4. Author Notes
 ---------------
 
