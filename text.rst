@@ -264,7 +264,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 		:alt: Table callouts
 		:scale: 99%
 	|
-	- Check that only comma (,) and en dash (-) are used as a separators. No other separators are allowed. 
+	- Check that only comma (,) and :ref:`en dash<en_dash>` (-) are used as a separators. No other separators are allowed. 
 
 	- Check that there is a space after comma (,) and no space before and after en dash (-).
 

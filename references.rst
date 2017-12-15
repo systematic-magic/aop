@@ -83,12 +83,12 @@ Author list is a list of authors in the reference. Author list should always end
 		:alt: Group Authorship
 
 	|
-	There can be "and" before Group Authorship. Check that there is a separator (comma or semicolon) before "and".
+	There can be "and" before :ref:`Group Authorship<group_authorship>`. Check that there is a separator (comma or semicolon) before "and".
 
 
-	- Check that Group Authorship is positioned at the end of author list. Other positions are not allowed.
+	- Check that :ref:`Group Authorship<group_authorship>` is positioned at the end of author list. Other positions are not allowed.
 
-	- Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after Group Authorship (if present).
+	- Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after :ref:`Group Authorship<group_authorship>` (if present).
 
 	- Author list should be formated as plain text.
 
