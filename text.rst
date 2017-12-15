@@ -142,17 +142,16 @@ If you see that there are gaps in number sequence, then check with corresponding
 	Both formats (Fig. and Figure) are acceptable. However, they should be used consitently: either all callouts have "Fig." or all callouts have "Figure".
 
 	| `Examples of callout combinations:`
-	|
 	| :sampleu:`Figure 1`
 	| :sampleu:`Figure 3C`
-	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C`
+	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is no "s" at the end of Figure)
 	| :sampleu:`Figure 5B`:sample:`,` :sampleu:`5C`
 	| :sampleu:`Figure 1E`:sample:`–`:sampleu:`1G`
 
 	.. image:: /_static/html_fig_callout_variations.png
    	  	:alt: Figure number
    	  	:scale: 99%
-   	  	
+
 	Same variations are allowed for "Fig."
 
 
