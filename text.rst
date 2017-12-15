@@ -224,7 +224,6 @@ If you see that there are gaps in number sequence, then check with corresponding
 	| :sampleu:`Table 1` (or in rare cases :sampleu:`Table 1A`)
 	|
 	| `Examples:`
-	|
 	| :sampleu:`Table 1`
 	| :sampleu:`Table 2A`
 	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2` (note that there is "s" at the end of "Table" word)

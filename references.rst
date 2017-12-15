@@ -46,11 +46,11 @@ Author list is a list of authors in the reference. Author list should always end
 
 14.1.2. Check the format of author list. The following options are acceptable:
 
-	| from 1 to 14 authors.
+	| :sample:`from 1 to 14 authors`
 	|
-	| from 1 to 14 authors, Group Authorship
+	| :sample:`from 1 to 14 authors, Group Authorship`
 	|	(comma as a separator between author list and Group Authorship) 
-	| from 1 to 14 authors; Group Authorship 
+	| :sample:`from 1 to 14 authors; Group Authorship`
 	|	(semicolon as a separator between author list and Group Authorship)
 
 
@@ -66,13 +66,13 @@ Author list is a list of authors in the reference. Author list should always end
 	.. image:: /_static/html_group_authorship3.png
 		:alt: Group Authorship
 
-	| OR
+	| **OR**
 	|
-	| exactly 13 authors, et al.
+	| :sample:`exactly 13 authors, et al`
 	|
-	| exactly 13 authors, et al, Group Authorship 
+	| :sample:`exactly 13 authors, et al, Group Authorship` 
 	|	(comma as a separator between et al and Group Authorship)
-	| exactly 13 authors, et al; Group Authorship 
+	| :sample:`exactly 13 authors, et al; Group Authorship`
 	|	(semicolon as a separator between et al and Group Authorship)
 
 
@@ -82,7 +82,7 @@ Author list is a list of authors in the reference. Author list should always end
 	.. image:: /_static/html_group_authorship1.png
 		:alt: Group Authorship
 
-
+	|
 	There can be "and" before Group Authorship. Check that there is a separator (comma or semicolon) before "and".
 
 
@@ -116,11 +116,11 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 	| :sample:`Journal Title. year; volume: page numbers. doi.`
 	|
-	| `Example`
-	| :sample:`Oncotarget. 2017; 8:4218–27. http://doi.org/10.18632/oncotarget.13906.`
-	| :sample:`Aging (Albany NY). 2015; 7:609-10. doi: 10.18632/aging.100804.`
-	| :sample:`Genes Cancer. 2010; 1:1100-14. doi: 10.1177/1947601910396213.`
-	| :sample:`Oncoscience. 2016; 3:58-70. https://doi.org/10.18632/oncoscience.292.`
+	| `Example:`
+	| Oncotarget. 2017; 8:4218–27. http://doi.org/10.18632/oncotarget.13906.
+	| Aging (Albany NY). 2015; 7:609-10. doi: 10.18632/aging.100804.
+	| Genes Cancer. 2010; 1:1100-14. doi: 10.1177/1947601910396213.
+	| Oncoscience. 2016; 3:58-70. https://doi.org/10.18632/oncoscience.292.
 
 	- Check the format of each element:
 
