@@ -206,7 +206,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 12.3. Check that table-related additional information is presented below the table as a note in plain text.
 
 .. image:: /_static/html_table_notes.png
-	:alt: Table title
+	:alt: Table notes
 	:scale: 99%
 
 12.4. Check that table font, title font and notes (additional information) fonts are used consistetly within the article (i.e. font should not vary from table to table).
@@ -230,7 +230,9 @@ If you see that there are gaps in number sequence, then check with corresponding
 	| Tables 1 and 2
 	| Tables 1A and 1B
 
-
+	.. image:: /_static/html_table_callouts.png
+		:alt: Table callouts
+		:scale: 99%
 
 	- Check that word "Table" (or "Tables") as well as number (and letter) are hyperlinked.
 
