@@ -25,7 +25,7 @@
 
 .. image:: /_static/suppl_files.png
   	:alt: Figure callout with pannel letter
-  	:scale: 70%
+  	:scale: 60%
 
 
 3. Figures
@@ -42,16 +42,16 @@
 	- Check the format of the supplementary figures callouts:
 
 	| :sample:`Supplementary Figure 1`
-
-	No other options are allowed.
-
-	If figure has pannels, then callout can have a letter (letter case should be the same as on figure image):
-
+	|
+	| No other options are allowed.
+	|
+	| If figure has pannels, then callout can have a letter (letter case should be the same as on figure image):
+	|
 	| :sample:`Supplementarty Figure 1A` 	
-	
-	.. image:: /_static/suppl_fig_callout_pan_letter.png
-   	  	:alt: Figure callout with pannel letter
-   	  	:scale: 99%
+	|
+	| .. image:: /_static/suppl_fig_callout_pan_letter.png
+   	|  	:alt: Figure callout with pannel letter
+   	|  	:scale: 99%
    	|
 	| `Examples of callout combinations:`
 	| :sample:`Supplementarty Figure 1`
@@ -86,14 +86,12 @@
 	.. image:: /_static/suppl_callout_table.png
 		:alt: Table callouts
 		:scale: 99%
-		
+
 	|
 	| `Examples of callout combinations:`
-	| :sampleu:`Supplementary Table 1`
-	| :sampleu:`Supplementary Tables 1 and 2` (there is "s" at the end of "Table" word)
+	| :sample:`Supplementary Table 1`
+	| :sample:`Supplementary Tables 1 and 2` (there is "s" at the end of "Table" word)
 
-
-	|
 	- Check that Supplementary table collouts are formatted in :ref:`plain text<plain_text>`.
 
 	- Check that each table has at least 1 callout in the text.
