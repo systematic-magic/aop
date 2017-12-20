@@ -10,7 +10,7 @@
 
 14. References
 --------------
-References checks are quite complex due to high number of possible variations. Therefore, we have split reference checks into two parts:
+References checks are quite complex due to high number of possible variations. Therefore, we have split reference checks into several parts:
 
 | :ref:`Author list<reference_author_list>`
 | :ref:`Citation data - in-house journals<eference_cd_house>`
