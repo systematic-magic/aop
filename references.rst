@@ -13,7 +13,7 @@
 References checks are quite complex due to high number of possible variations. Therefore, we have split reference checks into several parts:
 
 | :ref:`Author list<reference_author_list>`
-| :ref:`Citation data - in-house journals<eference_cd_house>`
+| :ref:`Citation data - in-house journals<reference_cd_house>`
 | :ref:`Citation data - other journals<reference_cd_other>`
 | :ref:`General checks<reference_general_check>`
 | :ref:`Websites<reference_web>`
