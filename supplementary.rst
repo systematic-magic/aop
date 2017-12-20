@@ -41,15 +41,17 @@
 
 	- Check the format of the supplementary figures callouts:
 
-	| :sample:`Supplementary Figure 1` (No other options are allowed.)
+	| :sample:`Supplementary Figure 1`
+	|
+	| No other options are allowed.
 	|
 	| If figure has pannels, then callout can have a letter (letter case should be the same as on figure image):
 	|
 	| :sample:`Supplementarty Figure 1A` 	
 	|
-	| 	.. image:: /_static/suppl_fig_callout_pan_letter.png
-   	|  		:alt: Figure callout with pannel letter
-   	|  		:scale: 99%
+	| .. image:: /_static/suppl_fig_callout_pan_letter.png
+   	  	:alt: Figure callout with pannel letter
+   	  	:scale: 99%
    	|
 	| `Examples of callout combinations:`
 	| :sample:`Supplementarty Figure 1`
