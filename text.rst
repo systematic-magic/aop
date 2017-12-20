@@ -169,6 +169,8 @@ If you see that there are gaps in number sequence, then check with corresponding
 	It is described in Supplementary Materials Check here.
 
 
+.. _tables_check:
+
 12. Tables
 ----------
 
@@ -218,7 +220,7 @@ At the same time, upon authors request, tables can appear in the text in any ord
 
 If you see that there are gaps in number sequence, then check with corresponding author whether some tables are missing or whether it is possible to re-number the tables to eliminate the gaps.
 
-12.5. Check table callouts in the text:
+12.6. Check table callouts in the text:
 
 	- Check the format of table callouts:
 
