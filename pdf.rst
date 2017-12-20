@@ -11,12 +11,12 @@
 1.3. Check that PDF abstract section contents match HTML abstract.
 
 
-2. Copyright string
--------------------
+2. Copyright statement
+----------------------
 
-2.1. Check that copyright sting has the following format:
+2.1. Check that copyright statement has the following format:
 
-| :sample:`LastName et al. \<License text\>`
+| :sample:`LastName et al. \<copyright statement text\>`
 |	(where LastName belongs to first author in the list of authors)
 
 2.2. Check that LastName matches last name of the first author in the Author List.
@@ -26,11 +26,11 @@
    :scale: 99%
 
 .. ATTENTION::
-   	`Gonzales Suares` on the screenshot above is a compound surname. Please make sure that full surname is listed in the Copyright string, rahter than just last bit.
+   	`Gonzales Suares` on the screenshot above is a compound surname. Please make sure that full surname is listed in the Copyright statement, rahter than just last bit.
 
 2.3. Check that there is  :sample:`et al.` after LastName.
 
-2.4. Check that License text exactly matches the following:
+2.4. Check that copyright statement text exactly matches the following:
 
 	| :sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.`
 
