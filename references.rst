@@ -208,8 +208,9 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 	- If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title (you can spot such cases by presence of colon (:) in the title; e.g. Rapid communications in mass spectrometry : RCM.)
 
 	.. image:: /_static/html_full_journal_title.png
-	:alt: Full Journal title
-	:scale: 50%
+		:alt: Full Journal title
+		:scale: 99%
+
 
 	- Journal tile should be in a :ref:`title case<title_case>`.
 
