@@ -49,18 +49,17 @@
 
 	| :sample:`Supplementarty Figure 1A` 	
 	
-	 `Example:`
 	.. image:: /_static/suppl_fig_callout_pan_letter.png
    	  	:alt: Figure callout with pannel letter
    	  	:scale: 99%
-
+   	|
 	| `Examples of callout combinations:`
 	| :sample:`Supplementarty Figure 1`
 	| :sample:`Supplementarty Figure 3C`
 	| :sample:`Supplementarty Figure 2B and 2C` (there is no "s" at the end of "Figure" word)
 	| :sample:`Supplementarty Figure 5B, 5C`
 	| :sample:`Supplementarty Figure 1E–1G`
-	| :sample:`Supplementarty Figure 1A, Supplementarty Figure 1B)`
+	| :sample:`Supplementarty Figure 1A, Supplementarty Figure 1B`
 
 
 	- Check that Supplementary figure collouts are formatted in :ref:`plain text<plain_text>`.
@@ -84,11 +83,11 @@
 
 	| :sample:`Supplementary Table 1`
 	
-	`Example`
 	.. image:: /_static/suppl_callout_table.png
 		:alt: Table callouts
 		:scale: 99%
-
+		
+	|
 	| `Examples of callout combinations:`
 	| :sampleu:`Supplementary Table 1`
 	| :sampleu:`Supplementary Tables 1 and 2` (there is "s" at the end of "Table" word)
