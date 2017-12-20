@@ -49,9 +49,9 @@
 	|
 	| :sample:`Supplementarty Figure 1A` 	
 	
-	.. image:: /_static/suppl_fig_callout_pan_letter.png
-		:alt: Figure callout with pannel letter
-		:scale: 99%
+		.. image:: /_static/suppl_fig_callout_pan_letter.png
+			:alt: Figure callout with pannel letter
+			:scale: 99%
    	|
 	| `Examples of callout combinations:`
 	| :sample:`Supplementarty Figure 1`
@@ -83,9 +83,9 @@
 
 	| :sample:`Supplementary Table 1`
 	
-	.. image:: /_static/suppl_callout_table.png
-		:alt: Table callouts
-		:scale: 99%
+		.. image:: /_static/suppl_callout_table.png
+			:alt: Table callouts
+			:scale: 99%
 
 	|
 	| `Examples of callout combinations:`
