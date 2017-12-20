@@ -82,11 +82,11 @@
 	- Check the format of table callouts:
 
 	| :sample:`Supplementary Table 1`
-	
-		.. image:: /_static/suppl_callout_table.png
-			:alt: Table callouts
-			:scale: 99%
-
+	|
+	|	.. image:: /_static/suppl_callout_table.png
+	|		:alt: Table callouts
+	|		:scale: 99%
+	|
 	|
 	| `Examples of callout combinations:`
 	| :sample:`Supplementary Table 1`
