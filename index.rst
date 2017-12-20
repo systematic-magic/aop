@@ -4,21 +4,23 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: HTML (except Editorials & News):
 
-   FrontMatter <front matter>
+   front matter
    sections
    text
    references
-   vocabulary and supplementary procedures<vocabulary>
 
 
 .. toctree::
    :maxdepth: 2
+   :caption: PDF (except Editorials & News):
 
-   PDF<pdf>
+   pdf
 
 
 .. toctree::
    :maxdepth: 2
+   :caption: Suppl (except Editorials & News):
 
    supplementary

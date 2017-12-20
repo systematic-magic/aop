@@ -119,7 +119,7 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 
 - If conversion to Excel (.xlsx) is feasible, ask Production team to convert the large table in the Word (.docx) format to Excel (.xlsx) format
 
-- If conversion to Excel (.xlsx) is *not* feasible, then such large table is to be published as a separate Word (.docx) supplementary file.
+- If conversion to Excel (.xlsx) is **not** feasible, then such large table is to be published as a separate Word (.docx) supplementary file.
 
 6.2. Check that tables in Excel (or Word) format have table number and header compliant to HTML :ref:`Tables check 12.2.<table_title_check>`.
 
