@@ -205,6 +205,12 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 	- Journal title can be abbreviated or written in full. If abbreviated, check that it is written the same way as on PubMed site. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals
 
+	- If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title (you can spot such cases by presence of colon (:) in the title; e.g. Rapid communications in mass spectrometry : RCM.)
+
+	.. image:: /_static/html_full_journal_title.png
+	:alt: Full Journal title
+	:scale: 50%
+
 	- Journal tile should be in a :ref:`title case<title_case>`.
 
 	- Journal title should be followed by period (.). There should be a space after period.
@@ -243,9 +249,6 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 	.. image:: /_static/html_cdo_doi.png
 		:alt: DOI
 		:scale: 60%
-
-	If doi is missing, then you should chose doi format for corrections based on the format of other doi present in the article. I.e. the format of doi should be consistent across all the references in the article.
-
 
 
 14.4. General checks
