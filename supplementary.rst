@@ -25,7 +25,7 @@
 
 .. image:: /_static/suppl_files.png
   	:alt: Figure callout with pannel letter
-  	:scale: 99%
+  	:scale: 70%
 
 
 3. Figures
