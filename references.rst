@@ -205,7 +205,7 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 	- Journal title can be abbreviated or written in full. If abbreviated, check that it is written the same way as on PubMed site. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals
 
-	- If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title (you can spot such cases by presence of colon (:) in the title; |br| e.g. Rapid communications in mass spectrometry : RCM.)
+	- If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title (you can spot such cases by presence of colon (:) in the title; e.g. Rapid communications in mass spectrometry : RCM.)
 
 	.. image:: /_static/html_full_journal_title.png
 		:alt: Full Journal title
@@ -283,7 +283,11 @@ If you find duplicate references, please contact the author asking to correct th
 14.5. Websites
 ==============
 
-14.5.1. There is no standard for website references.
+14.5.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+
+14.5.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+
+If the link is not valid, please contact author to provide a working link.
 
 
 14.6. Books and reports
