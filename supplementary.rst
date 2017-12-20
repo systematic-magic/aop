@@ -48,7 +48,7 @@
 	| If figure has pannels, then callout can have a letter (letter case should be the same as on figure image):
 	|
 	| :sample:`Supplementarty Figure 1A` 	
-	|
+	
 	.. image:: /_static/suppl_fig_callout_pan_letter.png
 		:alt: Figure callout with pannel letter
 		:scale: 99%
