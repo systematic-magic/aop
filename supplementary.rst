@@ -50,8 +50,8 @@
 	| :sample:`Supplementarty Figure 1A` 	
 	|
 		 .. image:: /_static/suppl_fig_callout_pan_letter.png
-   	  		:alt: Figure callout with pannel letter
-   	  		:scale: 99%
+   	  			:alt: Figure callout with pannel letter
+   	  			:scale: 99%
    	|
 	| `Examples of callout combinations:`
 	| :sample:`Supplementarty Figure 1`
