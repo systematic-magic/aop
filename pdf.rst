@@ -28,7 +28,7 @@
 .. ATTENTION::
    	`Gonzales Suares` on the screenshot above is a compound surname. Please make sure that full surname is listed in the Copyright string, rahter than just last bit.
 
-2.3. Check that there is :sample:`et al.` after LastName.
+2.3. Check that there is :sample:` et al.` after LastName.
 
 2.4. Check that License text exactly matches the following:
 
