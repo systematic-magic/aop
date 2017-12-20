@@ -26,7 +26,7 @@
 
 If image is hard to read, please contact Production team and ask to provide more clear images. If Production team does not have better images, then contact corresponding author.
 
-11.2. Check whether figures have :ref:`pannel letters<figure_pannel>`. Both lower case and upper case :ref:`pannel letters<figure_pannel>` are allowed. However, they should be used consistently: either all figures have lower case :ref:`pannel letters<figure_pannel>` or all have upper case letters. Mix of formats is not allowed.
+11.2. Check whether figures have :ref:`panel letters<figure_pannel>`. Both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they should be used consistently: either all figures have lower case :ref:`panel letters<figure_pannel>` or all have upper case letters. Mix of formats is not allowed.
 
 11.3. Check the figure description text (figure legend):
 
@@ -36,9 +36,9 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	- Check that number is followed by colon (:).
 
-	- Check that figure number is formatted in bold and colored in black.
+	- Check that figure number is formatted in bold and coloured in black.
 
-	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in plain text.
+	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and coloured in black. The rest of the text should be in plain text.
 
 	|	:sampleb:`Figure 1: First sentence of legend text in sentence case.` :sample:`Second sentance and rest of text.`
 	
@@ -48,21 +48,21 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	`Exclusion:` if first sentence contains :ref:`pannel letters<figure_pannel>`, then it should be formatted in plain text.
 
-	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing pannel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentance and rest of text.`
+	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentance and rest of text.`
 
 
 	.. image:: /_static/html_figure_number_exception.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	- If figure image has :ref:`pannel letters<figure_pannel>`, then check that referene to each pannel is present in figure legend. Reference is denoted by :ref:`pannel letter<figure_pannel>` and is formatted in bold.
+	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by :ref:`panel letter<figure_pannel>` and is formatted in bold.
 
-	| There are 2 allowed formats for the pannel reference (case of letter should match letter case in figure image):
+	| There are 2 allowed formats for the panel reference (case of letter should match letter case in figure image):
 
 	|	:sampleb:`A.` or :sampleb:`a.` - i.e. letter followed by period (.)
 	|	:sample:`(`:sampleb:`A`:sample:`)` or :sample:`(`:sampleb:`a`:sample:`)` - i.e. letter wrapped in round brackets ()
 
-	| Pannel letters can be combined in different ways in the figure legend text:
+	| Panel letters can be combined in different ways in the figure legend text:
 
 	| :sampleb:`A.` :sample:`and` :sampleb:`B.`
 
@@ -103,7 +103,7 @@ If image is hard to read, please contact Production team and ask to provide more
 	| Same variations are allowed for lower case panel letters.
 
 
-	If a reference to :ref:`pannel letter<figure_pannel>` is missing, then please ask author to provide one.
+	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 
 11.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
@@ -114,7 +114,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 11.5. Check figure callouts in the text:
 
-	- Check the format of figire callouts:
+	- Check the format of figure callouts:
 
 	| :sampleu:`Fig. 1`
 	| :sampleu:`Figure 1`
@@ -124,7 +124,7 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Figure number
    	  	:scale: 99%
     |
-	If figure has pannels, then callout can have a letter (letter case should be the same as on figure image):
+	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
 	| :sampleu:`Fig. 1A` 	
 	| :sampleu:`Fig. 1a`
@@ -140,7 +140,7 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Figure number
    	  	:scale: 99%
    	|
-	Both formats (Fig. and Figure) are acceptable. However, they should be used consitently: either all callouts have "Fig." or all callouts have "Figure".
+	Both formats (Fig. and Figure) are acceptable. However, they should be used consistently: either all callouts have "Fig." or all callouts have "Figure".
 
 	| `Examples of callout combinations:`
 	| :sampleu:`Figure 1`
@@ -194,9 +194,9 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that number is followed by colon (:).
 
-	- Check that table number is formatted in bold and colored in black.
+	- Check that table number is formatted in bold and coloured in black.
 
-	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentance as a table title.
+	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentence as a table title.
 
 	| :sampleb:`Table 2: Table title in a sentence case.`
 
@@ -206,7 +206,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that title does not have period (.) at the end.
 
-	- Check that title is written in :ref:`sentence case<sentence_case>`, formatted in bold and colored in black.
+	- Check that title is written in :ref:`sentence case<sentence_case>`, formatted in bold and coloured in black.
 
 12.3. Check that table-related additional information is presented below the table as a note in :ref:`plain text<plain_text>`.
 
@@ -214,9 +214,9 @@ If table is hard to read, please contact Production team and ask to increase fon
 	:alt: Table notes
 	:scale: 99%
 
-12.4. Check that table font, title font and notes (additional information) fonts are used consistetly within the article (i.e. font should not vary from table to table).
+12.4. Check that table font, title font and notes (additional information) fonts are used consistently within the article (i.e. font should not vary from table to table).
 
-12.5. Check that table numbers. Tables should be numbered continuously, so thare are no gaps in the sequence. In other words there should be no situation when there are tables 1, 3 and 4 in the article, but table 2 is missing.
+12.5. Check that table numbers. Tables should be numbered continuously, so there are no gaps in the sequence. In other words, there should be no situation when there are tables 1, 3 and 4 in the article, but table 2 is missing.
 
 At the same time, upon authors request, tables can appear in the text in any order. E.g. table 2 before table 1 is OK.
 
@@ -275,8 +275,6 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check that reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked.
 
-13.2. Check that callout number for each of the references is present in the text or is covered in the range of nunbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
+13.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
 
 13.3. Check that there are no "orphaned" callouts (i.e. callout numbers for the references which do not exist). E.g. if you see callout [50] and there are only 40 references in the article, then callout [50] is "orphaned" and should be removed.
-
-

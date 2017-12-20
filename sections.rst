@@ -4,9 +4,9 @@
 ------------------
 .. _start_of_check:
 
-Section headers should comply to below mentioned requirements in respect of order, letter case, color and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author contributions" section with no alternatives specified, which means that all other variations (like "Authors' contributions, Author contribution, Contribution of author, etc") are not allowed.
+Section headers should comply to below mentioned requirements in respect of order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author contributions" section with no alternatives specified, which means that all other variations (like "Authors' contributions, Author contribution, Contribution of author, etc") are not allowed.
 
-If you see any diviations of section naming in articles, please contact authors and check whether they agree to change section header in question in accordance with these standards.
+If you see any deviations of section naming in articles, please contact authors and check whether they agree to change section header in question in accordance with these standards.
 
 
 9.1. Check that article has the following sections in the following order:
@@ -103,7 +103,7 @@ If you see any diviations of section naming in articles, please contact authors 
 		:red:`INTRODUCTION` - mandatory - [all caps, in red]
 
 
-		Reviews usually have free-style (research related) section headers. These headers can be formatted in all caps and colored in red.
+		Reviews usually have free-style (research related) section headers. These headers can be formatted in all caps and coloured in red.
 
 
 		:red:`Abbreviations` - optional - [sentence case, in red]
@@ -207,7 +207,7 @@ If you see any diviations of section naming in articles, please contact authors 
 	
 	- Check that **all** subsection headers in the article are written in :ref:`sentence case<sentence_case>`.
 
-	- Check that subsection headers are formatted in bold and colored in black. 
+	- Check that subsection headers are formatted in bold and coloured in black. 
 
 	- Check that there are **no** underlining or italics (except for Latin terms and gene names) in the headers.
 
@@ -285,3 +285,4 @@ If you see any diviations of section naming in articles, please contact authors 
 +---------------------------------+--------------+-----------------------------+
 | | REFERENCES                    | Yes          | all caps, bold, in red      |
 +---------------------------------+--------------+-----------------------------+
+

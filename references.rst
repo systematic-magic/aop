@@ -10,21 +10,23 @@
 
 14. References
 --------------
-Rererences checks are quite complex due to high number of possible variations. Therfore we have split reference checks into two parts:
+References checks are quite complex due to high number of possible variations. Therefore, we have split reference checks into two parts:
 
-| Author list
-| Citation data - in-house journals
-| Citation data - other journals
-| General checks
-| Websites
-| Books
+| :ref:`Author list<reference_author_list>`
+| :ref:`Citation data - in-house journals<eference_cd_house>`
+| :ref:`Citation data - other journals<reference_cd_other>`
+| :ref:`General checks<reference_general_check>`
+| :ref:`Websites<reference_web>`
+| :ref:`Books<reference_books>`
+
+.. _reference_author_list:
 
 14.1. Author List
 =================
 
 Author list is a list of authors in the reference. Author list should always end with period (.).
 
-14.1.1. Check the format of author names in the autor list:
+14.1.1. Check the format of author names in the author list:
 
 	| :sample:`Lastname INIT` (where INIT is initials of the author, no more than 4 letters)
 	|
@@ -45,7 +47,7 @@ Author list is a list of authors in the reference. Author list should always end
 
 	- Check that initials have no more than 4 letters and have **no** hyphens (-) or spaces in-between.
 
-	- Check that mononym (names which have no initials) is “true” mononym, rather being Lasname with missed initials. Check PubMed site, if in doubt.
+	- Check that mononym (names which have no initials) is “true” mononym, rather being Lastname with missed initials. Check PubMed site, if in doubt.
 
 14.1.2. Check the format of author list. The following options are acceptable:
 
@@ -93,8 +95,9 @@ Author list is a list of authors in the reference. Author list should always end
 
 	- Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after :ref:`Group Authorship<group_authorship>` (if present).
 
-	- Author list should be formated as plain text.
+	- Author list should be formatted as plain text.
 
+.. _reference_cd_house:
 
 14.2. Citation Data (in-house)
 =============================
@@ -104,7 +107,7 @@ Author list is a list of authors in the reference. Author list should always end
 	This section is applicable ONLY to in-house journals: |br|
 	 **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
 
-Citation data is a part of a reference, which contains Jounal Title, year, volume, pages and doi.
+Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
 
 14.2.1. Check that citation data has correct journal title. The following titles are allowed:
@@ -130,7 +133,7 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 	+ Journal title should be followed by period (.). There should be a space after period.
 
-	+ Year shoudl be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
+	+ Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
 
 	+ Volume should be one or more digits and should be followed by colon (:). There can be a space after colon (but this is not mandatory).
 
@@ -164,13 +167,13 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 | Go to corresponding article page on Oncotarget site and check whether article page contains full citation-data (year; volume: pages).
 
 	.. image:: /_static/html_cit_dat_check.png
-		:alt: Adavance Publications check
+		:alt: Advance Publications check
 
 	|
 	+ If full citation data is present, then suggest correction to include full citation-data to the reference.
 
 	.. image:: /_static/html_cit_dat_corrections.png
-		:alt: Adavance Publications corrections
+		:alt: Advance Publications corrections
 
 	**OR**
 
@@ -184,6 +187,8 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 	.. image:: /_static/html_cit_dat_ahead_of_print.png
 		:alt: Ahead of Print
 
+.. _reference_cd_other:
+
 14.3. Citation Data (other journals)
 ====================================
 
@@ -191,7 +196,7 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 	
 	This section is applicable to all journals **except for in-house journals**. 
 
-Citation data is a part of a reference, which contains Jounal Title, year, volume, pages and doi.
+Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
 14.3.1. Check that citation data has the following elements in the following order:
 
@@ -206,7 +211,7 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 	- Journal title can be abbreviated or written in full. If abbreviated, check that it is written the same way as on PubMed site. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals
 
-	- If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title (you can spot such cases by presence of colon (:) in the title; e.g. Rapid communications in mass spectrometry : RCM.)
+	- If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title (you can spot such cases by presence of colon (:) in the title; e.g. Rapid Communications in Mass Spectrometry : RCM.)
 
 	.. image:: /_static/html_full_journal_title.png
 		:alt: Full Journal title
@@ -244,7 +249,7 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 		| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
 		| doi: ... (e.g. doi: 10.1177/1947601910396213.)
 
-	- DOI shoud should be hyperlinked if in https://doi.org/ format.
+	- DOI should should be hyperlinked if in https://doi.org/ format.
 
 	- DOI can be followed by period (but this is not mandatory).
 	
@@ -252,6 +257,7 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 		:alt: DOI
 		:scale: 60%
 
+.. _reference_general_check:
 
 14.4. General checks
 ====================
@@ -260,7 +266,7 @@ Citation data is a part of a reference, which contains Jounal Title, year, volum
 
 If you find duplicate references, please contact the author asking to correct the reference list.
 
-14.4.2. Check for references translated into Eglish from other language (usually you can spot those by keywords: translation, tranflated from, in Chineese, in French etc). Those references should comply to the following format:
+14.4.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
 
 	| :sample:`Author list. [Title of the article]. [Article in Chinese]. Journal Name. 1072; 1: 1-2.` (doi is optional)
 	|
@@ -270,7 +276,7 @@ If you find duplicate references, please contact the author asking to correct th
 
 14.4.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version.
 
-14.4.4. Check for extra information to the references (i.e. in addition to "sandard" information). Remove all extra information.
+14.4.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
 	
 	| `Example:`
 	| ":official publication of the society of…"
@@ -280,6 +286,7 @@ If you find duplicate references, please contact the author asking to correct th
 
 14.4.6. Remove “PMID” and “PMCID” details, if present in any reference.
 
+.. _reference_web:
 
 14.5. Websites
 ==============
@@ -290,6 +297,7 @@ If you find duplicate references, please contact the author asking to correct th
 
 If the link is not valid, please contact author to provide a working link.
 
+.. _reference_books:
 
 14.6. Books and reports
 =======================

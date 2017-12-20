@@ -5,11 +5,11 @@
 1. Title
 --------
 
-1.1. Check that Supplementary files contain artile title.
+1.1. Check that Supplementary files contain article title.
 
 1.2. Check that there is a mandatory section header: ":red:`SUPPLEMENTARY MATERIALS`". No other options are allowed.
 
-1.3. Check that ":red:`SUPPLEMENTARY MATERIALS`" header is for formated in all caps, bold and in red.
+1.3. Check that ":red:`SUPPLEMENTARY MATERIALS`" header is for formatted in all caps, bold and in red.
 
 .. image:: /_static/suppl_title_header.png
    :alt: Title and header
@@ -26,7 +26,7 @@
 2.3. Check that there are links/references to the other supplementary files (e.g. tables, videos etc) in the first supplementary tile.
 
 .. image:: /_static/suppl_files.png
-  	:alt: Figure callout with pannel letter
+  	:alt: Figure callout with panel letter
   	:scale: 60%
 
 
@@ -47,20 +47,20 @@
 	|
 	| No other options are allowed.
 	|
-	| If figure has pannels, then callout can have a letter (letter case should be the same as on figure image):
+	| If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 	|
-	| :sample:`Supplementarty Figure 1A` 	
+	| :sample:`Supplementary Figure 1A` 	
 	|
 	| `Examples of callout combinations:`
-	| :sample:`Supplementarty Figure 1`
-	| :sample:`Supplementarty Figure 3C`
-	| :sample:`Supplementarty Figure 2B and 2C` (there is no "s" at the end of "Figure" word)
-	| :sample:`Supplementarty Figure 5B, 5C`
-	| :sample:`Supplementarty Figure 1E–1G`
-	| :sample:`Supplementarty Figure 1A, Supplementarty Figure 1B`
+	| :sample:`Supplementary Figure 1`
+	| :sample:` Supplementary Figure 3C`
+	| :sample:` Supplementary Figure 2B and 2C` (there is no "s" at the end of "Figure" word)
+	| :sample:` Supplementary Figure 5B, 5C`
+	| :sample:` Supplementary Figure 1E–1G`
+	| :sample:` Supplementary Figure 1A, Supplementary Figure 1B`
 
 
-	- Check that Supplementary figure collouts are formatted in :ref:`plain text<plain_text>`.
+	- Check that Supplementary figure callouts are formatted in :ref:`plain text<plain_text>`.
 
 	- Check that each figure has at least 1 callout in the text.
 
@@ -101,7 +101,7 @@
 5. References
 -------------
 
-5.1. If there are references present in the Supplimentary text, then they should be checked in accordance with HTML :ref:`References checks<reference_checks>`.
+5.1. If there are references present in the Supplementary text, then they should be checked in accordance with HTML :ref:`References checks<reference_checks>`.
 
 5.2. Check that references in Supplementary Materials have corresponding callouts in Supplementary text.
 
@@ -117,7 +117,7 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 
 6.1. Check whether large table was supplied by the author in PDF format. If so, then please contact the author and ask to provide tables in Excel (.xlsx) or Word (.docx) format. Excel (.xlsx) format is preferable.
 
-6.2. heck whether large table was supplied by the author in Word (.docx) format. If so, check wthether large table contains complex formatting (e.g. nested cells, subcategories etc) which is likely to be disturbed by conversion to Excel (.xlsx).
+6.2. heck whether large table was supplied by the author in Word (.docx) format. If so, check whether large table contains complex formatting (e.g. nested cells, subcategories etc) which is likely to be disturbed by conversion to Excel (.xlsx).
 
 - If conversion to Excel (.xlsx) is feasible, ask Production team to convert the large table in the Word (.docx) format to Excel (.xlsx) format
 
@@ -128,7 +128,3 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 .. image:: /_static/suppl_xl_table.png
    :alt: Supplementary figure
    :scale: 99%
-
-
-
-

@@ -26,7 +26,7 @@
    :scale: 99%
 
 .. ATTENTION::
-   	`Gonzales Suares` on the screenshot above is a compound surname. Please make sure that full surname is listed in the Copyright statement, rahter than just last bit.
+   	`Gonzales Suares` on the screenshot above is a compound surname. Please make sure that full surname is listed in the Copyright statement, rather than just last bit.
 
 2.3. Check that there is  :sample:`et al.` after LastName.
 
@@ -39,4 +39,3 @@
 ---------------
 
 3.1. Go through the text and check whether use of font size is consistent through the article, whether all sections, figures, tables and references which are present in HTML are also present in PDF.
-
