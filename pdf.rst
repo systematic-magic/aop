@@ -14,7 +14,7 @@
 2. Copyright string
 -------------------
 
-2.1. Check that copyright sting has the following format: |br|
+2.1. Check that copyright sting has the following format:
 
 | :sample:`LastName et al. \<License text\>`
 |	(where LastName belongs to first author in the list of authors)
@@ -24,13 +24,13 @@
 .. image:: /_static/pdf_copyright.png
    :alt: Copyright string
    :scale: 99%
-   
+
 .. ATTENTION::
    	`Gonzales Suares` on the screenshot above is a compound surname. Please make sure that full surname is listed in the Copyright string, rahter than just last bit.
 
-2.3. Check that there is et al. after LastName.
+2.3. Check that there is :sample:`et al.` after LastName.
 
-2.4. Check that License text exactly matches the following: |br|
+2.4. Check that License text exactly matches the following:
 
 	| :sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.`
 
