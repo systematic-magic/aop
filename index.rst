@@ -21,4 +21,4 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   supplementarty
+   supplementary
