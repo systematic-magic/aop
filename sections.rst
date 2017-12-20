@@ -1,3 +1,5 @@
+.. role:: red
+
 9. Section headers
 ------------------
 .. _start_of_check:
@@ -16,8 +18,6 @@ If you see any diviations of section naming in articles, please contact authors 
 |	:ref:`Editorials and News<editorials_news>`
 |	:ref:`Case reports<case_reports>`
 |	:ref:`Research perspectives and Meeting reports<research_perspectives>`
-
-.. role:: red
 
 .. _research_papers:
 
