@@ -47,7 +47,7 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	`Exclusion:` if first sentence contains :ref:`pannel letters<figure_pannel>`, then it should be formatted in plain text.
 
-	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing :ref:`pannel letter<figure_pannel>` (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentance and rest of text.`
+	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing` :ref:`pannel letter<figure_pannel>` (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentance and rest of text.`
 
 
 	.. image:: /_static/html_figure_number_exception.png
