@@ -17,7 +17,7 @@ References checks are quite complex due to high number of possible variations. T
 | :ref:`Citation data - other journals<reference_cd_other>`
 | :ref:`General checks<reference_general_check>`
 | :ref:`Websites<reference_web>`
-| :ref:`Books<reference_books>`
+| :ref:`Books and reports<reference_books>`
 
 .. _reference_author_list:
 
