@@ -17,6 +17,7 @@
 
 10.4. Check that all website addresses are hyperlinked in article text.
 
+.. _figures_check:
 
 11. Figures
 ------------
