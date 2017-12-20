@@ -88,3 +88,16 @@
 	- Check that each table has at least 1 callout in the text.
 
 	If one or more callouts are missing in the text, please contact author.
+
+
+5. References
+-------------
+
+5.1. If there are references present in the Supplimentary text, then they should be checked in accordance with HTML :ref:`References checks<reference_checks>`.
+
+5.2. Check that references in Supplementary Materials have corresponding callouts in Supplementary text.
+
+.. image:: /_static/suppl_references.png
+   :alt: Supplementary figure
+   :scale: 99%
+

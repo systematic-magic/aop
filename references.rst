@@ -6,6 +6,7 @@
 
 .. role:: sampleu
 
+.. _reference_checks:
 
 14. References
 --------------
