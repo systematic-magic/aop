@@ -67,6 +67,12 @@
 4. Tables
 ---------
 
+.. IMPORTANT::
+
+	If table spans across 3 or more pages, then it is considered as "large table".
+	For :ref:`large tables<large_tables_check>` handling instructions, check :ref:`here<large_tables_check>`.
+
+
 4.1. HTML :ref:`Tables checks from 12.1. to 12.5<tables_check>` (inclusive) are applicable to Supplementary materials figures with one exclusion: instead of **Table** number there should be **Supplementary Table** number.
 
 .. image:: /_static/supple_table.png
@@ -100,4 +106,27 @@
 .. image:: /_static/suppl_references.png
    :alt: Supplementary figure
    :scale: 99%
+
+
+6. Large Tables
+---------------
+
+Tables which fit into 2 pages are "normal tables" and should be published as PDF for convenient printing. Tables which span across 3 or more pages are considered "large tables". Large tables should be published as separate supplementary files (preferably in Excel (.xlsx) format).
+
+6.1. Check whether large table was supplied by the author in PDF format. If so, then please contact the author and ask to provide tables in Excel (.xlsx) or Word (.docx) format. Excel (.xlsx) format is preferable.
+
+6.2. heck whether large table was supplied by the author in Word (.docx) format. If so, check wthether large table contains complex formatting (e.g. nested cells, subcategories etc) which is likely to be disturbed by conversion to Excel (.xlsx).
+
+- If conversion to Excel (.xlsx) is feasible, ask Production team to convert the large table in the Word (.docx) format to Excel (.xlsx) format
+
+- If conversion to Excel (.xlsx) is *not* feasible, then such large table is to be published as a separate Word (.docx) supplementary file.
+
+6.2. Check that tables in Excel (or Word) format have table number and header compliant to HTML :ref:`Tables check 12.2.<table_title_check>`.
+
+.. image:: /_static/suppl_xl_table.png
+   :alt: Supplementary figure
+   :scale: 99%
+
+
+
 

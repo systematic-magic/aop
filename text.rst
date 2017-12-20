@@ -178,6 +178,8 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 If table is hard to read, please contact Production team and ask to increase font size.
 
+.. _table_title_check:
+
 12.2. Check table title:
 
 	- Check that there is a tite above the table.
