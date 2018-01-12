@@ -30,9 +30,14 @@
   	:scale: 60%
 
 2.4. Check that links to supplementary files ("Download" links) are valid (i.e. you can dowload all supplementary files).
-2.5. Check that content of downloaded documents match link names (e.g. if the link has "" that downloaded document contains the data relevant to the li)
 
-!**TODO**!!!!!!!!
+2.5. Check that content of downloaded documents match the references to those documents.
+
+
+.. image:: /_static/suppl_reading_tools.png
+  	:alt: Reading tools and connections
+  	:scale: 60%
+
 
 
 
@@ -59,11 +64,11 @@
 	|
 	| `Examples of callout combinations:`
 	| :sample:`Supplementary Figure 1`
-	| :sample:` Supplementary Figure 3C`
-	| :sample:` Supplementary Figure 2B and 2C` (there is no "s" at the end of "Figure" word)
-	| :sample:` Supplementary Figure 5B, 5C`
-	| :sample:` Supplementary Figure 1E–1G`
-	| :sample:` Supplementary Figure 1A, Supplementary Figure 1B`
+	| :sample:`Supplementary Figure 3C`
+	| :sample:`Supplementary Figure 2B and 2C` (there is no "s" at the end of "Figure" word)
+	| :sample:`Supplementary Figure 5B, 5C`
+	| :sample:`Supplementary Figure 1E–1G`
+	| :sample:`Supplementary Figure 1A, Supplementary Figure 1B`
 
 
 	- Check that Supplementary figure callouts are formatted in :ref:`plain text<plain_text>`.
