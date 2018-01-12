@@ -28,6 +28,6 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Vocabulary
+   :caption: Vocabulary:
 
    Vocabulary <vocabulary and supplementary procedures>
