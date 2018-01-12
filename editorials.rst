@@ -237,3 +237,21 @@ If you see that author name does not comply to these standards, please contact c
 8. References
 -------------
 
+8.1. Check author list:
+
+	- Check that author list has the following format:
+
+	:sample:`Lastname INIT, et al.` (where INIT is initials of the author, no more than 4 letters)
+
+	Note that "et al" is required only if referenced article has more than 1 author. If article was written by single author, then "et al" is not required.
+
+
+	.. image:: /_static/editor_references.png
+   		:alt: References
+   		:scale: 60%
+
+
+8.1. Check citation data:
+
+	- Check that citation data has the following format:
+
