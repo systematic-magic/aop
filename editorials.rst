@@ -73,11 +73,11 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that reference line is composed of the following elements:
 
-	:samplebi:`News on:` :samplei:`<Title of the reference article> by <first author name of reference article> et al. Oncotarget. YEAR. DOI`    
+	:samplebi:`News on:` :samplei:`<Title of the reference article> by <first author Last Name of reference article> et al. Oncotarget. YEAR. DOI`    
 
 	- Check that :samplebi:`News on:` is formatted in bold italics and colored in black.
 
-	- Check that :samplei:`Title of reference article` is followed by :samplei:`by` and :samplei:`first author of reference article`. If there are more then 1 author in reference article, than first author should be followed by :samplei:`et al`.
+	- Check that :samplei:`Title of reference article` is followed by :samplei:`by` and :samplei:`first author Last Name of reference article`. If there are more then 1 author in reference article, than first author should be followed by :samplei:`et al.`.
 
 	- Check that first author (or first auhtor, et al.) is followed by :samplei:`Oncotarget.`
 
@@ -85,3 +85,10 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that :samplei:`YEAR` is followed by :samplei:`DOI`. :samplei:`DOI` can be followed by dot (.), but this is not mandatory.
 
+
+.. image:: /_static/editor_news_reference.png
+   :alt: Author list separators
+   :scale: 40%
+
+
+4.
