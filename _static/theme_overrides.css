@@ -47,3 +47,12 @@ body span.sampleu {
 	color: #4074c8;
 
 }
+
+body span.samplei {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 20px;
+}

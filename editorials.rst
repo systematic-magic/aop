@@ -2,6 +2,7 @@
 
 .. role:: sample
 
+.. role:: samplei
 
 1. Title
 --------
@@ -59,7 +60,15 @@ If you see that author name does not comply to these standards, please contact c
 
 2.4. Check that author names in PDF match author names in HTML.
 
+
+
 3. Reference to article (News only)
 -----------------------------------
 
-3.1. 
+3.1. Check that reference to article is located below author list.
+
+3.2. Check the format of the reference line:
+
+	- Check that reference line starts with "News on", which is followed by colon (:).
+
+	** :samplei:`News on:` **
