@@ -4,6 +4,8 @@
 
 .. role:: samplei
 
+.. role:: sampleu
+
 .. role:: samplebi
 
 1. Title
@@ -71,24 +73,53 @@ If you see that author name does not comply to these standards, please contact c
 
 3.2. Check the format of the reference line:
 
-	- Check that reference line is composed of the following elements:
+	- Check that reference line contains the following elements:
 
 	:samplebi:`News on:` :samplei:`<Title of the reference article> by <first author Last Name of reference article> et al. Oncotarget. YEAR. DOI`    
 
-	- Check that :samplebi:`News on:` is formatted in bold italics and colored in black.
+	- Check that "News on:"" is formatted in bold italics and colored in black.
 
-	- Check that :samplei:`Title of reference article` is followed by :samplei:`by` and :samplei:`first author Last Name of reference article`. If there are more then 1 author in reference article, than first author should be followed by :samplei:`et al.`.
+	- Check that "Title of reference article" is followed by "by" and "first author Last Name of reference article". If there are more then 1 author in reference article, than first author should be followed by "et al."
 
-	- Check that first author (or first auhtor, et al.) is followed by :samplei:`Oncotarget.`
+	- Check that first author (or first auhtor, et al.) is followed by "Oncotarget."
 
-	- Check that :samplei:`Oncotarget.` is followed by :samplei:`YEAR` (4 digits, e.g. "2017").
+	- Check that "Oncotarget." is followed by "YEAR" (4 digits, e.g. "2017").
 
-	- Check that :samplei:`YEAR` is followed by :samplei:`DOI`. :samplei:`DOI` can be followed by dot (.), but this is not mandatory.
+	- Check that "YEAR" is followed by "DOI". DOI can be followed by dot (.), but this is not mandatory.
 
 
 .. image:: /_static/editor_news_reference.png
    :alt: Author list separators
-   :scale: 40%
+   :scale: 60%
 
 
-4.
+4. Affiliation text
+-------------------
+
+4.1. Check that affiliation line contains the following elements:
+
+	:sampleu:`Corresponding author name:` :samplei:`affiliation text`.
+
+	- Check that corresponding author name is underlined and followed by colon (:).
+
+
+3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
+
+	- Check that affiliation text contains at least department/division/lab/school and institution.
+	| Note that there can be affiliations for non-academic institutions (such as companies). In such cases, "institution" part of affilation text should contain just a company name.
+	
+	- Check that NO street addresses and house numbers are included in affiliation texts.
+
+	- Check that both country and city names are present in affiliation texts.
+
+	- Check that country and city names are NOT written in all CAPS (capital letters).
+
+	- Check USA states. Both full names and abbriviations (two capital letters) are allowed.
+	  
+	- Check that there are no Zip codes in affiliation text.
+
+	- Check that only commas are used to separate parts of affiliation text. In rare cases there can be several affiliations for the author. In this case those affiliations should be separated by semicolon (;).
+
+
+
+
