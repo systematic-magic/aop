@@ -106,7 +106,7 @@ If you see that author name does not comply to these standards, please contact c
 
 	.. image:: /_static/editor_affiliations.png
 	   :alt: Author list separators
-	   :scale: 40%	
+	   :scale: 60%	
 
 
 4.2. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
@@ -138,7 +138,7 @@ If you see that author name does not comply to these standards, please contact c
 
 .. image:: /_static/editor_correspondence.png
    :alt: Correspondence
-   :scale: 40%	
+   :scale: 60%	
 
 
 5.2. Check that name of author in corresspondence line fully matches name in author list (it should be exact match, i.e. middle name initials should also match, if present).
@@ -150,8 +150,56 @@ If you see that author name does not comply to these standards, please contact c
 6. Keywords
 -----------
 
-6.1. 
+6.1. Check that keywords line contains the following elements:
 
+	
+
+
+6.1. Check that keywords section has a title “Keywords:”. It should start with capital letter and be followed by colon (:).
+
+6.2. Check the format of the keywords line:
+	
+	- Check that keywords are written in lower case, unless proper nouns. Check that capitalisation of scientific terms is correct. We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
+
+	- Check that keywords are separated either by comma (,) or semicolon (;). However use of separators should be consistent: either all keywords are separated by comma or by semicolon. Separators cannot be mixed.
+
+	
+	.. image:: /_static/html_keywords.png
+   		:alt: Keywords
+		:scale: 60%
+
+	- Check that article has at least 1 and not more than 5 keywords.
+
+| `Exception:` 
+|
+| If article belongs to Special section (see below), then there can be additional special-section-related keywords (i.e. check that article has from 1 to 5 "general" keywords and all special section keywords).
+
+	- Have a look at TOC Section Title to check whether article belongs to Special section. If Section Title contains any of the words in "Special Section" column of the table below, then it belongs to the Special Section.
+
+	
+	.. image:: /_static/html_special_section.png
+   		:alt: Special Section
+   	|
+	If article belongs to Special Section, then in addition to 5 general keywords article must have ALL special-section-related keywords. Corresponding keywords you can find in the table below.
+
+
+	+-----------------------------+--------------+ 
+	| Special Section             | Keywords     | 
+	+=============================+==============+ 
+	| Pathology                   | Pathology    | 
+	+-----------------------------+--------------+ 
+	| Chromosome                  | Chromosome   | 
+	+-----------------------------+--------------+ 
+	| Gerotarget (Focus on Aging) | Gerotarget   | 
+	+-----------------------------+--------------+ 
+	| Autophagy                   | Autophagy    | 
+	+-----------------------------+--------------+ 
+	| Neuroscience	              | Neuroscience | 
+	+-----------------------------+--------------+ 
+	| Immunology	              | Immunology   | 
+	+-----------------------------+--------------+
+
+	- Check that there are no punctuation marks at the end of keywords line.
 
 
 
