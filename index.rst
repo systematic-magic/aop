@@ -27,6 +27,13 @@ Contents
 
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Editorials & News:
+
+   editorials
+
+
+.. toctree::
    :caption: Appendix:
 
    vocabulary
