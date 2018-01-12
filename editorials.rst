@@ -152,10 +152,12 @@ If you see that author name does not comply to these standards, please contact c
 
 6.1. Check that keywords line contains the following elements:
 
-	
+	| :samplebi:`Keywords:` :samplei:`keyword1, keyword2, keyword3, keyword4, keyword5, specialSectionKeyword6`
+	| OR
+	| :samplebi:`Keywords:` :samplei:`keyword1; keyword2; keyword3; keyword4; keyword5; specialSectionKeyword6`
 
 
-6.1. Check that keywords section has a title “Keywords:”. It should start with capital letter and be followed by colon (:).
+	- Check that "Keywords:" word is formatted in bold italics and colored in black.
 
 6.2. Check the format of the keywords line:
 	
@@ -164,7 +166,7 @@ If you see that author name does not comply to these standards, please contact c
 	- Check that keywords are separated either by comma (,) or semicolon (;). However use of separators should be consistent: either all keywords are separated by comma or by semicolon. Separators cannot be mixed.
 
 	
-	.. image:: /_static/html_keywords.png
+	.. image:: /_static/editor_keywords.png
    		:alt: Keywords
 		:scale: 60%
 
@@ -177,8 +179,9 @@ If you see that author name does not comply to these standards, please contact c
 	- Have a look at TOC Section Title to check whether article belongs to Special section. If Section Title contains any of the words in "Special Section" column of the table below, then it belongs to the Special Section.
 
 	
-	.. image:: /_static/html_special_section.png
+	.. image:: /_static/editor_special_section.png
    		:alt: Special Section
+   		:scale: 60%
    	|
 	If article belongs to Special Section, then in addition to 5 general keywords article must have ALL special-section-related keywords. Corresponding keywords you can find in the table below.
 
@@ -202,4 +205,4 @@ If you see that author name does not comply to these standards, please contact c
 	- Check that there are no punctuation marks at the end of keywords line.
 
 
-
+7. 
