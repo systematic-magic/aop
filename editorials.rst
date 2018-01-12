@@ -1,3 +1,8 @@
+.. role:: und
+
+.. role:: sample
+
+
 1. Title
 --------
 
@@ -23,7 +28,7 @@ For other Latin terms and gene names either italics or :ref:`plain text<plain_te
 
 .. image:: /_static/editor_author_list.png
    :alt: Author list separators
-   :scale: 60%
+   :scale: 40%
 
 
 2.3. Check the format of the author name. 
@@ -51,3 +56,10 @@ Please note that last names can be compound, can have prepositions, suffixes, pr
 
 
 If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
+
+2.4. Check that author names in PDF match author names in HTML.
+
+3. Reference to article (News only)
+-----------------------------------
+
+3.1. 
