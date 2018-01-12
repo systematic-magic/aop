@@ -1,4 +1,7 @@
 
+Vocabulary
+==========
+
 .. _sentence_case:
 
 Sentence case
