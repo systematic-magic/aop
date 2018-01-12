@@ -27,6 +27,6 @@ Contents
 
 
 .. toctree::
-   :caption: Vocabulary:
+   :caption: Appendix:
 
    vocabulary
