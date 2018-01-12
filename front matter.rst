@@ -101,9 +101,14 @@ In case you find several affiliation texts for one text number, please contact c
 .. image:: /_static/html_affiliation_numbers_new.png
    :alt: Affiliation Numbers
 
-3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. e University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
+3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
 
-	- Check that affiliation text contains at least department/division/lab/school and institution.
+	- Check that affiliation text contains at least department/division/lab/school and institution. |br|
+	Note that there can be affiliations for non-academic institutions (such as companies). In such cases, "institution" part of affilation text should contain just a company name.
+	
+	.. image:: /_static/html_aff_text_non_academ.png
+	   :alt: Affiliation Text Non-Academic
+
 
 	- Check that NO street addresses and house numbers are included in affiliation texts.
 
@@ -298,20 +303,6 @@ Abbreviations are optional.
 
  	- Check that Received date is older than Accepted date, and Accepted date is older than Published date (i.e. we cannot publish before we accept, and cannot accept before we receive).
 
-
-
-
-.. |Fdot| raw:: html
-
-   F&period;
-
-.. |uline_strt| raw:: html
-	
-	<u>
-
-.. |uline_end| raw:: html
-	
-	</u>
 
 
 .. |br| raw:: html

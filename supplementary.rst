@@ -23,11 +23,17 @@
 
 2.2. Check that there are no blank pages (i.e. all the pages have content)
 
-2.3. Check that there are links/references to the other supplementary files (e.g. tables, videos etc) in the first supplementary tile.
+2.3. Check that there are links/references to the other supplementary files (e.g. tables, videos etc) in the first supplementary file.
 
 .. image:: /_static/suppl_files.png
   	:alt: Figure callout with panel letter
   	:scale: 60%
+
+2.4. Check that links to supplementary files ("Download" links) are valid (i.e. you can dowload all supplementary files).
+2.5. Check that content of downloaded documents match link names (e.g. if the link has "" that downloaded document contains the data relevant to the li)
+
+!**TODO**!!!!!!!!
+
 
 
 3. Figures
@@ -117,13 +123,13 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 
 6.1. Check whether large table was supplied by the author in PDF format. If so, then please contact the author and ask to provide tables in Excel (.xlsx) or Word (.docx) format. Excel (.xlsx) format is preferable.
 
-6.2. heck whether large table was supplied by the author in Word (.docx) format. If so, check whether large table contains complex formatting (e.g. nested cells, subcategories etc) which is likely to be disturbed by conversion to Excel (.xlsx).
+6.2. Check whether large table was supplied by the author in Word (.docx) format. If so, check whether large table contains complex formatting (e.g. nested cells, subcategories etc) which is likely to be disturbed by conversion to Excel (.xlsx).
 
 - If conversion to Excel (.xlsx) is feasible, ask Production team to convert the large table in the Word (.docx) format to Excel (.xlsx) format
 
 - If conversion to Excel (.xlsx) is **not** feasible, then such large table is to be published as a separate Word (.docx) supplementary file.
 
-6.2. Check that tables in Excel (or Word) format have table number and header compliant to HTML :ref:`Tables check 12.2.<table_title_check>`.
+6.3. Check that tables in Excel (or Word) format have table number and header compliant to HTML :ref:`Tables check 12.2.<table_title_check>`
 
 .. image:: /_static/suppl_xl_table.png
    :alt: Supplementary figure
