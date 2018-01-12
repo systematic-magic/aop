@@ -65,3 +65,14 @@ body span.samplei {
 	font-weight: 400;
 
 }
+
+body span.sampleiblk {
+	display: inline-block;
+	border-bottom: 1px black;
+	font-family: monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+
+}

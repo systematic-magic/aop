@@ -8,6 +8,8 @@
 
 .. role:: samplebi
 
+.. role:: sampleiblk 
+
 1. Title
 --------
 
@@ -98,13 +100,13 @@ If you see that author name does not comply to these standards, please contact c
 
 4.1. Check that affiliation line contains the following elements:
 
-	:sampleu:`Corresponding author name:` :sample:`affiliation text`.
+	:sampleiblk:`Corresponding author name:` :sample:`affiliation text`.
 
 	- Check that corresponding author name is underlined and followed by colon (:).
 
 	.. image:: /_static/editor_affiliations.png
 	   :alt: Author list separators
-	   :scale: 99%	
+	   :scale: 40%	
 
 
 4.2. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
@@ -136,7 +138,7 @@ If you see that author name does not comply to these standards, please contact c
 
 .. image:: /_static/editor_correspondence.png
    :alt: Correspondence
-   :scale: 99%	
+   :scale: 40%	
 
 
 5.2. Check that name of author in corresspondence line fully matches name in author list (it should be exact match, i.e. middle name initials should also match, if present).
@@ -145,9 +147,11 @@ If you see that author name does not comply to these standards, please contact c
 
 	
 
-
-5. Keywords
+6. Keywords
 -----------
+
+6.1. 
+
 
 
 
