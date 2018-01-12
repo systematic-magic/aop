@@ -125,8 +125,29 @@ If you see that author name does not comply to these standards, please contact c
 	- Check that only commas are used to separate parts of affiliation text. In rare cases there can be several affiliations for the author. In this case those affiliations should be separated by semicolon (;).
 
 
+5. Correspondence
+-----------------
 
-5. 
+5.1. Check that correspondence line contains the following elements:
+
+	:samplebi:`Correspondence to:` :samplei:`Correspondence author Full Name,` :samplebi:`email` :samplei:`email@address.com`
+
+	- Check that "Correspondence to:" and "email" words are formatted in bold italics and colored in black.
+
+.. image:: /_static/editor_correspondence.png
+   :alt: Correspondence
+   :scale: 99%	
+
+
+5.2. Check that name of author in corresspondence line fully matches name in author list (it should be exact match, i.e. middle name initials should also match, if present).
+
+5.3. In rare cases when there are several corresponding authors, there can be several correspondence lines.
+
+	
+
+
+5. Keywords
+-----------
 
 
 
