@@ -77,10 +77,11 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that :samplebi:`News on:` is formatted in bold italics and colored in black.
 
-	- Check that title of reference article is followed by "by" and first author of reference article. If there are more then 1 author in reference article, than first author should be followed by "et al".
+	- Check that :samplei:`Title of reference article` is followed by :samplei:`by` and :samplei:`first author of reference article`. If there are more then 1 author in reference article, than first author should be followed by :samplei:`et al`.
 
-	- Check that first author (or first auhtor, et al.) is followed by "Oncotarget."
+	- Check that first author (or first auhtor, et al.) is followed by :samplei:`Oncotarget.`
 
-	- Check that "Oncotarget." is followed by YEAR (4 digits, e.g. "2017").
+	- Check that :samplei:`Oncotarget.` is followed by :samplei:`YEAR` (4 digits, e.g. "2017").
 
-	- Check that YEAR is followed by DOI. DOI can be followed by dot (.), but this is not mandatory.
+	- Check that :samplei:`YEAR` is followed by :samplei:`DOI`. :samplei:`DOI` can be followed by dot (.), but this is not mandatory.
+
