@@ -205,4 +205,30 @@ If you see that author name does not comply to these standards, please contact c
 	- Check that there are no punctuation marks at the end of keywords line.
 
 
-7. 
+7. Dates
+--------
+
+7.1. Check that there are 2 date lines - "Received:" and "Published:" - having the following format:
+
+	| :samplebi:`Received:` :samplei:`Month Day, Year`
+	| :samplebi:`Published:` :samplei:`Month Day, Year`
+	
+
+	- Check that Month is spelled out, and Day and Year are presented as digits. Note that sigle Day digits should be preceeded by 0 (zero).
+
+	| 	`Example:`
+	|	June 02, 2017
+	| 	August 29, 2016
+ 
+ 	- Check that there is a comma (,) between Day and Year.
+
+ 	- Check the spelling of the month.
+
+ 	- Check that dates are written in italics.
+
+ 	.. image:: /_static/editor_dates.png
+   		:alt: Dates format
+   		:scale: 60%
+
+ 	- Check that Received date is older than Pubslished date (i.e. we cannot publish before we recieve).
+
