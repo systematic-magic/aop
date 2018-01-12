@@ -30,4 +30,4 @@ Contents
    :maxdepth: 2
    :caption: Vocabulary:
 
-   Vocabulary <vocabulary and supplementary procedures>
+   Vocabulary <vocabulary>
