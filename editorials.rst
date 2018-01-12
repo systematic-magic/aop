@@ -4,6 +4,8 @@
 
 .. role:: samplei
 
+.. role:: samplebi
+
 1. Title
 --------
 
@@ -69,6 +71,8 @@ If you see that author name does not comply to these standards, please contact c
 
 3.2. Check the format of the reference line:
 
-	- Check that reference line starts with "News on", which is followed by colon (:).
+	- Check that reference line is composed of the following elements:
 
-	** :samplei:`News on:` **
+	:samplebi:`News on:` :samplei:`Title of the reference article    by   first author name of reference article    et al. Oncotarget. YEAR. DOI.`    
+
+	- Check that "News on:" is followed by title of reference article in italics

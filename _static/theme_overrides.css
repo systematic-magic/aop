@@ -48,11 +48,20 @@ body span.sampleu {
 
 }
 
-body span.samplei {
+body span.samplebi {
 	font-family: monospace;
 	font-size: 16px;
 	font-style: italic;
 	font-variant: normal;
 	font-weight: 700;
 	line-height: 20px;
+}
+
+body span.samplei {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 400;
+
 }
