@@ -98,12 +98,16 @@ If you see that author name does not comply to these standards, please contact c
 
 4.1. Check that affiliation line contains the following elements:
 
-	:sampleu:`Corresponding author name:` :samplei:`affiliation text`.
+	:sampleu:`Corresponding author name:` :sample:`affiliation text`.
 
 	- Check that corresponding author name is underlined and followed by colon (:).
 
+	.. image:: /_static/editor_affiliations.png
+	   :alt: Author list separators
+	   :scale: 99%	
 
-3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
+
+4.2. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
 
 	- Check that affiliation text contains at least department/division/lab/school and institution.
 	| Note that there can be affiliations for non-academic institutions (such as companies). In such cases, "institution" part of affilation text should contain just a company name.
@@ -120,6 +124,9 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that only commas are used to separate parts of affiliation text. In rare cases there can be several affiliations for the author. In this case those affiliations should be separated by semicolon (;).
 
+
+
+5. 
 
 
 
