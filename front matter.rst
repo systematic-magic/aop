@@ -103,11 +103,11 @@ In case you find several affiliation texts for one text number, please contact c
 
 3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
 
-	- Check that affiliation text contains at least department/division/lab/school and institution. |br|
+	- Check that affiliation text contains at least department/division/lab/school and institution.
 	| Note that there can be affiliations for non-academic institutions (such as companies). In such cases, "institution" part of affilation text should contain just a company name.
-	|
-	|	.. image:: /_static/html_aff_text_non_academ.png
-	|  		:alt: Affiliation Text Non-Academic
+	
+	.. image:: /_static/html_aff_text_non_academ.png
+		:alt: Affiliation Text Non-Academic
 
 
 	- Check that NO street addresses and house numbers are included in affiliation texts.
