@@ -136,7 +136,9 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that "Correspondence to:" and "email" words are formatted in bold italics and colored in black.
 
-	s:scale: 60%	
+	.. image:: /_static/editor_correspondence.png
+	   :alt: Correspondence
+	   :scale: 60%	
 
 
 5.2. Check that name of author in corresspondence line fully matches name in author list (it should be exact match, i.e. middle name initials should also match, if present).
@@ -224,9 +226,14 @@ If you see that author name does not comply to these standards, please contact c
 
  	- Check that dates are written in italics.
 
-	 	.. image:: /_static/editor_dates.png
-	   		:alt: Dates format
-	   		:scale: 60%
+ 	.. image:: /_static/editor_dates.png
+   		:alt: Dates format
+   		:scale: 60%
 
  	- Check that Received date is older than Pubslished date (i.e. we cannot publish before we recieve).
+
+
+
+8. References
+-------------
 
