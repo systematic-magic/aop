@@ -27,7 +27,6 @@ Contents
 
 
 .. toctree::
-   :maxdepth: 2
    :caption: Vocabulary:
 
    vocabulary
