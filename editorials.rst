@@ -243,15 +243,15 @@ If you see that author name does not comply to these standards, please contact c
 
 	:sample:`Lastname INIT, et al.` (where INIT is initials of the author, no more than 4 letters)
 
-	| Note that "et al" is required only if referenced article has more than 1 author. If article was written by single author, then "et al" is not required.
+	Note that "et al" is required only if referenced article has more than 1 author. If article was written by single author, then "et al" is not required.
 
 
 	.. image:: /_static/editor_references.png
    		:alt: References
    		:scale: 60%
 
-   	| Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
-	|
+   	Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
+	
 	| Compound last names: :sample:`Garcia-Closas, Gomez Jimenez`
 	| Last name related prepositions: :sample:`Van den Brandt, van der Ent`
 	| Suffixes: :sample:`Williams 3rd, Rowland Jr`
