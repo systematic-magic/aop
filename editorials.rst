@@ -334,7 +334,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
-14.3.1. Check that citation data has the following elements in the following order:
+8.3.1. Check that citation data has the following elements in the following order:
 
 	| :sample:`Journal Title. year; volume: page numbers. doi.` (note: doi is optional)
 	|	
@@ -343,7 +343,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 	| Clin Microbiol Rev. 2003; 16:1-17. https://doi.org/10.1128/CMR.16.1.1-17.2003.
 	| Quant Biol. 2013; 1: 115-30. doi: 10.1007/s40484-013-0012-4.
 
-14.3.2. Check the format of each element:
+8.3.2. Check the format of each element:
 
 	- Journal title can be abbreviated or written in full. If abbreviated, check that it is written the same way as on PubMed site. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals
 
@@ -392,3 +392,37 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 	.. image:: /_static/html_cdo_doi.png
 		:alt: DOI
 		:scale: 60%
+
+
+9. Referemce Callouts
+----------------------
+
+9.1. Check reference callouts in the text:
+
+	- Check the format of reference callouts:
+
+	| :sample:`[N]` (where N is the order number of the corresponding reference)
+	|
+	| `Examples:`
+	| :sample:`[1]`
+	| :sample:`[1, 2]`
+	| :sample:`[1–3]`
+	| :sample:`[1, 3–4]`
+
+	.. image:: /_static/editor_callouts.png
+		:alt: Callouts
+		:scale: 60%
+	|
+	- Check that only comma (,) and :ref:`en dash<en_dash>` (-) are used as a separators. No other separators are allowed. 
+
+	- Check that there is a space after comma (,) and no space before and after en dash (-).
+
+	- Check that reference callouts are in :ref:`plain text<plain_text>`.
+
+9.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
+
+9.3. Check that there are no "orphaned" callouts (i.e. callout numbers for the references which do not exist). E.g. if you see callout [50] and there are only 40 references in the article, then callout [50] is "orphaned" and should be removed.
+
+
+10. Referemce Callouts
+----------------------
