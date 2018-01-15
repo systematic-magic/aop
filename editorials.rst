@@ -516,13 +516,7 @@ If image is hard to read, please contact Production team and ask to provide more
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 
-10.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
-
-At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
-
-If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to re-number the figures to eliminate the gaps.
-
-10.5. Check figure callouts in the text:
+10.4. Check figure callouts in the text:
 
 	- Check the format of figure callouts:
 
@@ -554,4 +548,55 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 
 11. Tables
------------
+----------
+
+12.1.  Check that table font size is large enough to read.
+
+If table is hard to read, please contact Production team and ask to increase font size.
+
+12.2. Check table title:
+
+	- Check that there is a tite above the table.
+
+	- Check that title has table number:
+
+	| :sampleb:`Table N:` (where N is a number of the table)
+
+	- Check that number is followed by colon (:).
+
+	- Check that table number is formatted in bold and coloured in black.
+
+	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentence as a table title.
+
+	| :sampleb:`Table 2: Table title in a sentence case.`
+
+	.. image:: /_static/html_table_title.png
+   	  	:alt: Table title
+   	  	:scale: 99%
+
+	- Check that title does not have period (.) at the end.
+
+	- Check that title is written in :ref:`sentence case<sentence_case>`, formatted in bold and coloured in black.
+
+12.3. Check that table-related additional information is presented below the table as a note in :ref:`plain text<plain_text>`.
+
+.. image:: /_static/html_table_notes.png
+	:alt: Table notes
+	:scale: 99%
+
+12.4. Check that table font, title font and notes (additional information) fonts are used consistently within the article (i.e. font should not vary from table to table).
+
+
+12.6. Check table callouts in the text:
+
+	- Check the format of table callouts:
+
+	| :sample:`Table 1`
+
+
+	.. image:: /_static/html_table_callouts.png
+		:alt: Table callouts
+		:scale: 99%
+	|
+
+	- Check that table has at least 1 callout in the text. If callouts are missing in the text, please contact author.
