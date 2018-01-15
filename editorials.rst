@@ -413,7 +413,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	.. image:: /_static/editor_callouts.png
 		:alt: Callouts
-		:scale: 60%
+		:scale: 40%
 	|
 	- Check that only comma (,) and :ref:`en dash<en_dash>` (-) are used as a separators. No other separators are allowed. 
 
@@ -530,7 +530,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	.. image:: /_static/editor_figure_callouts_in_text.png
    	  	:alt: Figure number
-   	  	:scale: 60%
+   	  	:scale: 40%
     |
 	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
@@ -539,8 +539,9 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	.. image:: /_static/editor_figure_callout.png
    	  	:alt: Figure number
-   	  	:scale: 60%
+   	  	:scale: 40%
 
+   	|
 	| `Examples of callout combinations:`
 	| :sampleu:`Figure 1`
 	| :sampleu:`Figure 1A`
