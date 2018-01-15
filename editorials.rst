@@ -394,7 +394,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 		:scale: 60%
 
 
-9. Referemce Callouts
+9. Reference Callouts
 ----------------------
 
 9.1. Check reference callouts in the text:
@@ -424,5 +424,151 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 9.3. Check that there are no "orphaned" callouts (i.e. callout numbers for the references which do not exist). E.g. if you see callout [50] and there are only 40 references in the article, then callout [50] is "orphaned" and should be removed.
 
 
-10. Referemce Callouts
+10. Figures
+-----------
+
+There can be just one figure in the Editorial/News paper. If you see more than 2 figures, please check with Priduction Team.
+
+
+10.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
+
+If image is hard to read, please contact Production team and ask to provide more clear images. If Production team does not have better images, then contact corresponding author.
+
+11.2. Check whether figure has :ref:`panel letters<figure_pannel>`. Both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they should be used consistently: either all figure panels have lower case letters or all have upper case letters. Mix of formats is not allowed.
+
+11.3. Check the figure description text (figure legend):
+
+	- Check that figure legend has a figure number:
+
+	|	:sampleb:`Figure N:` (where N is a number of the figure)
+
+	- Check that number is followed by colon (:).
+
+	- Check that figure number is formatted in bold and coloured in black.
+
+	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and coloured in black. The rest of the text should be in plain text.
+
+	|	:sampleb:`Figure 1: First sentence of legend text in sentence case.` :sample:`Second sentance and rest of text.`
+	
+	.. image:: /_static/html_figure_number.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	`Exclusion:` if first sentence contains :ref:`pannel letters<figure_pannel>`, then it should be formatted in plain text.
+
+	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentance and rest of text.`
+
+
+	.. image:: /_static/html_figure_number_exception.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by :ref:`panel letter<figure_pannel>` and is formatted in bold.
+
+	| There are 2 allowed formats for the panel reference (case of letter should match letter case in figure image):
+
+	|	:sampleb:`A.` or :sampleb:`a.` - i.e. letter followed by period (.)
+	|	:sample:`(`:sampleb:`A`:sample:`)` or :sample:`(`:sampleb:`a`:sample:`)` - i.e. letter wrapped in round brackets ()
+
+	| Panel letters can be combined in different ways in the figure legend text:
+
+	| :sampleb:`A.` :sample:`and` :sampleb:`B.`
+
+	.. image:: /_static/html_fig_reference_anb.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sampleb:`A.`:sample:`,` :sampleb:`B.`
+
+	.. image:: /_static/html_fig_reference_acomb.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sampleb:`A.-C.`
+
+	.. image:: /_static/html_fig_reference_a-c.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
+
+	.. image:: /_static/html_fig_reference_br_anb.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
+
+	.. image:: /_static/html_fig_reference_br_acomb.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sample:`(`:sampleb:`A-C`:sample:`)`
+
+	.. image:: /_static/html_fig_reference_br_a-c.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| Same variations are allowed for lower case panel letters.
+
+
+	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
+
+
+11.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
+
+At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
+
+If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to re-number the figures to eliminate the gaps.
+
+11.5. Check figure callouts in the text:
+
+	- Check the format of figure callouts:
+
+	| :sampleu:`Fig. 1`
+	| :sampleu:`Figure 1`
+
+
+	.. image:: /_static/html_fig_callouts.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+    |
+	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
+
+	| :sampleu:`Fig. 1A` 	
+	| :sampleu:`Fig. 1a`
+	
+	.. image:: /_static/html_fig_callout_short_letters.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+   	|
+	| :sampleu:`Figure 1A`
+	| :sampleu:`Figure 1a`
+
+	.. image:: /_static/html_fig_callout_full_letters.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+   	|
+	Both formats (Fig. and Figure) are acceptable. However, they should be used consistently: either all callouts have "Fig." or all callouts have "Figure".
+
+	| `Examples of callout combinations:`
+	| :sampleu:`Figure 1`
+	| :sampleu:`Figure 3C`
+	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is no "s" at the end of "Figure" word)
+	| :sampleu:`Figure 5B`:sample:`,` :sampleu:`5C`
+	| :sampleu:`Figure 1E`:sample:`–`:sampleu:`1G`
+
+	.. image:: /_static/html_fig_callout_variations.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	Same variations are allowed for "Fig."
+
+
+	- Check that figure has at least 1 callout in the text.
+
+	If callouts are missing in the text, please contact author.
+
+
+
+
 ----------------------
