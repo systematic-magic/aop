@@ -81,9 +81,9 @@ If you see that author name does not comply to these standards, please contact c
 
 	:samplebi:`News on:` :samplei:`<Title of the reference article> by <first author Last Name of reference article> et al. Oncotarget. YEAR. DOI`    
 
-	- Check that "News on:"" is formatted in bold italics and colored in black.
+	- Check that "News on:" is formatted in bold italics and colored in black.
 
-	- Check that "Title of reference article" is followed by "by" and "first author Last Name of reference article". If there are more then 1 author in reference article, than first author should be followed by "et al."
+	- Check that "Title of reference article" is followed by "by" and "first author Last Name of reference article". If there are more then 1 author in reference article, than first author Last Name should be followed by "et al."
 
 	- Check that first author (or first auhtor, et al.) is followed by "Oncotarget."
 
@@ -154,9 +154,9 @@ If you see that author name does not comply to these standards, please contact c
 
 6.1. Check that keywords line contains the following elements:
 
-	| :samplebi:`Keywords:` :samplei:`keyword1, keyword2, keyword3, keyword4, keyword5, specialSectionKeyword6`
+	| :samplebi:`Keywords:` :samplei:`keyword1, keyword2, keyword3, keyword4, keyword5`
 	| OR
-	| :samplebi:`Keywords:` :samplei:`keyword1; keyword2; keyword3; keyword4; keyword5; specialSectionKeyword6`
+	| :samplebi:`Keywords:` :samplei:`keyword1; keyword2; keyword3; keyword4; keyword5`
 
 
 	- Check that "Keywords:" word is formatted in bold italics and colored in black.
@@ -242,7 +242,7 @@ If you see that author name does not comply to these standards, please contact c
 8.1. Author List
 ================
 
-	- Check that author list has the following format:
+8.1.1. Check that author list has the following format:
 
 	:sample:`Lastname INIT, et al.` (where INIT is initials of the author, no more than 4 letters)
 
@@ -253,7 +253,7 @@ If you see that author name does not comply to these standards, please contact c
    		:alt: References
    		:scale: 60%
 
-   	Please note that last names can be compound, can have prepositions, suffixes, prefixes or be mononyms. For example:
+   	Please note that last names can be compound, can have prepositions, suffixes, prefixes or be :ref:`mononyms<mononym>`. For example:
 	
 	| Compound last names: :sample:`Garcia-Closas, Gomez Jimenez`
 	| Last name related prepositions: :sample:`Van den Brandt, van der Ent`
@@ -318,11 +318,11 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	If doi is missing, then you should chose doi format for corrections based on the format of other doi present in the article. I.e. the format of doi should be consistent across all the references in the article.
 
-	.. image:: /_static/editor_citaiton_data.png
+	.. image:: /_static/editor_citation_data.png
 		:alt: Citation Data
 		:scale: 60%
 
-	.. image:: /_static/editor_citaiton_data2.png
+	.. image:: /_static/editor_citation_data2.png
 		:alt: Citation Data
 		:scale: 60%
 
@@ -349,7 +349,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	- Journal title can be abbreviated or written in full. If abbreviated, check that it is written the same way as on PubMed site. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals
 
-	- If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title (you can spot such cases by presence of colon (:) in the title; e.g. Rapid Communications in Mass Spectrometry : RCM.)
+	- If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title. You can spot such cases by presence of colon (:) in the title (e.g. Rapid Communications in Mass Spectrometry : RCM).
 
 	.. image:: /_static/editor_abbr_reference.png
 		:alt: Full Journal title
@@ -550,6 +550,8 @@ If image is hard to read, please contact Production team and ask to provide more
 11. Tables
 ----------
 
+There can be just one table in the Editorial/News paper. If you see more than 2 tables, please check with Priduction Team.
+
 12.1.  Check that table font size is large enough to read.
 
 If table is hard to read, please contact Production team and ask to increase font size.
@@ -598,3 +600,10 @@ If table is hard to read, please contact Production team and ask to increase fon
 	|
 
 	- Check that table has at least 1 callout in the text. If callouts are missing in the text, please contact author.
+
+
+
+
+.. |br| raw:: html
+
+   <br />
