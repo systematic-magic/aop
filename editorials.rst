@@ -530,24 +530,24 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	.. image:: /_static/editor_figure_callouts_in_text.png
    	  	:alt: Figure number
-   	  	:scale: 40%
+   	  	:scale: 50%
     |
 	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
-	| :sampleu:`Figure 1A`
-	| :sampleu:`Figure 1a`
+	| :sample:`Figure 1A`
+	| :sample:`Figure 1a`
 
 	.. image:: /_static/editor_figure_callout.png
    	  	:alt: Figure number
-   	  	:scale: 40%
+   	  	:scale: 50%
 
    	|
 	| `Examples of callout combinations:`
-	| :sampleu:`Figure 1`
-	| :sampleu:`Figure 1A`
-	| :sampleu:`Figure 1B` :sample:`and` :sampleu:`1C` (note that there is no "s" at the end of "Figure" word)
-	| :sampleu:`Figure 1B`:sample:`,` :sampleu:`1C`
-	| :sampleu:`Figure 1B`:sample:`–`:sampleu:`1C`
+	| :sample:`Figure 1`
+	| :sample:`Figure 1A`
+	| :sample:`Figure 1B` :sample:`and` :sample:`1C` (note that there is no "s" at the end of "Figure" word)
+	| :sample:`Figure 1B`:sample:`,` :sample:`1C`
+	| :sample:`Figure 1B`:sample:`–`:sample:`1C`
 
 
 	- Check that figure has at least 1 callout in the text.
