@@ -2,6 +2,8 @@
 
 .. role:: sample
 
+.. role:: sampleb
+
 .. role:: samplei
 
 .. role:: sampleu
@@ -528,7 +530,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	.. image:: /_static/editor_figure_callouts_in_text.png
    	  	:alt: Figure number
-   	  	:scale: 99%
+   	  	:scale: 60%
     |
 	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
@@ -537,7 +539,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	.. image:: /_static/editor_figure_callout.png
    	  	:alt: Figure number
-   	  	:scale: 99%
+   	  	:scale: 60%
 
 	| `Examples of callout combinations:`
 	| :sampleu:`Figure 1`

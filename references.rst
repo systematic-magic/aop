@@ -244,7 +244,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 		:alt: Page numbers
 		:scale: 60%
 
-	- DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
+	- If DOI is present, then it should not contain spaces. There are 2 allowed formats of doi:
 
 		| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
 		| doi: ... (e.g. doi: 10.1177/1947601910396213.)
