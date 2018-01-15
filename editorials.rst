@@ -239,6 +239,15 @@ If you see that author name does not comply to these standards, please contact c
 8. References
 -------------
 
+Please note that references in Editorials/News do not have article title component.
+
+Reference consists of the following elements:
+
+	:sample:`Auhtor list. Journal Name. year; volume: pages. doi`
+
+Each of the elements will be covered below.
+
+
 8.1. Author List
 ================
 
