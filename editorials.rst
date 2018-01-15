@@ -570,7 +570,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentence as a table title.
 
-	| :sampleb:`Table 2: Table title in a sentence case.`
+	| :sampleb:`Table 2: Table title in a sentence case`
 
 	- Check that title does not have period (.) at the end.
 
@@ -589,7 +589,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 12.4. Check that table font, title font and notes (additional information) fonts are used consistently within the article (i.e. font should not vary from table to table).
 
 
-12.6. Check the format of table callouts in the text:
+12.5. Check the format of table callouts in the text:
 
 	| :sample:`Table 1`
 
