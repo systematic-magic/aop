@@ -243,7 +243,7 @@ Please note that references in Editorials/News do not have article title compone
 
 Reference consists of the following elements:
 
-	:sample:`Auhtor list. Journal Name. year; volume: pages. doi`
+	:sample:`Auhtor list. Citation Data. (i.e. Journal Name. year; volume: pages. doi)`
 
 Each of the elements will be covered below.
 
