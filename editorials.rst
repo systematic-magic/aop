@@ -436,9 +436,9 @@ There can be just one figure in the Editorial/News paper. If you see more than 2
 
 If image is hard to read, please contact Production team and ask to provide more clear images. If Production team does not have better images, then contact corresponding author.
 
-11.2. Check whether figure has :ref:`panel letters<figure_pannel>`. Both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they should be used consistently: either all figure panels have lower case letters or all have upper case letters. Mix of formats is not allowed.
+10.2. Check whether figure has :ref:`panel letters<figure_pannel>`. Both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they should be used consistently: either all figure panels have lower case letters or all have upper case letters. Mix of formats is not allowed.
 
-11.3. Check the figure description text (figure legend):
+10.3. Check the figure description text (figure legend):
 
 	- Check that figure legend has a figure number:
 
@@ -516,17 +516,17 @@ If image is hard to read, please contact Production team and ask to provide more
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 
-11.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
+10.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
 
 At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
 
 If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to re-number the figures to eliminate the gaps.
 
-11.5. Check figure callouts in the text:
+10.5. Check figure callouts in the text:
 
 	- Check the format of figure callouts:
 
-	| :sampleu:`Figure 1`
+	| :sample:`Figure 1`
 
 	.. image:: /_static/editor_figure_callouts_in_text.png
    	  	:alt: Figure number
@@ -550,11 +550,8 @@ If you see that there are gaps in number sequence, then check with corresponding
 	| :sample:`Figure 1B`:sample:`–`:sample:`1C`
 
 
-	- Check that figure has at least 1 callout in the text.
-
-	If callouts are missing in the text, please contact author.
+	- Check that figure has at least 1 callout in the text. If callouts are missing in the text, please contact author.
 
 
-
-
-----------------------
+11. Tables
+-----------
