@@ -570,14 +570,14 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	| :sampleb:`Table 2: Table title in a sentence case.`
 
-	.. image:: /_static/html_table_title.png
-   	  	:alt: Table title
-   	  	:scale: 99%
-
 	- Check that title does not have period (.) at the end.
 
 	- Check that title is written in :ref:`sentence case<sentence_case>`, formatted in bold and coloured in black.
 
+	.. image:: /_static/html_table_title.png
+   	  	:alt: Table title
+   	  	:scale: 99%
+   	|
 12.3. Check that table-related additional information is presented below the table as a note in :ref:`plain text<plain_text>`.
 
 .. image:: /_static/html_table_notes.png
@@ -587,16 +587,14 @@ If table is hard to read, please contact Production team and ask to increase fon
 12.4. Check that table font, title font and notes (additional information) fonts are used consistently within the article (i.e. font should not vary from table to table).
 
 
-12.6. Check table callouts in the text:
-
-	- Check the format of table callouts:
+12.6. Check the format of table callouts in the text:
 
 	| :sample:`Table 1`
 
 
-	.. image:: /_static/html_table_callouts.png
+	.. image:: /_static/editor_table_callouts_in_text.png
 		:alt: Table callouts
-		:scale: 99%
+		:scale: 50%
 	|
 
 	- Check that table has at least 1 callout in the text. If callouts are missing in the text, please contact author.
