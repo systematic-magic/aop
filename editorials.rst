@@ -595,6 +595,5 @@ If table is hard to read, please contact Production team and ask to increase fon
 	.. image:: /_static/editor_table_callouts_in_text.png
 		:alt: Table callouts
 		:scale: 50%
-	|
 
 	- Check that table has at least 1 callout in the text. If callouts are missing in the text, please contact author.
