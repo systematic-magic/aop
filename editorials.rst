@@ -322,8 +322,8 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	+ DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
 
-		| :sample:`https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)`
-		| :sample:`doi: ... (e.g. doi: 10.1177/1947601910396213.)`
+	| :sample:`https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)`
+	| :sample:`doi: ... (e.g. doi: 10.1177/1947601910396213.)`
 
 	+ DOI can be followed by period (but this is not mandatory).
 
@@ -391,8 +391,8 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	- DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
 
-		| :sample:`https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)`
-		| :sample:`doi: ... (e.g. doi: 10.1177/1947601910396213.)`
+	| :sample:`https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)`
+	| :sample:`doi: ... (e.g. doi: 10.1177/1947601910396213.)`
 
 	- DOI can be followed by period (but this is not mandatory).
 	
