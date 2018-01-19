@@ -85,7 +85,7 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that "Title of reference article" is followed by "by" and "first author Last Name of reference article". If there are more then 1 author in reference article, than first author Last Name should be followed by "et al."
 
-	- Check that first author (or first auhtor, et al.) is followed by "Oncotarget."
+	- Check that first author (or first auhtor et al.) is followed by "Oncotarget."
 
 	- Check that "Oncotarget." is followed by "YEAR" (4 digits, e.g. "2017").
 
@@ -124,7 +124,7 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check USA states. Both full names and abbriviations (two capital letters) are allowed.
 	  
-	- Check that there are no Zip codes in affiliation text.
+	- Check zip codes. Zip codes are optional element of affiliation texts. In rare cases when there are several affiliations, if one of affiliation texts does not have zip code, then remove zip code from all texts.
 
 	- Check that only commas are used to separate parts of affiliation text. In rare cases there can be several affiliations for the author. In this case those affiliations should be separated by semicolon (;).
 
@@ -247,6 +247,10 @@ Reference consists of the following elements:
 
 Each of the elements will be covered below.
 
+.. Note::
+
+	Maximum allowed number of references is 10. Please check all deviations with Production team.
+
 
 8.1. Author List
 ================
@@ -318,20 +322,14 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	+ DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
 
-		| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
-		| doi: ... (e.g. doi: 10.1177/1947601910396213.)
-
-	+ DOI shoud should be hyperlinked (or just underlined) if in https://doi.org/ format.
+		| :sample:`https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)`
+		| :sample:`doi: ... (e.g. doi: 10.1177/1947601910396213.)`
 
 	+ DOI can be followed by period (but this is not mandatory).
 
 	If doi is missing, then you should chose doi format for corrections based on the format of other doi present in the article. I.e. the format of doi should be consistent across all the references in the article.
 
 	.. image:: /_static/editor_citation_data.png
-		:alt: Citation Data
-		:scale: 60%
-
-	.. image:: /_static/editor_citation_data2.png
 		:alt: Citation Data
 		:scale: 60%
 
@@ -393,10 +391,8 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	- DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
 
-		| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
-		| doi: ... (e.g. doi: 10.1177/1947601910396213.)
-
-	- DOI should should be hyperlinked if in https://doi.org/ format.
+		| :sample:`https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)`
+		| :sample:`doi: ... (e.g. doi: 10.1177/1947601910396213.)`
 
 	- DOI can be followed by period (but this is not mandatory).
 	
@@ -432,13 +428,13 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 9.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
 
-9.3. Check that there are no "orphaned" callouts (i.e. callout numbers for the references which do not exist). E.g. if you see callout [50] and there are only 40 references in the article, then callout [50] is "orphaned" and should be removed.
+9.3. Check that there are no "orphaned" callouts (i.e. callout numbers for the references which do not exist). E.g. if you see callout [8] and there are only 7 references in the article, then callout [8] is "orphaned" and should be removed.
 
 
-10. Figures
+10. Figure
 -----------
 
-There can be just one figure in the Editorial/News paper. If you see more than 2 figures, please check with Priduction Team.
+There can be just one figure in the Editorial/News paper.
 
 
 10.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
