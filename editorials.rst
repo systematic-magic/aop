@@ -396,7 +396,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	- DOI can be followed by period (but this is not mandatory).
 	
-	.. image:: /_static/html_cdo_doi.png
+	.. image:: /_static/editor_cdo_doi.png
 		:alt: DOI
 		:scale: 60%
 
@@ -464,9 +464,9 @@ If image is hard to read, please contact Production team and ask to provide more
 	`Exclusion:` if first sentence contains :ref:`pannel letters<figure_pannel>`, then it should be formatted in plain text.
 
 	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentance and rest of text.`
+Screenshot at Jan 20 12-53-31
 
-
-	.. image:: /_static/html_figure_number_exception.png
+	.. image:: /_static/editor_number_exception.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
@@ -481,13 +481,13 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	| :sampleb:`A.` :sample:`and` :sampleb:`B.`
 
-	.. image:: /_static/html_fig_reference_anb.png
+	.. image:: /_static/edit_reference_anb.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
 	| :sampleb:`A.`:sample:`,` :sampleb:`B.`
 
-	.. image:: /_static/html_fig_reference_acomb.png
+	.. image:: /_static/editor_fig_reference_acomb.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
@@ -499,24 +499,23 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	| :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
 
-	.. image:: /_static/html_fig_reference_br_anb.png
+	.. image:: /_static/editor_fig_reference_br_anb.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
 	| :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
 
-	.. image:: /_static/html_fig_reference_br_acomb.png
+	.. image:: /_static/editor_fig_reference_br_acomb.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
 	| :sample:`(`:sampleb:`A-C`:sample:`)`
 
-	.. image:: /_static/html_fig_reference_br_a-c.png
+	.. image:: /_static/editor_fig_reference_br_a-c.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	| Same variations are allowed for lower case panel letters.
-
+	Same variations are allowed for lower case panel letters.
 
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
@@ -575,7 +574,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentence as a table title.
 
-	| :sampleb:`Table 2: Table title in a sentence case`
+	| :sampleb:`Table 1: Table title in a sentence case`
 
 	- Check that title does not have period (.) at the end.
 
