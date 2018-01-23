@@ -115,7 +115,7 @@ If you see that author name does not comply to these standards, please contact c
 	
 	- Check that "Oncotarget." is followed by Year (4 digits, e.g. "2017"). Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
 
-	- Check that Year is followed by Month. Month should be written in abbreviated form in accordance with journal style.
+	- Check that Year is followed by Month. Month should be written in abbreviated form in accordance with :ref:`journal style<news_month_abbreviation>`.
 
 	- Check that Month is followed by Day (2 digits).  Note that sigle Day digits should be preceeded by 0 (zero). Day should be followed by period (.). There should be a space after period.
 
