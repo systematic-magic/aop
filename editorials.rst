@@ -79,7 +79,11 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that reference line contains the following elements:
 
-	:samplebi:`News on:` :samplei:`<Title of the reference article> by <first author Last Name of reference article> et al. Oncotarget. YEAR. DOI`    
+	:samplebi:`News on:` :samplei:`<Title of the reference article> by <first author Last Name of reference article> et al. Oncotarget. Year; Vol: Pages. DOI`
+
+	**OR in case of Ahead of print articles:**
+
+	:samplebi:`News on:` :samplei:`<Title of the reference article> by <first author Last Name of reference article> et al. Oncotarget. Year Month Day. DOI [Epub ahead of print]`
 
 	- Check that "News on:" is formatted in bold italics and colored in black.
 
@@ -87,14 +91,48 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that first author (or first auhtor et al.) is followed by "Oncotarget."
 
-	- Check that "Oncotarget." is followed by "YEAR" (4 digits, e.g. "2017").
+3.2.1. "Regular" articles:
 
-	- Check that "YEAR" is followed by "DOI". DOI can be followed by dot (.), but this is not mandatory.
+	- Check that "Oncotarget." is followed by Year (4 digits, e.g. "2017"). Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
+
+	- Check that year is followed by Volume. Volume should be one or more digits and should be followed by colon (:). There can be a space after colon (but this is not mandatory).
+
+	- Check that Volume is followed by Page numbers. Page numbers can be in either in short (12063-74) of full (12063-12074) format and should be followed by period (.). There should be a space after period.
+
+	- DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
+
+		| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
+		| doi: ... (e.g. doi: 10.1177/1947601910396213.)
 
 
-.. image:: /_static/editor_news_reference.png
-   :alt: Author list separators
-   :scale: 60%
+	- DOI can be followed by period (but this is not mandatory).
+
+	.. image:: /_static/editor_news_reference.png
+	   :alt: Author list separators
+	   :scale: 60%
+
+3.2.2. Ahead of print articles:
+	
+	- Check that "Oncotarget." is followed by Year (4 digits, e.g. "2017"). Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
+
+	- Check that Year is followed by Month. Month should be written in abbreviated form in accordance with journal style.
+
+	- Check that Month is followed by Day (2 digits).  Note that sigle Day digits should be preceeded by 0 (zero). Day should be followed by period (.). There should be a space after period.
+
+	- DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
+
+		| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
+		| doi: ... (e.g. doi: 10.1177/1947601910396213.)
+
+
+	- DOI should be followed by period (.) and space.
+
+	- [Epub ahead of print] should follow doi. There can be a period after [Epub ahead of print] (but it is not mandatory).
+
+
+	.. image:: /_static/editor_news_reference_aop.png
+	   :alt: Author list separators
+	   :scale: 60%
 
 
 4. Affiliation text
