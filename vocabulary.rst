@@ -77,20 +77,33 @@ Month abbreviation style (News papers)
 	The following abbreviations are allowed for News (Reference to article section).
 	Note that there is no period after abbreviation.
 
-	January 	- Jan
-	February 	- Feb 
-	March 		- Mar
-	April 		- Apr
-	May 		- May 
-	June		- June
-	July		- July
-	August		- Aug
-	September 	- Sept
-	October		- Oct 
-	November	- Nov
-	December 	- Dec
-
-
+	+-----------------------------+--------------+ 
+	| Month                       | Abbreviation | 
+	+=============================+==============+ 
+	| January                     | Jan          | 
+	+-----------------------------+--------------+ 
+	| February                    | Feb          | 
+	+-----------------------------+--------------+ 
+	| March                       | Mar          | 
+	+-----------------------------+--------------+ 
+	| April                       | Apr          | 
+	+-----------------------------+--------------+ 
+	| May  	                      | May          | 
+	+-----------------------------+--------------+ 
+	| June	                      | June         | 
+	+-----------------------------+--------------+
+    | July                        | July         | 
+    +-----------------------------+--------------+ 
+    | August                      | Aug          | 
+    +-----------------------------+--------------+ 
+    | September                   | Sept         | 
+    +-----------------------------+--------------+ 
+    | October                     | Oct          | 
+    +-----------------------------+--------------+ 
+    | November                    | Nov          | 
+    +-----------------------------+--------------+
+    | December                    | Dec          | 
+    +-----------------------------+--------------+
 
 .. _correct_case_check:
 
