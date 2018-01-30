@@ -19,7 +19,7 @@
 2. Text
 -------
 
-2.1. Check that font face and size is used consistently though the supplementary file(s).
+2.1. Check that font face and size is used consistently through the supplementary file(s).
 
 2.2. Check that there are no blank pages (i.e. all the pages have content)
 

@@ -22,7 +22,7 @@ For other Latin terms and gene names either italics or :ref:`plain text<plain_te
 2. Author List
 --------------
 
-2.1. Check that all author names in author list are separated by commas (,). Last two author names in the list can be separated by "and" instead of comma (,). No other separators allowed.
+2.1. Check that all author names in author list are separated by commas (,). Last two author names in the list can be separated by "and" instead of a comma (,). No other separators allowed.
 
 2.2. Check that there is no period (or any other punctuation mark) after the last author name.
 
@@ -78,14 +78,14 @@ If there is only one affiliation text for all authors, then each author name sho
 
 .. Note::
 	
-	Occassionally you can see a symbol (\*, #, \**, \*** etc) next to the author name together with affiliation number. This sybol is related to Author Notes. |br|
+	Occassionally you can see a symbol (\*, #, \**, \*** etc) next to the author name together with affiliation number. This symbol is related to Author Notes. |br|
 	:ref:`Author Notes checks<author_notes>` can be found below.
 
 
 3. Affiliation text
 -------------------
 
-3.1. Check that each affiliation text contains separate text number. If you see an affiliation text containing more than one country, then it is a good indication that you see several affilation texts groupped together. This should be corrected. As a rule of thumb: one affiliation text should have one number.
+3.1. Check that each affiliation text contains separate text number. If you see an affiliation text containing more than one country, then it is a good indication that you see several affiliation texts grouped together. This should be corrected. As a rule of thumb: one affiliation text should have one number.
 
 .. image:: /_static/html_2_texts_1_number.png
    :alt: One affiliation for all authors
@@ -104,7 +104,7 @@ In case you find several affiliation texts for one text number, please contact c
 3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
 
 	- Check that affiliation text contains at least department/division/lab/school and institution.
-	| Note that there can be affiliations for non-academic institutions (such as companies). In such cases, "institution" part of affilation text should contain just a company name.
+	| Note that there can be affiliations for non-academic institutions (such as companies). In such cases, "institution" part of affiliation text should contain just a company name.
 	
 	.. image:: /_static/html_aff_text_non_academ.png
 		:alt: Affiliation Text Non-Academic
@@ -116,7 +116,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 	- Check that country and city names are NOT written in all CAPS (capital letters).
 
-	- Check USA states. Both full names and abbriviations (two capital letters) are allowed. However, they should be used consistently: either all affiliation texts have all states abbreviated or all states are spelled out. 
+	- Check USA states. Both full names and abbreviations (two capital letters) are allowed. However, they should be used consistently: either all affiliation texts have all states abbreviated or all states are spelled out. 
 
 	.. image:: /_static/html_usa_state_name.png
 	   :alt: Affiliation Numbers
@@ -126,7 +126,7 @@ In case you find several affiliation texts for one text number, please contact c
 
 	If one or more affiliation texts does not have zip code, then remove zip code from all texts. 
 
-	- Check that only commas are used to separate parts of affiliation text. No other sepator is allowed. Zip code can be separated from state or city name by space (however it should be used consistently: either space used for zip codes in all affiliations or in none).
+	- Check that only commas are used to separate parts of affiliation text. No other separator is allowed. Zip code can be separated from state or city name by space (however it should be used consistently: either space used for zip codes in all affiliations or in none).
 
 	.. image:: /_static/html_aff_text_structure.png
 	   :alt: Affiliation text structure
@@ -135,13 +135,13 @@ In case you find several affiliation texts for one text number, please contact c
 	   :alt: Affiliation text structure
 
 
-3.5. Check for words "Current address:" or "Present address:" at the begining of affiliation text. Only these 2 options are allowed (alternatives like "Curent/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
+3.5. Check for words "Current address:" or "Present address:" at the beginning of affiliation text. Only these 2 options are allowed (alternatives like "Current/Present address:" are not allowed). "Address" should be followed by colon (:). Affiliation text containing "Current address:" or "Present address:" should have affiliation text number (not symbol).
 
 .. image:: /_static/html_current_address.png
 	:alt: Affiliation text structure
 
 
-3.6. Check that there are no punctuation marks at the end of abbreviations line(s).
+3.6. Check that there are no punctuation marks at the end of affiliation line(s).
 
 .. _author_notes:
 
@@ -157,7 +157,7 @@ If there are several author notes, then each note should have **different** symb
 
 4.3. Check that there are no punctuation marks at the end of author notes line.
 
-4.4. Check that author notes symbols are formatted in supprscript and colored in red.
+4.4. Check that author notes symbols are formatted in superscript and colored in red.
 
 4.5. Check that author notes symbol is present next to author name(s).
 
@@ -173,7 +173,7 @@ If there are several author notes, then each note should have **different** symb
 
 5.2. Check the format of correspondence line. There can be one of few correspondence lines this section.
 
-	- Check that name of author in corresspondence line(s) fully matches name in author list (it should be exact match, i.e. middle name initials should also match, if present).
+	- Check that name of author in correspondence line(s) fully matches name in author list (it should be exact match, i.e. middle name initials should also match, if present).
 
 	- Check that author name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
@@ -181,12 +181,12 @@ If there are several author notes, then each note should have **different** symb
 
 	|	:sample:`Author Name, email:` :und:`email@address.com`
 
-	- Check that there are no comma (,) or "or" or other separators between several corresondence lines:
+	- Check that there are no commas (,) or "or" or other separators between several correspondence lines:
 
 	|	:sample:`Author Name One, email:` :und:`emailone@address.com` 
 	|	:sample:`Author Name Two, email:` :und:`emailtwo@address.com`
 
-	- Check that email addresses are separated by comma, if one author has few email addresses:
+	- Check that email addresses are separated by a comma, if one author has few email addresses:
 
 	|	:sample:`Author Name, email:` :und:`emailone@address.com`, :und:`emailtwo@address.com`
 
@@ -201,7 +201,7 @@ If there are several author notes, then each note should have **different** symb
 	
 	- Check that keywords are written in lower case, unless proper nouns. Check that capitalisation of scientific terms is correct. We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
 
-	- Check that keywords are separated either by comma (,) or semicolon (;). However use of separators should be consistent: either all keywords are separated by comma or by semicolon. Separators cannot be mixed.
+	- Check that keywords are separated either by commas (,) or semicolons (;). However use of separators should be consistent: either all keywords are separated by a comma or by a semicolon. Separators cannot be mixed.
 
 	
 	.. image:: /_static/html_keywords.png
@@ -259,9 +259,9 @@ Abbreviations are optional.
 
 	- Check that abbreviation part is written in all CAPS and expanded part is in lower case letters (except for proper nouns).
 
-	- Check that abberviation part is separated from expanded part either by comma (,) or colon (:). No other separators allowed.
+	- Check that abbreviation part is separated from expanded part either by a comma (,) or a colon (:). No other separators allowed.
 
-	- Check that abbreviation pairs (i.e. abbreviation and corresponding expanded text) are separated from each other by semicolon (;). No other separators allowed.
+	- Check that abbreviation pairs (i.e. abbreviation and corresponding expanded text) are separated from each other by semicolons (;). No other separators allowed.
 
 	- Check that there are no punctuation marks at the end of abbreviations line.
 
@@ -285,7 +285,7 @@ Abbreviations are optional.
 
 		:sample:`Month Day, Year`
 
-	- Check that Month is spelled out, and Day and Year are presented as digits. Note that sigle Day digits should be preceeded by 0 (zero).
+	- Check that Month is spelled out, and Day and Year are presented as digits. Note that single Day digits should be preceded by 0 (zero).
 
 	| 	`Example:`
 	|	June 02, 2017

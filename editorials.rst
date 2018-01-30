@@ -87,9 +87,9 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that "News on:" is formatted in bold italics and colored in black.
 
-	- Check that "Title of reference article" is followed by "by" and "first author Last Name of reference article". If there are more then 1 author in reference article, than first author Last Name should be followed by "et al."
+	- Check that "Title of reference article" is followed by "by" and "first author Last Name of reference article". If there is more then 1 author in reference article, than first author Last Name should be followed by "et al."
 
-	- Check that first author (or first auhtor et al.) is followed by "Oncotarget."
+	- Check that first author (or first author et al.) is followed by "Oncotarget."
 
 3.2.1. "Regular" articles:
 
@@ -117,7 +117,7 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that Year is followed by Month. Month should be written in abbreviated form in accordance with :ref:`journal style<news_month_abbreviation>`.
 
-	- Check that Month is followed by Day (2 digits).  Note that sigle Day digits should be preceeded by 0 (zero). Day should be followed by period (.). There should be a space after period.
+	- Check that Month is followed by Day (2 digits).  Note that single Day digits should be preceded by 0 (zero). Day should be followed by period (.). There should be a space after period.
 
 	- DOI should be present and it should not contain spaces. There are 2 allowed formats of doi:
 
@@ -152,7 +152,7 @@ If you see that author name does not comply to these standards, please contact c
 4.2. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
 
 	- Check that affiliation text contains at least department/division/lab/school and institution.
-	| Note that there can be affiliations for non-academic institutions (such as companies). In such cases, "institution" part of affilation text should contain just a company name.
+	| Note that there can be affiliations for non-academic institutions (such as companies). In such cases, "institution" part of affiliation text should contain just a company name.
 	
 	- Check that NO street addresses and house numbers are included in affiliation texts.
 
@@ -160,7 +160,7 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that country and city names are NOT written in all CAPS (capital letters).
 
-	- Check USA states. Both full names and abbriviations (two capital letters) are allowed.
+	- Check USA states. Both full names and abbreviations (two capital letters) are allowed.
 	  
 	- Check zip codes. Zip codes are optional element of affiliation texts. In rare cases when there are several affiliations, if one of affiliation texts does not have zip code, then remove zip code from all texts.
 
@@ -181,7 +181,7 @@ If you see that author name does not comply to these standards, please contact c
 	   :scale: 60%	
 
 
-5.2. Check that name of author in corresspondence line fully matches name in author list (it should be exact match, i.e. middle name initials should also match, if present).
+5.2. Check that name of author in correspondence line fully matches name in author list (it should be exact match, i.e. middle name initials should also match, if present).
 
 5.3. In rare cases when there are several corresponding authors, there can be several correspondence lines.
 
@@ -254,7 +254,7 @@ If you see that author name does not comply to these standards, please contact c
 	| :samplebi:`Published:` :samplei:`Month Day, Year`
 	
 
-	- Check that Month is spelled out, and Day and Year are presented as digits. Note that sigle Day digits should be preceeded by 0 (zero).
+	- Check that Month is spelled out, and Day and Year are presented as digits. Note that single Day digits should be preceded by 0 (zero).
 
 	| 	`Example:`
 	|	June 02, 2017
@@ -270,7 +270,7 @@ If you see that author name does not comply to these standards, please contact c
    		:alt: Dates format
    		:scale: 60%
 
- 	- Check that Received date is older than Pubslished date (i.e. we cannot publish before we recieve).
+ 	- Check that Received date is older than Published date (i.e. we cannot publish before we receive).
 
 
 
@@ -281,7 +281,7 @@ Please note that references in Editorials/News do not have article title compone
 
 Reference consists of the following elements:
 
-	:sample:`Auhtor list. Citation Data. (i.e. Journal Name. year; volume: pages. doi)`
+	:sample:`Author list. Citation Data. (i.e. Journal Name. year; volume: pages. doi)`
 
 Each of the elements will be covered below.
 
@@ -409,7 +409,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 		:alt: Journal title
 		:scale: 60%
 
-	- Year shoudl be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
+	- Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
 
 	.. image:: /_static/html_cdo_year.png
 		:alt: Year
@@ -592,7 +592,7 @@ Screenshot at Jan 20 12-53-31
 11. Tables
 ----------
 
-There can be just one table in the Editorial/News paper. If you see more than 2 tables, please check with Priduction Team.
+There can be just one table in the Editorial/News paper. If you see more than 2 tables, please check with Production Team.
 
 12.1.  Check that table font size is large enough to read.
 
@@ -600,7 +600,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 12.2. Check table title:
 
-	- Check that there is a tite above the table.
+	- Check that there is a title above the table.
 
 	- Check that title has table number:
 

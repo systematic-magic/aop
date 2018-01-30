@@ -40,15 +40,15 @@ If image is hard to read, please contact Production team and ask to provide more
 
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and coloured in black. The rest of the text should be in plain text.
 
-	|	:sampleb:`Figure 1: First sentence of legend text in sentence case.` :sample:`Second sentance and rest of text.`
+	|	:sampleb:`Figure 1: First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
 	
 	.. image:: /_static/html_figure_number.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	`Exclusion:` if first sentence contains :ref:`pannel letters<figure_pannel>`, then it should be formatted in plain text.
+	`Exclusion:` if first sentence contains :ref:`panel letters<figure_pannel>`, then it should be formatted in plain text.
 
-	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentance and rest of text.`
+	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentence and rest of text.`
 
 
 	.. image:: /_static/html_figure_number_exception.png
@@ -182,7 +182,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 12.2. Check table title:
 
-	- Check that there is a tite above the table.
+	- Check that there is a title above the table.
 
 	- Check that title has table number:
 
@@ -231,8 +231,8 @@ If you see that there are gaps in number sequence, then check with corresponding
 	| `Examples:`
 	| :sampleu:`Table 1`
 	| :sampleu:`Table 2A`
-	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2` (note that there is "s" at the end of "Table" word)
-	| :sampleu:`Tables 3A` :sample:`and` :sampleu:`3B` (where 3A adn 3B are separate tables)
+	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2` (note that there is an "s" at the end of "Table" word)
+	| :sampleu:`Tables 3A` :sample:`and` :sampleu:`3B` (where 3A and 3B are separate tables)
 
 	.. image:: /_static/html_table_callouts.png
 		:alt: Table callouts
@@ -269,9 +269,9 @@ If you see that there are gaps in number sequence, then check with corresponding
 		:alt: Table callouts
 		:scale: 99%
 	|
-	- Check that only comma (,) and :ref:`en dash<en_dash>` (-) are used as a separators. No other separators are allowed. 
+	- Check that only comma (,) and :ref:`en dash<en_dash>` (–) are used as a separators. No other separators are allowed. 
 
-	- Check that there is a space after comma (,) and no space before and after en dash (-).
+	- Check that there is a space after comma (,) and no space before and after en dash (–).
 
 	- Check that reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked.
 

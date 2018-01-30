@@ -144,7 +144,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 		| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
 		| doi: ... (e.g. doi: 10.1177/1947601910396213.)
 
-	+ DOI shoud should be hyperlinked if in https://doi.org/ format.
+	+ DOI  should be hyperlinked if in https://doi.org/ format.
 
 	+ DOI can be followed by period (but this is not mandatory).
 
@@ -218,7 +218,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 		:scale: 99%
 
 
-	- Journal tile should be in a :ref:`title case<title_case>`.
+	- Journal title should be in a :ref:`title case<title_case>`.
 
 	- Journal title should be followed by period (.). There should be a space after period.
 
@@ -226,7 +226,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 		:alt: Journal title
 		:scale: 60%
 
-	- Year shoudl be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
+	- Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
 
 	.. image:: /_static/html_cdo_year.png
 		:alt: Year
@@ -249,7 +249,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 		| https://doi.org/ ... (e.g. https://doi.org/10.18632/oncoscience.292.)
 		| doi: ... (e.g. doi: 10.1177/1947601910396213.)
 
-	- DOI should should be hyperlinked if in https://doi.org/ format.
+	- DOI should be hyperlinked if in https://doi.org/ format.
 
 	- DOI can be followed by period (but this is not mandatory).
 	

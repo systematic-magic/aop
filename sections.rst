@@ -31,7 +31,7 @@ If you see any deviations of section naming in articles, please contact authors 
 
 		:red:`DISCUSSION` - mandatory - [all caps, in red]
 
-		:red:`METHODS` - mandatory (alternatively can be :red:`MATERIALS AND METHORDS`, :red:`PATIENTS AND METHODS`, :red:`EXPERIMENTAL METHODS` - all other alternatives not allowed) - [all caps, in red]
+		:red:`METHODS` - mandatory (alternatively can be :red:`MATERIALS AND METHODS`, :red:`PATIENTS AND METHODS`, :red:`EXPERIMENTAL METHODS` - all other alternatives not allowed) - [all caps, in red]
 
 		:red:`CONCLUSIONS` - optional - [all caps, in red]
 
@@ -64,13 +64,13 @@ If you see any deviations of section naming in articles, please contact authors 
 
 		:red:`INTRODUCTION` - mandatory - [all caps, in red]
 
-			:red:`METHODS` - mandatory - either before :red:`RESULTS` section or after :red:`DISCUSSION` - alternatively can be :red:`MATERIALS AND METHORDS`, :red:`PATIENTS AND METHODS`, :red:`EXPERIMENTAL METHODS` - all other alternatives not allowed) - [all caps, in red]
+			:red:`METHODS` - mandatory - either before :red:`RESULTS` section or after :red:`DISCUSSION` - alternatively can be :red:`MATERIALS AND METHODS`, :red:`PATIENTS AND METHODS`, :red:`EXPERIMENTAL METHODS` - all other alternatives not allowed) - [all caps, in red]
 
 		:red:`RESULTS` - mandatory - [all caps, in red]
 
 		:red:`DISCUSSION` - mandatory - [all caps, in red]
 
-			:red:`METHODS` - mandatory - either before :red:`RESULTS` section or after :red:`DISCUSSION` - (alternatively can be :red:`MATERIALS AND METHORDS`, :red:`PATIENTS AND METHODS`, :red:`EXPERIMENTAL METHODS` - all other alternatives not allowed) - [all caps, in red]
+			:red:`METHODS` - mandatory - either before :red:`RESULTS` section or after :red:`DISCUSSION` - (alternatively can be :red:`MATERIALS AND METHODS`, :red:`PATIENTS AND METHODS`, :red:`EXPERIMENTAL METHODS` - all other alternatives not allowed) - [all caps, in red]
 
 		:red:`CONCLUSIONS` - optional - [all caps, in red]
 
@@ -245,10 +245,10 @@ If you see any deviations of section naming in articles, please contact authors 
 +---------------------------------+--------------+-----------------------------+
 | | DISCUSSION                    | Yes          | all caps, bold, in red      |
 +---------------------------------+--------------+-----------------------------+
-| | METHORDS                      | Yes          | all caps, bold, in red      |
+| | METHODS                      | Yes          | all caps, bold, in red      |
 | |                               |              |                             |
 | | alternatively:                |              |                             |
-| | MATERIALS AND METHORDS        |              |                             |
+| | MATERIALS AND METHODS        |              |                             |
 | | PATIENTS AND METHODS          |              |                             |
 | | EXPERIMENTAL METHODS          |              |                             |
 +---------------------------------+--------------+-----------------------------+
