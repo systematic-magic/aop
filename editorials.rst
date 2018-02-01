@@ -87,7 +87,7 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that "News on:" is formatted in bold italics and colored in black.
 
-	- Check that "Title of reference article" is followed by "by" and "first author Last Name of reference article". If there is more then 1 author in reference article, than first author Last Name should be followed by "et al."
+	- Check that "Title of reference article" is followed by "by" and "first author Last Name of reference article". If there are more then 3 authors in reference article, than first author Last Name should be followed by "et al." If article is written by 1 or 2 authors, then "et al." is **not** required.
 
 	- Check that first author (or first author et al.) is followed by "Oncotarget."
 
@@ -297,7 +297,9 @@ Each of the elements will be covered below.
 
 	:sample:`Lastname INIT, et al.` (where INIT is initials of the author, no more than 4 letters)
 
-	Note that "et al" is required only if referenced article has more than 1 author. If article was written by single author, then "et al" is not required.
+	Note that "et al" is required only if referenced article has more than 3 authors. |br|
+	If there are only 2 authors, then both names should be present in author list (i.e. First Author Last Name and Second Auhor Last Name) and "et al." is not required. |br|
+	If article was written by single author, then "et al" is not required. 
 
 
 	.. image:: /_static/editor_references.png
