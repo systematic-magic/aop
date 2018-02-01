@@ -104,8 +104,8 @@ In case you find several affiliation texts for one text number, please contact c
 3.4. Check the format of the affiliation text. Authors are free to provide affiliation texts having any elements (e.g. University, School, Department, Lab, Hospital, etc) in any sequence they like. However certain rules apply to affiliation texts:
 
 	- Check that affiliation text contains at least 2 sections:
-		1. Deparment and/or division and/or lab and/or school etc.
-		2. Institution
+	|	1. Deparment and/or division and/or lab and/or school etc.
+	|	2. Institution
 
 	| Note that there can be affiliations for non-academic institutions (such as companies). In such cases, "institution" part of affiliation text should contain just a company name.
 	
