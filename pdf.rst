@@ -29,6 +29,11 @@
    	`Gonzales Suares` on the screenshot above is a compound surname. Please make sure that full surname is listed in the Copyright statement, rather than just last bit.
 
 2.3. Check that there is  :sample:`et al.` after LastName.
+	
+	*Exception:*
+
+	If article is written by 1 or 2 authors (i.e. Auhtor list contains 1 or 2 authors), then :sample:`et al.` is **not** required.
+
 
 2.4. Check that copyright statement text exactly matches the following:
 
