@@ -95,7 +95,7 @@ If you see that author name does not comply to these standards, please contact c
 
 	- Check that "Oncotarget." is followed by Year (4 digits, e.g. "2017"). Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
 
-	- Check that year is followed by Volume. Volume should be one or more digits and should be followed by colon (:). There can be a space after colon (but this is not mandatory).
+	- Check that year is followed by Volume. Volume should be one or more digits and should be followed by colon (:). There can be a space after semicolon (not mandatory, but consistency should be maintained).
 
 	- Check that Volume is followed by Page numbers. Page numbers can be in either in short (12063-74) of full (12063-12074) format and should be followed by period (.). There should be a space after period.
 
@@ -113,7 +113,7 @@ If you see that author name does not comply to these standards, please contact c
 
 3.2.2. Ahead of print articles:
 	
-	- Check that "Oncotarget." is followed by Year (4 digits, e.g. "2017"). Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
+	- Check that "Oncotarget." is followed by Year (4 digits, e.g. "2017"). Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (not mandatory, but consistency should be maintained).
 
 	- Check that Year is followed by Month. Month should be written in abbreviated form in accordance with :ref:`journal style<news_month_abbreviation>`.
 
@@ -354,7 +354,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	+ Journal title should be followed by period (.). There should be a space after period.
 
-	+ Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (but this is not mandatory).
+	+ Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (not mandatory, but consistency should be maintained).
 
 	+ Volume should be one or more digits and should be followed by colon (:). There can be a space after colon (but this is not mandatory).
 

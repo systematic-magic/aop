@@ -7,9 +7,11 @@
 
 1.1. Check that Supplementary files contain article title.
 
-1.2. Check that there is a mandatory section header: ":red:`SUPPLEMENTARY MATERIALS`". No other options are allowed.
+1.2. Check that there is no Year in the the header slug of the PDF.
 
-1.3. Check that ":red:`SUPPLEMENTARY MATERIALS`" header is for formatted in all caps, bold and in red.
+1.3. Check that there is a mandatory section header: ":red:`SUPPLEMENTARY MATERIALS`". No other options are allowed.
+
+1.4. Check that ":red:`SUPPLEMENTARY MATERIALS`" header is for formatted in all caps, bold and in red.
 
 .. image:: /_static/suppl_title_header.png
    :alt: Title and header
