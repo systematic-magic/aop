@@ -300,12 +300,15 @@ Abbreviations are optional.
 
  	- Check that dates are written in italics.
 
+
+ .. note:: We no longer check Published date. It should be left blank. However, if you see date there, please ignore it.
+
+
  	.. image:: /_static/html_dates.png
    		:alt: Dates format
    		:scale: 45%
 
- 	- Check that Received date is older than Accepted date, and Accepted date is older than Published date (i.e. we cannot publish before we accept, and cannot accept before we receive).
-
+ 	- Check that Received date is older than Accepted date(i.e. we cannot publish before we accept).
 
 
 .. |br| raw:: html
