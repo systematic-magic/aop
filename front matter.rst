@@ -307,6 +307,7 @@ Abbreviations are optional.
 	:alt: Dates format
 	:scale: 45%
 |
+ 	
  	- Check that Received date is older than Accepted date, and Accepted date is older than Published date (i.e. we cannot publish before we accept, and cannot accept before we receive).
 
 
