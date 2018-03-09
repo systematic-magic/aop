@@ -302,7 +302,7 @@ Abbreviations are optional.
 
 
 
-.. image:: /_static/html_dates.png
+.. image:: /_static/html_abbreviations.png
 	:alt: Dates format
 	:scale: 45%
 
