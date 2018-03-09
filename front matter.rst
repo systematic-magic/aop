@@ -302,11 +302,11 @@ Abbreviations are optional.
 
 	.. note:: Published date is intentionally left blank. If you see Published date populated - ignore it. Do not request to correct or delete it. 
 
-|
-.. image:: /_static/html_dates.png
-	:alt: Dates format
-	:scale: 45%
-|
+	|
+	.. image:: /_static/html_dates.png
+		:alt: Dates format
+		:scale: 45%
+	|
  	
  	- Check that Received date is older than Accepted date, and Accepted date is older than Published date (i.e. we cannot publish before we accept, and cannot accept before we receive).
 
