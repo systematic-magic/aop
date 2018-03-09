@@ -301,7 +301,8 @@ Abbreviations are optional.
  	- Check that dates are written in italics.
 
 
- .. note:: We no longer check Published date. It should be left blank. However, if you see date there, please ignore it.
+ .. note:: 
+ 	We no longer check Published date. It should be left blank. However, if you see date there, please ignore it.
 
 
  	.. image:: /_static/html_dates.png
