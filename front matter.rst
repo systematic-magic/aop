@@ -300,9 +300,9 @@ Abbreviations are optional.
 
  	- Check that dates are written in italics.
 
+ 	
 
-
-.. image:: /_static/html_dates.png
+ .. image:: /_static/html_dates.png
 	:alt: Dates format
 	:scale: 45%
 
