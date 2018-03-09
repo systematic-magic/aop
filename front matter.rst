@@ -300,6 +300,8 @@ Abbreviations are optional.
 
  	- Check that dates are written in italics.
 
+.. note:: Published date is intentionally left blank. If you see Published date populated - ignore it. Do not request to correct or delete it. 
+
  	.. image:: /_static/html_dates.png
    		:alt: Dates format
    		:scale: 45%
