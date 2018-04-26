@@ -36,10 +36,17 @@ For other Latin terms and gene names either italics or :ref:`plain text<plain_te
 Allowed formats:
 
 	+  :sample:`FirstName LastName`
+	+  :sample:`FirstName MiddleName LastName`
+	+  :sample:`FirstName MiddleName MiddleName LastName` (there can any number of middle names)
 	+  :sample:`FirstName MN. LastName` (MN. are initials of middle names; up to 4 letters)
 	+  :sample:`FirstName M.N. LastName` (M.N. are initials of middle names; up to 4 letters)
 	+  :sample:`F. MiddleName LastName` (F. is an initial of first name)
 	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
+
+.. Important::
+	As a general rule, we don't want to keep initials for first names. Request the expanded name from the author in this situation. If the authors insist on a first initial, then the middle name(s) must be present and fully expanded. |br|
+	LastName **cannot** be presented as initial (even if authors insist on this). LastName should always be presented in full.
+
 
 Please note that last names can be compound, can have prepositions, suffixes, prefixes or be :ref:`mononyms<mononym>`. For example:
 
@@ -48,12 +55,6 @@ Please note that last names can be compound, can have prepositions, suffixes, pr
 	- Suffixes: :sample:`Williams 3rd, Rowland Jr`
 	- Prefixes: :sample:`McCann, O'Kelly`
 	- Mononym: :sample:`Govindjee`
-
-
-.. Important::
-	
-	LastName **cannot** be presented as initial (even if authors insist on this). LastName should always be presented in full.
-
 
 If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
 
