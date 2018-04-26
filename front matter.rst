@@ -44,7 +44,7 @@ Allowed formats:
 	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
 
 .. Important::
-	As a general rule, we don't want to keep initials for first names. Request the expanded name from the author in this situation. If the authors insist on a first initial, then the middle name(s) must be present and fully expanded. |br|
+	As a general rule, we don't want to keep initials for first names. Request the expanded name from the author in this situation. If the authors insist on a first initial, then the middle name(s) must be present and fully expanded. |br| |br|
 	LastName **cannot** be presented as initial (even if authors insist on this). LastName should always be presented in full.
 
 
